@@ -137,74 +137,67 @@ https://cloudflare.streamgato.us:3352/live/ghtelevisionhdlive.m3u8
 http://tv.romanatv42.com/hls/live.m3u8
 
 #EXTINF:-1 tvg-id="116087" tvg-name="Cine Club" tvg-logo="https://lh3.googleusercontent.com/-s0IKUMAsHJo/X7qWRlxQFoI/AAAAAAAA7kQ/P07ldtCVVOEh-KVOaz8uhVr20VjdDHs0wCK8BGAsYHg/s0/2020-11-22.png" group-title="MOVIES", Cine Club
-#commenthttps://Stmv1.zcastbr.com/cineclubtv/cineclubtv/playlist.m3u8
-#commenthttps://Stmv.panel.mivideo.pro/cineclubtv/cineclubtv/playlist.m3u8
-#commenthttp://stmv.panel.grupolimalive.com/cineperu/cineperu/playlist.m3u8
-#commenthttps://srv3.zcast.com.br/juancarlos9451/juancarlos9451/playlist.m3u8
-#commenthttps://stmv.panel.grupolimalive.com/cinperu/cinperu/playlist.m3u8
 https://servilive.com:3176/live/cineclublive.m3u8
 
-EXTINF:-1 group-title="MOVIES", Sol TV
+#EXTINF:-1 group-title="MOVIES", Sol TV
 #commenthttps://5b3196ff6fa3b.streamlock.net/soltv/ngrp:soltv_all/playlist.m3u8
 https://soltvusa.com/soltvsp/ngrp:soltelevisionsp_all/playlist.m3u8
 
-EXTINF:-1 group-title="MOVIES",Digital Vision (720p) [Not 24/7]
+#EXTINF:-1 group-title="MOVIES",Digital Vision (720p) [Not 24/7]
 https://ss3.domint.net:3120/dv6_str/digitalvision/playlist.m3u8
-EXTINF:-1 group-title="MOVIES",GDMTV (720p) [Not 24/7]
+#EXTINF:-1 group-title="MOVIES",GDMTV (720p) [Not 24/7]
 https://ss2.domint.net:3200/gdm_str/gdmtv/playlist.m3u8
-EXTINF:-1 group-title="MOVIES",MEGA TV
+#EXTINF:-1 group-title="MOVIES",MEGA TV
 https://vdo1.streamgato.us:3711/live/megatvlive.m3u8
-EXTINF:-1 group-title="MOVIES",PH (720p) [Not 24/7]
+#EXTINF:-1 group-title="MOVIES",PH (720p) [Not 24/7]
 https://cm.hostlagarto.com:4445/phtv/Phtv.myStream/playlist.m3u8
-EXTINF:-1 group-title="MOVIES",San Isidro TV (360p) [Not 24/7]
+#EXTINF:-1 group-title="MOVIES",San Isidro TV (360p) [Not 24/7]
 https://cdn4.hostlagarto.com:8081/static/sanisidrotv/playlist.m3u8
-EXTINF:-1 group-title="MOVIES",Telecanal 28 (360p) [Geo-blocked]
+#EXTINF:-1 group-title="MOVIES",Telecanal 28 (360p) [Geo-blocked]
 http://cm.hostlagarto.com:8081/Telecanal-28/telecanal.myStream/playlist.m3u8
-EXTINF:-1 group-title="MOVIES",TeleCibao (720p) [Not 24/7]
+#EXTINF:-1 group-title="MOVIES",TeleCibao (720p) [Not 24/7]
 https://cm.hostlagarto.com:4445/Telecibao/Telecibao/playlist.m3u8
-EXTINF:-1 group-title="MOVIES",Telenord 8 (1080p) [Not 24/7]
+#EXTINF:-1 group-title="MOVIES",Telenord 8 (1080p) [Not 24/7]
 http://newyorkstream.ddns.net:1935/telenord8/telenord8/playlist.m3u8
-EXTINF:-1 group-title="MOVIES",Telenord Canal 10 (1080p) [Not 24/7]
+#EXTINF:-1 group-title="MOVIES",Telenord Canal 10 (1080p) [Not 24/7]
 http://newyorkstream.ddns.net:1935/telenord10/telenord10/playlist.m3u8
-EXTINF:-1 group-title="MOVIES",Telenord 12 (720p) [Not 24/7]
+#EXTINF:-1 group-title="MOVIES",Telenord 12 (720p) [Not 24/7]
 http://newyorkstream.ddns.net:1935/telenord12/telenord12/playlist.m3u8
-EXTINF:-1 group-title="MOVIES",Telesur Canal (360p) [Not 24/7]
+#EXTINF:-1 group-title="MOVIES",Telesur Canal (360p) [Not 24/7]
 https://ss3.domint.net:3124/tls_str/telesur/playlist.m3u8
-EXTINF:-1 group-title="MOVIES",Megavision Canal 43 (480p) [Not 24/7]
+#EXTINF:-1 group-title="MOVIES",Megavision Canal 43 (480p) [Not 24/7]
 http://stream3.prostudionetwork.com:1943/megavision/MV/playlist.m3u8
-EXTINF:-1 group-title="MOVIES",Microvision 10 (720p) [Not 24/7]
+#EXTINF:-1 group-title="MOVIES",Microvision 10 (720p) [Not 24/7]
 http://190.103.183.24:1935/live/MicroHD/playlist.m3u8
-EXTINF:-1 group-title="MOVIES",SUPER CANAL 33
+#EXTINF:-1 group-title="MOVIES",SUPER CANAL 33
 https://elgruposupercanal.streamgato.us:3158/live/supercanal33live.m3u8
-EXTINF:-1 group-title="MOVIES",CARIBE TV
+#EXTINF:-1 group-title="MOVIES",CARIBE TV
 https://ssai.aniview.com/api/v1/hls/stream.m3u8
-EXTINF:-1 group-title="MOVIES",Microvision
+#EXTINF:-1 group-title="MOVIES",Microvision
 https://elgruposupercanal.streamgato.us:3828/live/dominicanviewlive.m3u8
 
-EXTINF:-1 group-title="MOVIES",TV Canela
+#EXTINF:-1 group-title="MOVIES",TV Canela
 https://cloudflare.streamgato.us:3953/live/canelatvlive.m3u8
 
-EXTINF:-1 group-title="MOVIES",NEXXO
+#EXTINF:-1 group-title="MOVIES",NEXXO
 https://cdn3.streamgato.us:3938/live/nexxotvlive.m3u8
 
-EXTINF:-1 group-title="MOVIES",TeleUniverso
+#EXTINF:-1 group-title="MOVIES",TeleUniverso
 https://stream-us-east-1.getpublica.com/playlist.m3u8
 
 
-EXTINF:-1 group-title="MOVIES",MUN_2 TV NY
+#EXTINF:-1 group-title="MOVIES",MUN_2 TV NY
 https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=1194&live=1&avod=1&preroll=1&hls_marker=1&player_height=277&player_width=493&yob=&gender=&gdpr=1&us_privacy=[us_privacy]&content_genre=Music&content_id=2122&content_network=1&content_title=Mun2-TV&site_page=https%3A%2F%2Fwww.vivalivetv.com%2Fchannel%2Fmun2-tv&site_name=[channel_name]&cb=1651881783&consent=1&ua=Mozilla%2F5.0+%28X11%3B+Linux+x86_64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F98.0.4758.102+Safari%2F537.36
-EXTINF:-1 group-title="MOVIES",LUNA TV
+#EXTINF:-1 group-title="MOVIES",LUNA TV
 https://cdn3.streamgato.us:3797/live/lunatvlive.m3u8
-EXTINF:-1 group-title="MOVIES",CANAL 6
+#EXTINF:-1 group-title="MOVIES",CANAL 6
 https://cdn4.hostlagarto.com/static/canal6tv/playlist.m3u8
-EXTINF:-1 group-title="MOVIES",CulturaChannel
+#EXTINF:-1 group-title="MOVIES",CulturaChannel
 https://cdn4.hostlagarto.com:8081/static/cotubanamatv/playlist.m3u8
-EXTINF:-1 group-title="MOVIES",CANAL56
+#EXTINF:-1 group-title="MOVIES",CANAL56
 https://cdn5.streamgato.us:3371/live/canal56live.m3u8
-EXTINF:-1 group-title="MOVIES",TELEORIENTAL
+#EXTINF:-1 group-title="MOVIES",TELEORIENTAL
 https://stream-us-east-1.getpublica.com/playlist.m3u8
-
-
 
 #comment#EXTINF:-1 group-title="MOVIES",Telefuturo Canal 23 (720p) [Not 24/7]
 #commenthttp://ss8.domint.net:2118/tf_str/futu/master.m3u8
