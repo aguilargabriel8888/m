@@ -2477,6 +2477,19 @@ https://content.uplynk.com/channel/ce3b524c342247549e996e7d3a977157.m3u8
 #comment#EXTINF:-1 group-title="The Roku Channel",Roku | CW
 #commenthttp://live.tv247.club/live/cw.m3u8
 
+#EXTINF:-1 group-title="The Roku Channel",Rakuten Action Movies UK (720p)
+https://rakuten-actionmovies-1-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="The Roku Channel",Rakuten Comedy Movies UK (720p)
+https://rakuten-comedymovies-1-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="The Roku Channel",Rakuten Spotlight UK (720p)
+https://rakuten-spotlight-1-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-group-title="The Roku Channel",Rakuten Top Free UK (720p)
+https://rakuten-topfree-1-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="The Roku Channel",Rakuten TV Shows UK (720p)
+https://rakuten-tvshows-1-eu.rakuten.wurl.tv/playlist.m3u8
+
+
+
 #EXTINF:-1 group-title="The Roku Channel",Xumo Free Movies
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokuxumofreemovies/CDN/playlist.m3u8
 
