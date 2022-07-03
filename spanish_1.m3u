@@ -27,6 +27,9 @@ https://cloudflare.streamgato.us:3413/live/telecaribehdlive.m3u8
 #EXTINF:-1 group-title="MOVIES",CANAL18
 https://cdn4.hostlagarto.com:8081/static/canal18hd/playlist.m3u8
 
+#EXTINF:-1 group-title="MOVIES",MEGA CITNE TV
+https://cloudflare.streamgato.us:3125/live/megacinetvlive.m3u8
+
 #EXTINF:-1 group-title="MOVIES",TVMAS CHILE
 https://593b04c4c5670.streamlock.net/8008/8008/master.m3u8
 
@@ -43,7 +46,8 @@ https://cm.hostlagarto.com/Hmtv/hmtv.myStream/playlist.m3u8
 https://ss3.domint.net:3134/otv_str/orbittv/playlist.m3u8
 
 #EXTINF:-1 group-title="MOVIES",Nexxo 20
-https://cloudflare.streamgato.us:3355/live/nexxotvlive.m3u8
+#commenthttps://cloudflare.streamgato.us:3355/live/nexxotvlive.m3u8
+https://cdn3.streamgato.us:3938/live/nexxotvlive.m3u8
 
 #EXTINF:-1 group-title="MOVIES",DAN TV
 http://cm.hostlagarto.com:8081/Punaltv/punaltvHD.myStream/playlist.m3u8
@@ -55,13 +59,17 @@ http://190.103.183.24:1935/Vallevision/ValleHD/playlist.m3u8
 https://mediacpstreamchile.com:1936/8140/8140/playlist.m3u8
 
 #EXTINF:-1 group-title="MOVIES",GH Television
-https://cloudflare.streamgato.us:3352/live/ghtelevisionhdlive.m3u8
+#commenthttps://cloudflare.streamgato.us:3352/live/ghtelevisionhdlive.m3u8
+https://tv.ghtelevision.com:3018/live/ghtelevisionlive.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/YhMZXUp.png" group-title="MOVIES",Romana TV 42
 http://tv.romanatv42.com/hls/live.m3u8
 
 #EXTINF:-1 group-title="MOVIES", Cine Club
 https://servilive.com:3176/live/cineclublive.m3u8
+
+#EXTINF:-1 group-title="MOVIES",CANAL 6
+https://cdn4.hostlagarto.com/static/canal6tv/playlist.m3u8
 
 #EXTINF:-1 group-title="MOVIES",GDMTV (720p) [Not 24/7]
 https://ss2.domint.net:3200/gdm_str/gdmtv/playlist.m3u8
