@@ -12,6 +12,10 @@ https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8?DVR
 #EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/tvoKIDS_235x235.png?raw=true" group-title="THE_BEST_KIDS_TV",tvo KIDS
 https://bcsecurelivehls-i.akamaihd.net/hls/live/623607/15364602001/tvokids/master.m3u8
 
+#EXTINF:-1 group-title="THE_BEST_KIDS_TV",tvo KIDS2
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1658957835/ei/q1vhYrP2NInpugL8y7bYDQ/ip/2806%3A103e%3Ad%3Ad3f4%3A845d%3A71f2%3Aca2e%3Ae42/id/nIhbO89W1GE.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/lT-Khkg5aPsoMfkR73dc9Boq8qYQJVk/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIgHEX7C1TETfhTENap0TpI2dq3HRrrhUAgKMrxUK7oSNMCIQD5qe3uiCzi4kt-MgtkWnqtiukLK_estFQoJhECiYn6wA%3D%3D/file/index.m3u8
+
+
 #EXTINF:-1 group-title="THE_BEST_KIDS_TV",PBS Kids Eastern/Central (1080p)
 https://livestream.pbskids.org/out/v1/1e3d77b418ad4a819b3f4c80ac0373b5/est.m3u8
 
@@ -65,6 +69,21 @@ https://stitcher.pluto.tv/stitch/hls/channel/5ca6748a37b88b269472dad9/master.m3u
 
 #comment#EXTINF:-1 tvg-logo="http://pluto.tv.s3.amazonaws.com/assets/images/channels/811b1700-0585-c37a-5bf0-56e79a8d0e7e-after-school-cartoons-channel-feature.jpg" group-title="KIDS_TV", NICK GAMES
 #commenthttp://stitcher.pluto.tv/stitch/hls/channel/5dae09950c657500093121a2/master.m3u8?deviceId=cfe94b00-2178-4be3-9807-ea6b44f14a09&deviceVersion=80.0.3987.106&appVersion=5.6.0-05e6d11bfce7210bc262d7e9f2a96fc738b8ad86&deviceType=web&deviceMake=Chrome&sid=b21723ea-fade-4f00-b391-565f0326fe9e&deviceDNT=0&deviceModel=Chrome
+
+#EXTINF:-1 group-title="KIDS_TV", PAW PATROL
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1658957836/ei/rFvhYte-FeyK_tcPwpm42AY/ip/2806%3A103e%3Ad%3Ad3f4%3A845d%3A71f2%3Aca2e%3Ae42/id/nM6hNCp_cH8.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/lT-KhvtyBY5FJjamDTjEaKtxVCe_RPQ/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIhAPILuocxr2UwmDk1B7MBEEc8RFGDfmOPDbCZ-wW7o2uYAiBHfWeT8LIC_3uOZiC2evENsFAbBest03c8t9ADQjQ4PA%3D%3D/file/index.m3u8
+
+#EXTINF:-1 group-title="KIDS_TV", Disney Jr (Spidye)
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1658957836/ei/rFvhYuX0MqeCir4PkqueiAc/ip/2806%3A103e%3Ad%3Ad3f4%3A845d%3A71f2%3Aca2e%3Ae42/id/5aglJRVC9ts.1/source/yt_live_broadcast/requiressl/yes/tx/24044260/txs/24044258%2C24044259%2C24044260%2C24044261/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/lT-KhjXsUtl5ZLxSseU8xaaSb7Ws_iA/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRAIgQSaDkSkHseik1uUTwClRDeIB1JrnAxDSSLJ7KmPVn4wCIFwmMWUBPjWs4Nsn6oooHUaPfqO6wyvoSZ0cyoRbYcXj/file/index.m3u8
+
+#EXTINF:-1 group-title="KIDS_TV", Disney Jr (Minnie)
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1658957837/ei/rVvhYuyzFPiCir4P0oSWiAE/ip/2806%3A103e%3Ad%3Ad3f4%3A845d%3A71f2%3Aca2e%3Ae42/id/c5tzU4MGCNs.1/source/yt_live_broadcast/requiressl/yes/tx/24222796/txs/24222793%2C24222794%2C24222795%2C24222796%2C24222797/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/lT-Khqzip31tWRN2tfjvUtO1ul7Fh4M/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIhAJbJLvrak8bfmboXP8nddo4r46N2c8Vg-Qgs5QeWycoTAiAwL0pbwx0xGioObcQfqJZwYyG1dLIjd15-AJjuQ3N8gg%3D%3D/file/index.m3u8
+
+#EXTINF:-1 group-title="KIDS_TV", WB
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1658957837/ei/rVvhYse7M8ay2_gPgvSK2AY/ip/2806%3A103e%3Ad%3Ad3f4%3A845d%3A71f2%3Aca2e%3Ae42/id/oX8vayzXgYw.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/lT-KhkLhpuEouPSK-9ZFoY1OGPGspP4/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRAIgKnyksgnWBIQM4q1PJFj5hBKijytC4fpVsHTw1N44e2oCICIzAOmoG7siq6MGxkipXwjFupQvSZ1qhCKPmKXJuVE-/file/index.m3u8
+
+#EXTINF:-1 group-title="KIDS_TV", PBS Echo TV
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1658961103/ei/b2jhYs-4BNSY6QKK9p7gDg/ip/2806%3A103e%3Ad%3Ad3f4%3A845d%3A71f2%3Aca2e%3Ae42/id/ZEB8HqBrN8A.1/source/yt_live_broadcast/requiressl/yes/tx/24197277/txs/24197275%2C24197276%2C24197277/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/lT-Khr3bt7VmzrwIaZ6641rK6uSgaXc/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIga9QBvj7yKwVcrWJjd59eGc8JL6shT50e_kI2AsmHrggCIQDaFqeoBOz6h0mdpYrwhQsy7jy8YC6UktOBaxunjrQ8qA%3D%3D/file/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://pluto.tv.s3.amazonaws.com/assets/images/channels/811b1700-0585-c37a-5bf0-56e79a8d0e7e-after-school-cartoons-channel-feature.jpg" group-title="KIDS_TV", TOTALLY TURTLES
 http://stitcher.pluto.tv/stitch/hls/channel/5d0c16d686454ead733d08f8/master.m3u8?deviceId=cfe94b00-2178-4be3-9807-ea6b44f14a09&deviceVersion=80.0.3987.106&appVersion=5.6.0-05e6d11bfce7210bc262d7e9f2a96fc738b8ad86&deviceType=web&deviceMake=Chrome&sid=b21723ea-fade-4f00-b391-565f0326fe9e&deviceDNT=0&deviceModel=Chrome
