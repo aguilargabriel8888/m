@@ -30,8 +30,8 @@ https://cdn4.hostlagarto.com:8081/static/canal18hd/playlist.m3u8
 #EXTINF:-1 group-title="MOVIES",MEGA CITNE TV
 https://cloudflare.streamgato.us:3125/live/megacinetvlive.m3u8
 
-#EXTINF:-1 group-title="MOVIES",TVMAS CHILE
-https://593b04c4c5670.streamlock.net/8008/8008/master.m3u8
+#comment#EXTINF:-1 group-title="MOVIES",TVMAS CHILE
+#commenthttps://593b04c4c5670.streamlock.net/8008/8008/master.m3u8
 
 #EXTINF:-1 group-title="MOVIES",Cinevision 19
 https://live.teledom.info:3713/live/cinevisionlive.m3u8
@@ -47,7 +47,11 @@ https://ss3.domint.net:3134/otv_str/orbittv/playlist.m3u8
 
 #EXTINF:-1 group-title="MOVIES",Nexxo 20
 #commenthttps://cloudflare.streamgato.us:3355/live/nexxotvlive.m3u8
-https://cdn3.streamgato.us:3938/live/nexxotvlive.m3u8
+#commenthttps://cdn3.streamgato.us:3938/live/nexxotvlive.m3u8
+https://streaming.ath.cx:1936/nexxotv/nexxotv/playlist.m3u8
+
+#comment#EXTINF:-1 group-title="MOVIES",Yunavisión
+#commenthttps://ss9.domint.net:3036/yv_str/yunavision/playlist.m3u8
 
 #EXTINF:-1 group-title="MOVIES",DAN TV
 http://cm.hostlagarto.com:8081/Punaltv/punaltvHD.myStream/playlist.m3u8
@@ -62,8 +66,8 @@ https://mediacpstreamchile.com:1936/8140/8140/playlist.m3u8
 #commenthttps://cloudflare.streamgato.us:3352/live/ghtelevisionhdlive.m3u8
 https://tv.ghtelevision.com:3018/live/ghtelevisionlive.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/YhMZXUp.png" group-title="MOVIES",Romana TV 42
-http://tv.romanatv42.com/hls/live.m3u8
+#comment#EXTINF:-1 tvg-logo="https://i.imgur.com/YhMZXUp.png" group-title="MOVIES",Romana TV 42
+#commenthttp://tv.romanatv42.com/hls/live.m3u8
 
 #EXTINF:-1 group-title="MOVIES", Cine Club
 https://servilive.com:3176/live/cineclublive.m3u8
@@ -79,18 +83,18 @@ https://vdo1.streamgato.us:3711/live/megatvlive.m3u8
 https://cm.hostlagarto.com:4445/phtv/Phtv.myStream/playlist.m3u8
 #EXTINF:-1 group-title="MOVIES",San Isidro TV (360p) [Not 24/7]
 https://cdn4.hostlagarto.com:8081/static/sanisidrotv/playlist.m3u8
-#EXTINF:-1 group-title="MOVIES",Telecanal 28 (360p) [Geo-blocked]
-http://cm.hostlagarto.com:8081/Telecanal-28/telecanal.myStream/playlist.m3u8
-#EXTINF:-1 group-title="MOVIES",TeleCibao (720p) [Not 24/7]
-https://cm.hostlagarto.com:4445/Telecibao/Telecibao/playlist.m3u8
+#comment#EXTINF:-1 group-title="MOVIES",Telecanal 28 (360p) [Geo-blocked]
+#commenthttp://cm.hostlagarto.com:8081/Telecanal-28/telecanal.myStream/playlist.m3u8
+#comment#EXTINF:-1 group-title="MOVIES",TeleCibao (720p) [Not 24/7]
+#commenthttps://cm.hostlagarto.com:4445/Telecibao/Telecibao/playlist.m3u8
 #EXTINF:-1 group-title="MOVIES",Telenord 8 (1080p) [Not 24/7]
 http://newyorkstream.ddns.net:1935/telenord8/telenord8/playlist.m3u8
 #EXTINF:-1 group-title="MOVIES",Telenord Canal 10 (1080p) [Not 24/7]
 http://newyorkstream.ddns.net:1935/telenord10/telenord10/playlist.m3u8
 #EXTINF:-1 group-title="MOVIES",Telenord 12 (720p) [Not 24/7]
 http://newyorkstream.ddns.net:1935/telenord12/telenord12/playlist.m3u8
-#EXTINF:-1 group-title="MOVIES",Telesur Canal (360p) [Not 24/7]
-https://ss3.domint.net:3124/tls_str/telesur/playlist.m3u8
+#comment#EXTINF:-1 group-title="MOVIES",Telesur Canal (360p) [Not 24/7]
+#commenthttps://ss3.domint.net:3124/tls_str/telesur/playlist.m3u8
 #EXTINF:-1 group-title="MOVIES",Megavision Canal 43 (480p) [Not 24/7]
 http://stream3.prostudionetwork.com:1943/megavision/MV/playlist.m3u8
 #EXTINF:-1 group-title="MOVIES",Microvision 10 (720p) [Not 24/7]
@@ -151,10 +155,10 @@ https://dai.google.com/linear/hls/event/YHoOj51dSKCvBQOBG2OvLQ/master.m3u8
 #commenthttps://dai.google.com/linear/hls/event/asXufUKSSKisiLSMHR2BXA/master.m3u8
 https://dai.google.com/linear/hls/event/8FUmvMX3ShuQTgE3tEqxNg/master.m3u8
 
-#EXTINF:-1 group-title="MEXICO",Canal de las Estrellas
-https://live-streams-notusa.televisa.com/channel01-b/index.m3u8
-#EXTINF:-1 group-title="MEXICO",TDUN
-https://live-streams-notusa.televisa.com/channel03-b/index.m3u8
+#comment#EXTINF:-1 group-title="MEXICO",Canal de las Estrellas
+#commenthttps://live-streams-notusa.televisa.com/channel01-b/index.m3u8
+#comment#EXTINF:-1 group-title="MEXICO",TDUN
+#commenthttps://live-streams-notusa.televisa.com/channel03-b/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4kX1baN.png" group-title="MEXICO",Claro Sport
 #commenthttps://d21r053hxdt5v1.cloudfront.net/live/cs01/live.isml/playlsit.m3u8
@@ -1346,14 +1350,6 @@ https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
 
 #commentdeviceId=cfe94b00-2178-4be3-9807-ea6b44f14a09&deviceVersion=80.0.3987.106&appVersion=5.6.0-05e6d11bfce7210bc262d7e9f2a96fc738b8ad86&deviceType=web&deviceMake=Chrome&sid=b21723ea-fade-4f00-b391-565f0326fe9e&deviceDNT=0&deviceModel=Chrome
 
-#comment#EXTINF:-1 tvg-id="" group-title="The Roku Channel",Azteca 7 (XHTIT-TDT) (1080p)
-#commenthttps://cdn87.theus6tv.tk/locals/SanDiego/xhtit-tdt.m3u8
-#comment#EXTINF:-1 tvg-id="" group-title="The Roku Channel",Azteca America (XHAS-TDT) (1080p)
-#commenthttps://cdn87.theus6tv.tk/locals/SanDiego/xhas-tdt.m3u8
-#comment#EXTINF:-1 tvg-id="" group-title="The Roku Channel",Azteca Uno (XHJK-TDT) (1080p)
-#commenthttps://cdn87.theus6tv.tk/locals/SanDiego/xhjk-tdt.m3u8
-#comment#EXTINF:-1 tvg-id="" group-title="The Roku Channel",Canal 5 (XETV-TDT) (1080p)
-#commenthttps://cdn87.theus6tv.tk/locals/SanDiego/xetv-tdt.m3u8
 
 #comment#EXTINF:-1 tvg-id="" group-title="The Roku Channel",Univision East (WXTV) (720p)
 #commenthttps://cdn87.theus6tv.tk/locals/NewYorkCity/wxtv-dt1.m3u8
@@ -1383,29 +1379,13 @@ https://v-ny.theus6tv.duckdns.org/hls/42.8/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36
 https://v-ny.theus6tv.duckdns.org/hls/68.1/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/TheRokuChannel_880x880.png?raw=true" group-title="The Roku Channel",Roku | Global Got Talent
-https://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-rokugottalentglobal/CDN/playlist.m3u8
+#comment#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/TheRokuChannel_880x880.png?raw=true" group-title="The Roku Channel",Roku | Global Got Talent
+#commenthttps://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-rokugottalentglobal/CDN/playlist.m3u8
 #commenthttps://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo121 2A-rokugottalentglobal/CDN/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/TheRokuChannel_880x880.png?raw=true" group-title="The Roku Channel",Roku | Just For Laughs Gags
 #comment https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokujustforlaughsgags/CDN/master.m3u8?p=roku&rdid=d3e60034-bdd6-5f69-a7a8-a82b92d5b116&coppa=false&is_lat=1&is_roku_lat=1&content_type=livefeed&content=3846e8e55bbe5d5c9032018b9384308a&genre=comedy&platform=web&content_rating=ROKU_ADS_CONTENT_RATING&channel_id=ROKU_CHANNEL_ID&bmodel=bm1&studio_id=just_for_laughs&channelStore=us&tags=ROKU_CONTENT_TAGS
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-viziojustforlaughsgags/CDN/playlist.m3u8
-
-#comment#EXTINF:-1 group-title="The Roku Channel",Claro Sport | 1
-#commenthttps://manifest.googlevideo.com/api/manifest/hls_variant/expire/1626913353/ei/6WX4YLSnGrXB1AHm8YWgDg/ip/2806%3A103e%3A6%3A5630%3A659d%3Aa80f%3A4a41%3A15ea/id/pQONlmOhXeg.1/source/yt_live_broadcast/requiressl/yes/tx/24011362/txs/24011361%2C24011362%2C24011363/hfr/1/ctier/SPL/playlist_duration/30/manifest_duration/30/maxh/2160/maudio/1/gcr/mx/vprv/1/go/1/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cctier%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Cgcr%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRgIhAKRJzs1m4UTvK8sSSNItNj14NnnYU9seTSRXz3RekcykAiEAoeEf4kSLdsd-3-Ir_PTzJAxlzroee9FRQZwUHswYuCI%3D/file/index.m3u8
-
-#comment#EXTINF:-1 group-title="The Roku Channel",Claro Sport | 1
-#commenthttps://manifest.googlevideo.com/api/manifest/hls_variant/expire/1626942646/ei/Vtj4YKm_GfGZ2_gPgve40Ao/ip/2806%3A103e%3A6%3A5630%3A4881%3Acda%3Aeab3%3Aa14/id/pQONlmOhXeg.1/source/yt_live_broadcast/requiressl/yes/hfr/1/ctier/SPL/playlist_duration/30/manifest_duration/30/maudio/1/gcr/mx/vprv/1/go/1/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cctier%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cgcr%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIhALkRQOaXbsMWswerHVzy5lz6vpfl5WSAioKDwnG_bcr6AiAdVrFb9JbMcI1PFZk6Hdz5oXNedi4kiCBNRJQueVKrBA%3D%3D/file/index.m3u8
-
-#comment#EXTINF:-1 group-title="The Roku Channel",Claro Sport | 2
-#commenthttps://manifest.googlevideo.com/api/manifest/hls_variant/expire/1626913948/ei/PGj4YPumNc2HkAS_8ZPQDg/ip/2806%3A103e%3A6%3A5630%3A659d%3Aa80f%3A4a41%3A15ea/id/51iVn2QqGLY.1/source/yt_live_broadcast/requiressl/yes/tx/24011362/txs/24011361%2C24011362%2C24011363/hfr/1/ctier/SPL/playlist_duration/30/manifest_duration/30/maxh/2160/maudio/1/gcr/mx/vprv/1/go/1/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cctier%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Cgcr%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRAIgY__xNxesw96KDO7h4jHsLRJQ0D-XZA-Pn8D38UtT2YwCID9xkPs6o9vbguf5ZPy6RPUhfOr7-aOl49JLZxfvDqwU/file/index.m3u8
-
-#comment#EXTINF:-1 group-title="The Roku Channel",Claro Sport | 3
-#commenthttps://manifest.googlevideo.com/api/manifest/hls_variant/expire/1626914162/ei/Emn4YOzZGZn-2_gP262d2AU/ip/2806%3A103e%3A6%3A5630%3A659d%3Aa80f%3A4a41%3A15ea/id/tQ4FuUCmsOM.1/source/yt_live_broadcast/requiressl/yes/tx/24011362/txs/24011361%2C24011362%2C24011363/hfr/1/ctier/SPL/playlist_duration/30/manifest_duration/30/maxh/2160/maudio/1/gcr/mx/vprv/1/go/1/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cctier%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Cgcr%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIgBol7O2uzifYnTBbtfCOXK8m8ShRLghxqRMT0IB0WczwCIQCbU6_24Br-PGVdf6zhGxOKP_GBGMOodkFmQDBCZyNVYQ%3D%3D/file/index.m3u8
-
-#comment#EXTINF:-1 group-title="The Roku Channel",Claro Sport | 4
-#commenthttps://manifest.googlevideo.com/api/manifest/hls_variant/expire/1626914503/ei/Z2r4YKC-FtbEhwbNtrKIDQ/ip/2806%3A103e%3A6%3A5630%3A659d%3Aa80f%3A4a41%3A15ea/id/QlMUZM5sWkg.1/source/yt_live_broadcast/requiressl/yes/tx/24011362/txs/24011361%2C24011362%2C24011363/hfr/1/ctier/SPL/playlist_duration/30/manifest_duration/30/maxh/2160/maudio/1/gcr/mx/vprv/1/go/1/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cctier%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Cgcr%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRgIhAO3Gt3wheGP-Eb6SPtA0VdwgSmFq51BXp2JuH9btzQ4SAiEAihnNyhtz1Yvlc_i_o2YKC1z9XVSFCkcbDF-Lg6OuFSM%3D/file/index.m3u8
-
 
 
 
