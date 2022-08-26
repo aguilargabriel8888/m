@@ -32,14 +32,17 @@ https://cloudflare.streamgato.us:3125/live/megacinetvlive.m3u8
 
 #comment#EXTINF:-1 group-title="MOVIES",TVMAS CHILE
 #commenthttps://593b04c4c5670.streamlock.net/8008/8008/master.m3u8
-#EXTINF:-1 group-title="MOVIES", Viwix TV Accion | CL
+#EXTINF:-1 group-title="MOVIES", Viwix TV Accion
 https://cloudvideo.servers10.com:8081/8128/index.m3u8?PlaylistM3UCL
-#EXTINF:-1 group-title="MOVIES", Viwix TV Estrenos | CL
+#EXTINF:-1 group-title="MOVIES", Viwix TV Estrenos
 https://cloudvideo.servers10.com:8081/8212/index.m3u8?PlaylistM3UCL
-#EXTINF:-1 group-title="MOVIES", Viwix TV Series | CL
+#EXTINF:-1 group-title="MOVIES", Viwix TV Series
 https://cloudvideo.servers10.com:8081/8208/index.m3u8?PlaylistM3UCL
-#EXTINF:-1 group-title="MOVIES", Viwix TV Terror | CL
+#EXTINF:-1 group-title="MOVIES", Viwix TV Terror
 https://cloudvideo.servers10.com:8081/8206/index.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 group-title="MOVIES", NEXT TV
+https://streaming.ath.cx:1936/nextv/nextv/playlist.m3u8
 
 #EXTINF:-1 group-title="MOVIES",Cinevision 19
 https://live.teledom.info:3713/live/cinevisionlive.m3u8
