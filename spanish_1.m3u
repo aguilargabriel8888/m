@@ -27,11 +27,19 @@ https://cloudflare.streamgato.us:3413/live/telecaribehdlive.m3u8
 #EXTINF:-1 group-title="MOVIES",CANAL18
 https://cdn4.hostlagarto.com:8081/static/canal18hd/playlist.m3u8
 
-#EXTINF:-1 group-title="MOVIES",MEGA CITNE TV
+#EXTINF:-1 group-title="MOVIES",MEGA CINE TV
 https://cloudflare.streamgato.us:3125/live/megacinetvlive.m3u8
 
 #comment#EXTINF:-1 group-title="MOVIES",TVMAS CHILE
 #commenthttps://593b04c4c5670.streamlock.net/8008/8008/master.m3u8
+#EXTINF:-1 group-title="MOVIES", Viwix TV Accion | CL
+https://cloudvideo.servers10.com:8081/8128/index.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="MOVIES", Viwix TV Estrenos | CL
+https://cloudvideo.servers10.com:8081/8212/index.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="MOVIES", Viwix TV Series | CL
+https://cloudvideo.servers10.com:8081/8208/index.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="MOVIES", Viwix TV Terror | CL
+https://cloudvideo.servers10.com:8081/8206/index.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 group-title="MOVIES",Cinevision 19
 https://live.teledom.info:3713/live/cinevisionlive.m3u8
@@ -60,7 +68,8 @@ http://cm.hostlagarto.com:8081/Punaltv/punaltvHD.myStream/playlist.m3u8
 http://190.103.183.24:1935/Vallevision/ValleHD/playlist.m3u8
 
 #EXTINF:-1 group-title="MOVIES",Planetatv Movie (640p)
-https://mediacpstreamchile.com:1936/8140/8140/playlist.m3u8
+#commenthttps://mediacpstreamchile.com:1936/8140/8140/playlist.m3u8
+https://scl.edge.grupoz.cl/movie/live/movie.m3u8
 
 #EXTINF:-1 group-title="MOVIES",GH Television
 #commenthttps://cloudflare.streamgato.us:3352/live/ghtelevisionhdlive.m3u8
@@ -106,12 +115,31 @@ https://ssai.aniview.com/api/v1/hls/stream.m3u8
 #EXTINF:-1 group-title="MOVIES",Microvision
 https://elgruposupercanal.streamgato.us:3828/live/dominicanviewlive.m3u8
 
+#EXTINF:-1 group-title="MOVIES",AkíTV (720p) [Not 24/7]
+https://cm.hostlagarto.com:4445/Akitv/Akitv.myStream/playlist.m3u8
+
+#EXTINF:-1 group-title="MOVIES",CromTV
+https://cdn4.hostlagarto.com:8081/static/cromtv/playlist.m3u8
+
+#EXTINF:-1 group-title="MOVIES",Digital809 TV
+https://inliveserver.com:1936/digital809tv/digital809tv/playlist.m3u8
+
+#EXTINF:-1 group-title="MOVIES",SiTV (720p)
+http://190.122.104.221/Player/sitv.m3u8
+
+#EXTINF:-1 group-title="MOVIES",Telefuturo
+https://ss9.domint.net:3054/tf_str/telefuturo/playlist.m3u8
+
+#EXTINF:-1 group-title="MOVIES",TVO
+https://rctvhd.net:8081/tvoromanalive/index.m3u8
+#EXTINF:-1 group-title="MOVIES",TVS (540p) [Geo-blocked]
+http://cm.hostlagarto.com:8081/Tvstv/TvstvHD.myStream/playlist.m3u8
 
 #EXTINF:-1 group-title="MOVIES",TV Canela
 https://cloudflare.streamgato.us:3953/live/canelatvlive.m3u8
 
-#EXTINF:-1 group-title="MOVIES",NEXXO
-https://cdn3.streamgato.us:3938/live/nexxotvlive.m3u8
+#comment#EXTINF:-1 group-title="MOVIES",NEXXO
+#commenthttps://cdn3.streamgato.us:3938/live/nexxotvlive.m3u8
 
 #EXTINF:-1 group-title="MOVIES",LUNA TV
 https://cdn3.streamgato.us:3797/live/lunatvlive.m3u8
