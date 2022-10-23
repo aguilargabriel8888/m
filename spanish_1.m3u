@@ -6,8 +6,8 @@ https://dai.google.com/linear/hls/event/YHoOj51dSKCvBQOBG2OvLQ/master.m3u8
 #commenthttps://dai.google.com/linear/hls/event/asXufUKSSKisiLSMHR2BXA/master.m3u8
 https://dai.google.com/linear/hls/event/8FUmvMX3ShuQTgE3tEqxNg/master.m3u8
 
-#EXTINF:-1 group-title="MOVIES",FMTV MUNDO
-https://cloud2.streaminglivehd.com:1936/8070/8070/playlist.m3u8
+#comment#EXTINF:-1 group-title="MOVIES",FMTV MUNDO
+#commenthttps://cloud2.streaminglivehd.com:1936/8070/8070/playlist.m3u8
 
 #EXTINF:-1 group-title="MOVIES",Digital 15 (1080p)
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://livestream.com/accounts/27456795/events/8268514/player
@@ -32,14 +32,8 @@ https://cloudflare.streamgato.us:3125/live/megacinetvlive.m3u8
 
 #comment#EXTINF:-1 group-title="MOVIES",TVMAS CHILE
 #commenthttps://593b04c4c5670.streamlock.net/8008/8008/master.m3u8
-#EXTINF:-1 group-title="MOVIES", Viwix TV Accion
-https://cloudvideo.servers10.com:8081/8128/index.m3u8?PlaylistM3UCL
-#EXTINF:-1 group-title="MOVIES", Viwix TV Estrenos
-https://cloudvideo.servers10.com:8081/8212/index.m3u8?PlaylistM3UCL
-#EXTINF:-1 group-title="MOVIES", Viwix TV Series
-https://cloudvideo.servers10.com:8081/8208/index.m3u8?PlaylistM3UCL
-#EXTINF:-1 group-title="MOVIES", Viwix TV Terror
-https://cloudvideo.servers10.com:8081/8206/index.m3u8?PlaylistM3UCL
+#comment#EXTINF:-1 group-title="MOVIES", Viwix TV Accion
+#commenthttps://cloudvideo.servers10.com:8081/8128/index.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 group-title="MOVIES", NEXT TV
 https://streaming.ath.cx:1936/nextv/nextv/playlist.m3u8
@@ -84,8 +78,8 @@ https://tv.ghtelevision.com:3018/live/ghtelevisionlive.m3u8
 #EXTINF:-1 group-title="MOVIES", Cine Club
 https://servilive.com:3176/live/cineclublive.m3u8
 
-#EXTINF:-1 group-title="MOVIES",CANAL 6
-https://cdn4.hostlagarto.com/static/canal6tv/playlist.m3u8
+#comment#EXTINF:-1 group-title="MOVIES",CANAL 6
+#commenthttps://cdn4.hostlagarto.com/static/canal6tv/playlist.m3u8
 
 #EXTINF:-1 group-title="MOVIES",GDMTV (720p) [Not 24/7]
 https://ss2.domint.net:3200/gdm_str/gdmtv/playlist.m3u8
@@ -95,10 +89,6 @@ https://vdo1.streamgato.us:3711/live/megatvlive.m3u8
 https://cm.hostlagarto.com:4445/phtv/Phtv.myStream/playlist.m3u8
 #EXTINF:-1 group-title="MOVIES",San Isidro TV (360p) [Not 24/7]
 https://cdn4.hostlagarto.com:8081/static/sanisidrotv/playlist.m3u8
-#comment#EXTINF:-1 group-title="MOVIES",Telecanal 28 (360p) [Geo-blocked]
-#commenthttp://cm.hostlagarto.com:8081/Telecanal-28/telecanal.myStream/playlist.m3u8
-#comment#EXTINF:-1 group-title="MOVIES",TeleCibao (720p) [Not 24/7]
-#commenthttps://cm.hostlagarto.com:4445/Telecibao/Telecibao/playlist.m3u8
 #EXTINF:-1 group-title="MOVIES",Telenord 8 (1080p) [Not 24/7]
 http://newyorkstream.ddns.net:1935/telenord8/telenord8/playlist.m3u8
 #EXTINF:-1 group-title="MOVIES",Telenord Canal 10 (1080p) [Not 24/7]
