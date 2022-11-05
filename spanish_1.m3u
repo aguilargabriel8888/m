@@ -1377,10 +1377,12 @@ https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
 #comment#EXTINF:-1 tvg-id="" group-title="The Roku Channel",Univision West (KDTV) (720p)
 #commenthttps://cdn87.theus6tv.tk/locals/BayArea/kfsf-dt2.m3u8
 
-#EXTINF:-1 tvg-id="" group-title="The Roku Channel",WXTV-DT1 (Univision 41) (720p)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36
-http://v-ny.theus6tv.duckdns.org/hls/41.1/playlist.m3u8
+#comment#EXTINF:-1 tvg-id="" group-title="The Roku Channel",WXTV-DT1 (Univision 41) (720p)
+#comment#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36
+#commenthttp://v-ny.theus6tv.duckdns.org/hls/41.1/playlist.m3u8
 
+#EXTINF:-1 group-title="The Roku Channel",TeleOnce (WLII-DT) (1080p)
+https://univision-live.cdn.vustreams.com/live/ce88b839-6376-4494-a2ee-83d66bc7cfc1/live.isml/ce88b839-6376-4494-a2ee-83d66bc7cfc1.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="The Roku Channel",WNJU-DT1 (Telemundo 47)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36
