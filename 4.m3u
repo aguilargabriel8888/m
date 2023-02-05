@@ -2077,23 +2077,6 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f4ec10ed
 #comment#EXTINF:-1 group-title="Tubi_TV",Fox 35 Orlando
 #commenthttps://lnc-wofl-fox-aws.tubi.video/index.m3u8
 
-#EXTINF:-1 group-title="Movies Plus",Local Now | 2020s Movies
-https://linear-169.frequency.stream/dist/localnow/169/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="Movies Plus",Local Now | 2010s Movies
-https://linear-168.frequency.stream/dist/localnow/168/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="Movies Plus",Local Now | 2000s Movies
-https://linear-167.frequency.stream/dist/localnow/167/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="Movies Plus",Local Now Movies of the '90s
-https://linear-170.frequency.stream/dist/localnow/170/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="Movies Plus",Local Now Movies of the '80s
-https://linear-171.frequency.stream/dist/localnow/171/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="Movies Plus",Local Now Movies of the '70s
-https://linear-172.frequency.stream/dist/localnow/172/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="Movies Plus",Movies of the '50s & '60s
-https://linear-203.frequency.stream/dist/localnow/203/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="Movies Plus",Movies of the '30s & '40s
-https://linear-204.frequency.stream/dist/localnow/204/hls/master/playlist.m3u8
-
 #EXTINF:-1 group-title="Movies Plus",23 ABC Bakersfield CA (KERO) (720p)
 https://content.uplynk.com/channel/ff809e6d9ec34109abfb333f0d4444b5.m3u8
 #EXTINF:-1 group-title="Movies Plus",ABC 2 Atlanta GA (WSB-TV) (720p)
@@ -2158,10 +2141,6 @@ https://a.jsrdn.com/broadcast/5oWx2VgEmK/+0000/c.m3u8?MoviesPlus
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokuxumowesterns/CDN/playlist.m3u8?p=roku
 #EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/ShoutFactoryTV_300x300.png?raw=true" group-title="Movies Plus",Shout! Factory TV | HD
 https://shoutfactory-xumo.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Dust_670x670.png?raw=true" group-title="Movies Plus",Dust | Channel 1
-https://dust.sinclair.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Dust_670x670.png?raw=true" group-title="Movies Plus",Dust | Channel 2
-https://dust-roku-xumo.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/MagellanTVNow_503x503.png?raw=true" group-title="Movies Plus",Magellan TV Now | HD
 https://magellantv-1.plex.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://od.lk/s/MF8yMjU4OTUzMzVf/RakutenTV_512x512.png" group-title="Movies Plus",Rakuten Action Movies
@@ -2384,9 +2363,6 @@ https://connection3-ent.roku.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 group-title="The Roku Channel",ACC Network (720p)
 https://a.jsrdn.com/broadcast/542cb2ce3c/+0000/c.m3u8
 
-#EXTINF:-1 group-title="The Roku Channel",ActionMax East (360p) [Not 24/7]
-http://31.220.41.88:8081/live/us-cinemaxaction.stream/playlist.m3u8
-
 #EXTINF:-1 group-title="The Roku Channel",AMG TV (1080p)
 https://2-fss-2.streamhoster.com/pl_138/201660-1270634-1/playlist.m3u8
 #EXTINF:-1 group-title="The Roku Channel",Amga TV (720p) [Not 24/7]
@@ -2397,12 +2373,6 @@ https://streamer1.connectto.com/AMGA_WEB_1202/playlist.m3u8
 
 #EXTINF:-1 group-title="The Roku Channel",Camp Spoopy (720p)
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=269
-
-#EXTINF:-1 group-title="The Roku Channel",Cinemax East (360p) [Not 24/7]
-http://31.220.41.88:8081/live/us-cinemax.stream/playlist.m3u8
-
-#EXTINF:-1 group-title="The Roku Channel",KBP Sports (720p) [Not 24/7]
-https://live-k2302-kbp.1plus1.video/sport/smil:sport.smil/playlist.m3u8
 
 #EXTINF:-1 group-title="The Roku Channel",MPT PBS Owings Mills MD (1080p)
 https://2-fss-2.streamhoster.com/pl_138/amlst:201814-1291584/playlist.m3u8
@@ -2443,20 +2413,11 @@ https://b9860b21629b415987978bdbbfbc3095.mediatailor.us-east-1.amazonaws.com/v1/
 #EXTINF:-1 group-title="The Roku Channel",Redbox 1: Spotlight (1080p)
 https://spotlight-rokuus.amagi.tv/hls/amagi_hls_data_redboxAAA-spotlight-roku/CDN/playlist.m3u8
 
-#EXTINF:-1 group-title="The Roku Channel",MovieMix (720p)
-https://moviemix.samsung.wurl.com/manifest/playlist.m3u8
-
-#EXTINF:-1 group-title="The Roku Channel",Ion Qubo (720p)
-https://ion-qubo-1.vizio.wurl.com/manifest/playlist.m3u8
-
 #EXTINF:-1 group-title="The Roku Channel",Fido TV
 https://fidotv-roku.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 group-title="The Roku Channel",Spotlight (1080p)
 https://spotlight-vizio.amagi.tv/playlist.m3u8
-
-#EXTINF:-1 group-title="The Roku Channel",NBCLX (1080p)
-https://lxlive-lh.akamaihd.net/i/LX_LIVE@148206/master.m3u8
 
 #EXTINF:-1 tvg-id="NYXT.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/KiIzWmO.jpg" group-title="",NYXT (1080p)
 https://api.new.livestream.com/accounts/19770665/events/5522162/live.m3u8
@@ -2471,27 +2432,6 @@ https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=31
 #EXTINF:-1 group-title="The Roku Channel",Watch It Kid (720p)
 https://content.uplynk.com/channel/ce3b524c342247549e996e7d3a977157.m3u8
 
-#comment#EXTINF:-1 group-title="The Roku Channel",Roku | tbs
-#commenthttp://live.tv247.club/live/tbs.m3u8
-
-#comment#EXTINF:-1 group-title="The Roku Channel",Roku | cbs
-#commenthttp://live.tv247.club/live/cbs.m3u8
-
-#comment#EXTINF:-1 group-title="The Roku Channel",Roku | FX
-#commenthttp://live.tv247.club/live/fxx.m3u8
-
-#comment#EXTINF:-1 group-title="The Roku Channel",Roku | MLB
-#commenthttp://live.tv247.club/live/mlb.m3u8
-
-#comment#EXTINF:-1 group-title="The Roku Channel",Roku | FOX
-#commenthttp://cdn.tv247.us/channel2/fox.m3u8
-
-#comment#EXTINF:-1 group-title="The Roku Channel",Roku | Cinemax
-#commenthttp://live.tv247.club/live/cinemax.m3u8
-
-#comment#EXTINF:-1 group-title="The Roku Channel",Roku | CW
-#commenthttp://live.tv247.club/live/cw.m3u8
-
 #EXTINF:-1 group-title="The Roku Channel",Rakuten Action Movies UK (720p)
 https://rakuten-actionmovies-1-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:-1 group-title="The Roku Channel",Rakuten Comedy Movies UK (720p)
@@ -2503,24 +2443,18 @@ https://rakuten-topfree-1-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:-1 group-title="The Roku Channel",Rakuten TV Shows UK (720p)
 https://rakuten-tvshows-1-eu.rakuten.wurl.tv/playlist.m3u8
 
-#EXTINF:-1 group-title="The Roku Channel",Xumo Free Movies
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokuxumofreemovies/CDN/playlist.m3u8
-
-#EXTINF:-1 group-title="The Roku Channel",Roku | ABC
-http://cdn.tv247.us/channel2/abc.m3u8
-
 #EXTINF:-1 group-title="The Roku Channel",Roku | DW English
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
 
 #EXTINF:-1 tvg-id="c6ea97" tvg-name="Crackle" tvg-chno="220" tvg-logo="https://i.imgur.com/9EgtUok.png" group-title="The Roku Channel",Crackle 
 https://crackle-plex.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="10688f" tvg-name="Popcornflix" tvg-chno="222" tvg-logo="https://i.imgur.com/ATUaSCV.png" group-title="The Roku Channel",Popcornflix 
+#comment#EXTINF:-1 tvg-id="10688f" tvg-name="Popcornflix" tvg-chno="222" tvg-logo="https://i.imgur.com/ATUaSCV.png" group-title="The Roku Channel",Popcornflix 
 #commenthttps://popcornflix-plex.amagi.tv/playlist.m3u8
-https://stitcheraws.unreel.me/wse-node02.powr.com/live/5d4b21643f4d602ba521b06c/playlist.m3u8
+#commenthttps://stitcheraws.unreel.me/wse-node02.powr.com/live/5d4b21643f4d602ba521b06c/playlist.m3u8
 
-#EXTINF:-1 tvg-id="10688f" tvg-name="Popcornflix_(alt)" tvg-chno="223" tvg-logo="https://i.imgur.com/ATUaSCV.png" group-title="The Roku Channel",Popcornflix (alt) 
-https://studio1091-samsungus.amagi.tv/popcornflix-xumo/playlist.m3u8
+#comment#EXTINF:-1 tvg-id="10688f" tvg-name="Popcornflix_(alt)" tvg-chno="223" tvg-logo="https://i.imgur.com/ATUaSCV.png" group-title="The Roku Channel",Popcornflix (alt) 
+#commenthttps://studio1091-samsungus.amagi.tv/popcornflix-xumo/playlist.m3u8
 
 #EXTINF:-1 tvg-id="bb3805" tvg-name="The_Design_Network" tvg-chno="274" tvg-logo="https://i.imgur.com/LoUGscj.png" group-title="The Roku Channel",The Design Network 
 https://thedesignnetwork-tdn-5.plex.wurl.com/manifest/playlist.m3u8
