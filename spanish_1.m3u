@@ -1462,16 +1462,6 @@ https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
 #EXTINF:-1 group-title="The Roku Channel",TeleOnce (WLII-DT) (1080p)
 https://univision-live.cdn.vustreams.com/live/ce88b839-6376-4494-a2ee-83d66bc7cfc1/live.isml/ce88b839-6376-4494-a2ee-83d66bc7cfc1.m3u8
 
-#comment#EXTINF:-1 tvg-id="" group-title="The Roku Channel",WNJU-DT1 (Telemundo 47)
-#comment#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36
-#commenthttp://v-ny.theus6tv.duckdns.org/hls/47.1/playlist.m3u8
-
-#comment#EXTINF:-1 group-title="The Roku Channel",Telemundo 40 Arizona (1080p)
-#commenthttps://cdn87.theus6tv.tk/locals/Pheonix/ktaz-dt1.m3u8
-
-#comment#EXTINF:-1 group-title="The Roku Channel",WKOB-LD1 (Azteca America 42) (720p)
-#comment#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36
-#commenthttp://v-ny.theus6tv.duckdns.org/hls/42.1/playlist.m3u8
 
 #EXTINF:-1 group-title="The Roku Channel",Mega TV (WSBS-TV) (1080p)
 https://livestream.lamusica.com/megatvP320/ngrp:megatvP320_all/playlist.m3u8
@@ -1489,10 +1479,6 @@ https://content.uplynk.com/channel/81bcd5789d8d48ae8b6b0a559db1c7d6.m3u8
 https://content.uplynk.com/channel/c1698e3bc70e429a887301d8831400f8.m3u8
 
 
-#comment#EXTINF:-1 group-title="The Roku Channel",WKOB-LD8 (Novelisima) (480p) [Not 24/7]
-#comment#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36
-#commenthttp://v-ny.theus6tv.duckdns.org/hls/42.8/playlist.m3u8
-
 #EXTINF:-1 group-title="The Roku Channel",WNJU-DT2 (teleXitos) (432p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36
 http://v-ny.theus6tv.duckdns.org/hls/47.2/playlist.m3u8
@@ -1506,7 +1492,6 @@ http://v-ny.theus6tv.duckdns.org/hls/68.1/playlist.m3u8
 #commenthttps://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo121 2A-rokugottalentglobal/CDN/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/TheRokuChannel_880x880.png?raw=true" group-title="The Roku Channel",Roku | Just For Laughs Gags
-#comment https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokujustforlaughsgags/CDN/master.m3u8?p=roku&rdid=d3e60034-bdd6-5f69-a7a8-a82b92d5b116&coppa=false&is_lat=1&is_roku_lat=1&content_type=livefeed&content=3846e8e55bbe5d5c9032018b9384308a&genre=comedy&platform=web&content_rating=ROKU_ADS_CONTENT_RATING&channel_id=ROKU_CHANNEL_ID&bmodel=bm1&studio_id=just_for_laughs&channelStore=us&tags=ROKU_CONTENT_TAGS
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-viziojustforlaughsgags/CDN/playlist.m3u8
 
 
