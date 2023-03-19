@@ -1462,6 +1462,11 @@ https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
 #EXTINF:-1 group-title="The Roku Channel",TeleOnce (WLII-DT) (1080p)
 https://univision-live.cdn.vustreams.com/live/ce88b839-6376-4494-a2ee-83d66bc7cfc1/live.isml/ce88b839-6376-4494-a2ee-83d66bc7cfc1.m3u8
 
+#EXTINF:-1 group-title="The Roku Channel",CubaVision
+http://190.122.96.187:8888/http/010
+
+#EXTINF:-1 group-title="The Roku Channel",Tele Antillas (480p)
+https://tunzilla.com/http://51.81.106.157:8084/hls/tantillas.m3u8
 
 #EXTINF:-1 group-title="The Roku Channel",Mega TV (WSBS-TV) (1080p)
 https://livestream.lamusica.com/megatvP320/ngrp:megatvP320_all/playlist.m3u8
