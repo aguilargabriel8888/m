@@ -1,0 +1,14 @@
+ABC | 51 | https://raw.githubusercontent.com/Theitfixer85/myepg/master/Logos/abc-us.png | 9233011874
+CBS | 52 | https://raw.githubusercontent.com/Theitfixer85/myepg/master/Logos/cbs-logo-white-us.png | 9200018514
+NBC SD | 53 | https://raw.githubusercontent.com/Theitfixer85/myepg/master/Logos/nbc-logo-2013-us.png | 9233009876
+FOX SD | 54 | https://raw.githubusercontent.com/Theitfixer85/myepg/master/Logos/US/Fox5.png | 9233002271
+CW | 55 | https://raw.githubusercontent.com/Theitfixer85/myepg/master/Logos/US/Fox5.png | 9233002271
+FreeForm | 56 | https://raw.githubusercontent.com/Theitfixer85/myepg/master/Logos/US/Fox5.png | 9233002271
+A&E | 57 | https://raw.githubusercontent.com/Theitfixer85/myepg/master/Logos/US/Fox5.png | 9233002271
+AMC | 58 | https://raw.githubusercontent.com/Theitfixer85/myepg/master/Logos/US/Fox5.png | 9233002271
+Animal Planet | 59 | https://raw.githubusercontent.com/Theitfixer85/myepg/master/Logos/US/Fox5.png | 9233002271
+5USA Channel | 60 | https://raw.githubusercontent.com/Theitfixer85/myepg/master/Logos/US/Fox5.png | 9233002271
+BET | 61 | https://raw.githubusercontent.com/Theitfixer85/myepg/master/Logos/US/Fox5.png | 9233002271
+BRAVO | 62 | https://raw.githubusercontent.com/Theitfixer85/myepg/master/Logos/US/Fox5.png | 9233002271
+CBS Sports Network| 64 | https://raw.githubusercontent.com/Theitfixer85/myepg/master/Logos/US/Fox5.png | 9233002271
+CNBC | 65 | https://raw.githubusercontent.com/Theitfixer85/myepg/master/Logos/US/Fox5.png | 9233002271
