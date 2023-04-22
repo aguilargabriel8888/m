@@ -31,8 +31,8 @@ https://cloudflare.streamgato.us:3413/live/telecaribehdlive.m3u8
 #EXTINF:-1 group-title="MOVIES",CANAL18
 https://cdn4.hostlagarto.com:8081/static/canal18hd/playlist.m3u8
 
-#EXTINF:-1 group-title="MOVIES",MEGA CINE TV
-https://cloudflare.streamgato.us:3125/live/megacinetvlive.m3u8
+#comment#EXTINF:-1 group-title="MOVIES",MEGA CINE TV
+#commenthttps://cloudflare.streamgato.us:3125/live/megacinetvlive.m3u8
 
 #comment#EXTINF:-1 group-title="MOVIES",TVMAS CHILE
 #commenthttps://593b04c4c5670.streamlock.net/8008/8008/master.m3u8
@@ -61,7 +61,8 @@ https://ss3.domint.net:3134/otv_str/orbittv/playlist.m3u8
 #EXTINF:-1 group-title="MOVIES",Nexxo 20
 #commenthttps://cloudflare.streamgato.us:3355/live/nexxotvlive.m3u8
 #commenthttps://cdn3.streamgato.us:3938/live/nexxotvlive.m3u8
-https://streaming.ath.cx:1936/nexxotv/nexxotv/playlist.m3u8
+#commenthttps://streaming.ath.cx:1936/nexxotv/nexxotv/playlist.m3u8
+https://cdn3.streamgato.us:3938/live/nexxotvlive.m3u8
 
 #comment#EXTINF:-1 group-title="MOVIES",Tv Vision
 #commenthttps://mediacpstreamchile.com:1936/nexotv/nexotv/playlist.m3u8
@@ -75,7 +76,8 @@ https://streaming.ath.cx:1936/nexxotv/nexxotv/playlist.m3u8
 http://cm.hostlagarto.com:8081/Punaltv/punaltvHD.myStream/playlist.m3u8
 
 #EXTINF:-1 group-title="MOVIES",VALLEVISION
-http://190.103.183.24:1935/Vallevision/ValleHD/playlist.m3u8
+#commenthttp://190.103.183.24:1935/Vallevision/ValleHD/playlist.m3u8
+https://streaming.telecablecentral.com.do/Vallevision/ValleHD/playlist.m3u8
 
 #EXTINF:-1 group-title="MOVIES",Planetatv Movie (640p)
 #commenthttps://mediacpstreamchile.com:1936/8140/8140/playlist.m3u8
@@ -133,6 +135,16 @@ https://ssai.aniview.com/api/v1/hls/stream.m3u8
 #EXTINF:-1 group-title="MOVIES",Microvision
 https://elgruposupercanal.streamgato.us:3828/live/dominicanviewlive.m3u8
 
+#EXTINF:-1 group-title="MOVIES",Onda TV (720p)
+https://ss5.domint.net:3176/otv_str/ondatv/playlist.m3u8
+
+#EXTINF:-1 group-title="MOVIES",MorroTV
+https://cloudflare.streamgato.us:3044/live/morrotvlive.m3u8
+#EXTINF:-1 group-title="MOVIES",Mun2TV (720p)
+https://play.amelbasoluciones.co:3309/live/mun2tvlive.m3u8
+#EXTINF:-1 group-title="MOVIES",Naranja TV
+https://cdn.streamingcpanel.com:3526/live/teleraiceslive.m3u8
+
 #EXTINF:-1 group-title="MOVIES",AkíTV (720p) [Not 24/7]
 https://cm.hostlagarto.com:4445/Akitv/Akitv.myStream/playlist.m3u8
 
@@ -160,7 +172,8 @@ https://cloudflare.streamgato.us:3953/live/canelatvlive.m3u8
 #commenthttps://cdn3.streamgato.us:3938/live/nexxotvlive.m3u8
 
 #EXTINF:-1 group-title="MOVIES",LUNA TV
-https://cdn3.streamgato.us:3797/live/lunatvlive.m3u8
+#commenthttps://cdn3.streamgato.us:3797/live/lunatvlive.m3u8
+https://ss2.domint.net:3228/luna_str/lunatv/playlist.m3u8
 #EXTINF:-1 group-title="MOVIES",CANAL 6
 https://cdn4.hostlagarto.com/static/canal6tv/playlist.m3u8
 #comment#EXTINF:-1 group-title="MOVIES",CulturaChannel
@@ -181,6 +194,7 @@ http://animezonetv.net/hls/stream.m3u8
 
 #EXTINF:-1 group-title="MOVIES",TELESISTEMAS
 http://k4.usastreams.com/ARBtv/ARBtv/playlist.m3u8
+#commenthttp://51.81.93.239:8084/hls/tsistemas.m3u8
 
 EXTINF:-1 group-title="MOVIES",RETRO PLUS 3
 https://59f1cbe63db89.streamlock.net:1443/retroplussenal3/retroplussenal3/playlist.m3u8
@@ -408,6 +422,33 @@ https://60417ddeaf0d9.streamlock.net/ntv/videontv/playlist.m3u8
 
 #EXTINF:-1 group-title="MEXICO",Mexiquense TV
 https://5ca3e84a76d30.streamlock.net:443/mexiquense/videomexiquense/playlist.m3u8
+
+#EXTINF:-1 group-title="MEXICO",TV Mar Puerto Vallarta (1080p)
+https://5ca3e84a76d30.streamlock.net/tvmarvallarta/videotvmarvallarta/playlist.m3u8
+#EXTINF:-1 group-title="MEXICO",TV Mar La Paz (1080p)
+https://5fc584f3f19c9.streamlock.net/tvmarlapaz/smil:tvmarlapaz.smil/playlist.m3u8
+#EXTINF:-1 group-title="MEXICO",TV Mar Los Cabos (1080p)
+https://5fc584f3f19c9.streamlock.net/tvmarloscabos/smil:tvmarloscabos.smil/playlist.m3u8
+#EXTINF:-1 group-title="MEXICO",ViX Cine Club (720p)
+https://linear-192.frequency.stream/192/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="MEXICO",ViX Novelas de Romance (720p)
+https://linear-194.frequency.stream/194/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="MEXICO",ViX Familia (720p)
+https://linear-195.frequency.stream/195/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="MEXICO",ViX Novelas de Oro (720p)
+https://linear-196.frequency.stream/196/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="MEXICO",ViX Parejas (1080p)
+https://d1f3q72l8uy8ur.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-z46pswns8dp1b-ssai-prd/dist/samsungtv/318/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="MEXICO",ViX Jajaja (1080p)
+https://d1406h321fcaxw.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-hlqsnnxad8rlq-ssai-prd/dist/samsungtv/310/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="MEXICO",Canal 50.1 Juárez (XEJ-TDT) (614p)
+https://stream.oursnetworktv.com/latin/juarez50/playlist.m3u8
+#EXTINF:-1 group-title="MEXICO",Super Channel 12 (1080p)
+https://servilive.com:3263/live/channel12live.m3u8
+#EXTINF:-1 group-title="MEXICO",Expresa TV (720p)
+https://5ca9af4645e15.streamlock.net/teleradio/smil:teleradio.smil/playlist.m3u8
+#EXTINF:-1 group-title="MEXICO",TV BUAP (1080p)
+https://tvenvivo.buap.mx/livestream/stream.m3u8
 
 #EXTINF:-1 group-title="MEXICO",15TV Sabinas
 https://hls.gvstream.live/telesistemas/15tv.stream/playlist.m3u8
