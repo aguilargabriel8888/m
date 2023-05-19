@@ -3,8 +3,8 @@
 #EXTINF:-1 tvg-id="I46.1.29020.zap2it.com" tvg-name="46.1 WKLEDT" tvg-type="live" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/PBS.png?raw=true"group-title="THE_BEST_KIDS_TV",EPG | PBS | KET
 https://2-fss-1.streamhoster.com/pl_134/amlst:200914-1282960/playlist.m3u8?DVR
 
-#EXTINF:-1 tvg-id="I46.4.30551.zap2it.com" tvg-name="46.4 WKLEDT4" tvg-type="live" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/PBS-Kids_625x625.png?raw=true" group-title="THE_BEST_KIDS_TV",EPG | PBS Kids | KET
-https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8?DVR
+#comment#EXTINF:-1 tvg-id="I46.4.30551.zap2it.com" tvg-name="46.4 WKLEDT4" tvg-type="live" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/PBS-Kids_625x625.png?raw=true" group-title="THE_BEST_KIDS_TV",EPG | PBS Kids | KET
+#commenthttps://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8?DVR
 
 #comment#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/PBS.png?raw=true" group title="THE_BEST_KIDS_TV",PBS | WPSU
 #commenthttps://ssc4.wpsu.psu.edu/WPSU_LLStream/ngrp:WPSU1_720max/playlist.m3u8
@@ -19,26 +19,26 @@ https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8?DVR
 #EXTINF:-1 group-title="THE_BEST_KIDS_TV",PBS Kids Eastern/Central (1080p)
 https://livestream.pbskids.org/out/v1/1e3d77b418ad4a819b3f4c80ac0373b5/est.m3u8
 
-#EXTINF:-1 group-title="THE_BEST_KIDS_TV",PBS Kids Hawaii (1080p)
-https://livestream.pbskids.org/out/v1/19d1d62bf61b4aea9ec20f83b6450a4e/hast.m3u8
+#comment#EXTINF:-1 group-title="THE_BEST_KIDS_TV",PBS Kids Hawaii (1080p)
+#commenthttps://livestream.pbskids.org/out/v1/19d1d62bf61b4aea9ec20f83b6450a4e/hast.m3u8
 
 #comment#EXTINF:-1 tvg-id="" group-title="THE_BEST_KIDS_TV",PBS Kids San Diego (KPBS-DT4) (432p)
 #commenthttps://cdn87.theus6tv.tk/locals/SanDiego/kpbs-dt4.m3u8
 
-#EXTINF:-1 group-title="THE_BEST_KIDS_TV",PBS Kids Mountain (KAET-DT4) (1080p)
-https://livestream.pbskids.org/out/v1/00a3b9014fa54c40bee6ca68a104a8a4/mst.m3u8
+#comment#EXTINF:-1 group-title="THE_BEST_KIDS_TV",PBS Kids Mountain (KAET-DT4) (1080p)
+#commenthttps://livestream.pbskids.org/out/v1/00a3b9014fa54c40bee6ca68a104a8a4/mst.m3u8
 
-#EXTINF:-1 group-title="THE_BEST_KIDS_TV", PBS Kids Alaska (1080p)
-https://livestream.pbskids.org/out/v1/2963202df0c142c69b5254a546473308/akst.m3u8
+#comment#EXTINF:-1 group-title="THE_BEST_KIDS_TV", PBS Kids Alaska (1080p)
+#commenthttps://livestream.pbskids.org/out/v1/2963202df0c142c69b5254a546473308/akst.m3u8
 
-#EXTINF:-1 group-title="THE_BEST_KIDS_TV",PBS Kids Pacific (1080p)
-https://livestream.pbskids.org/out/v1/c707b9310f2848de849b336f9914adbc/pst.m3u8
+#comment#EXTINF:-1 group-title="THE_BEST_KIDS_TV",PBS Kids Pacific (1080p)
+#commenthttps://livestream.pbskids.org/out/v1/c707b9310f2848de849b336f9914adbc/pst.m3u8
 
 
-#EXTINF:-1 group-title="THE_BEST_KIDS_TV",ABC Kids (720p) [Not 24/7]
-https://c.mjh.nz/101002210222
-#EXTINF:-1 group-title="THE_BEST_KIDS_TV",ABC ME (720p)
-https://c.mjh.nz/101002210224
+#comment#EXTINF:-1 group-title="THE_BEST_KIDS_TV",ABC Kids (720p) [Not 24/7]
+#commenthttps://c.mjh.nz/101002210222
+#comment#EXTINF:-1 group-title="THE_BEST_KIDS_TV",ABC ME (720p)
+#commenthttps://c.mjh.nz/101002210224
 
 
 #comment#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/tvoKIDS_235x235.png?raw=true" group-title="THE_BEST_KIDS_TV",CBBC
@@ -236,8 +236,8 @@ https://dai2-xumo.fubo.tv/amagi_hls_data_xumo1212A-fubo/CDN/master.m3u8
 #comment#EXTINF:-1 tvg-id="" group-title="ENTERTAIMENT",ABC
 #commenthttps://cdn2.sports24.win/abc.m3u8
 
-#EXTINF:-1 tvg-id="" group-title="ENTERTAIMENT",The CW New York NY (WPIX1) (720p)
-http://encodercdn1.frontline.ca/kamino/output/pix11_720p/playlist.m3u8
+#comment#EXTINF:-1 tvg-id="" group-title="ENTERTAIMENT",The CW New York NY (WPIX1) (720p)
+#commenthttp://encodercdn1.frontline.ca/kamino/output/pix11_720p/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="ENTERTAIMENT",ABC Spokane
 http://encodercdn1.frontline.ca/kamino/output/ABC_Spokane/playlist.m3u8
@@ -263,8 +263,8 @@ https://5e6cea03e25b6.streamlock.net/live/BOUNCE.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="" group-title="ENTERTAIMENT",Channel 23 Clark Vancouver TV (CVTV) (1080p) [Not 24/7]
 https://wowzaprod3-i.akamaihd.net/hls/live/252233/15b8d438/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" group-title="ENTERTAIMENT",BBC One Scotland (480p)
-http://www.filmon.com/vr-streams/3166.high/playlist.m3u8
+#comment#EXTINF:-1 tvg-id="" group-title="ENTERTAIMENT",BBC One Scotland (480p)
+#commenthttp://www.filmon.com/vr-streams/3166.high/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="ENTERTAIMENT",CBS Seattle WA (KIRO-TV1) (720p)
 http://encodercdn1.frontline.ca/geonosis/output/CBS_Seattle_720p/playlist.m3u8
@@ -352,8 +352,8 @@ https://5e6cea03e25b6.streamlock.net/live/WFSU-PBS.stream/playlist.m3u8
 https://cs.ebmcdn.net/eastbay-live-hs-1/apt/mp4:apt-world/playlist.m3u8
 
 
-#EXTINF:-1 tvg-id="" group-title="ENTERTAIMENT",The CW Tallahassee FL (WTLF1) (720p) [Not 24/7]
-https://5e6cea03e25b6.streamlock.net/live/WTLHCW.stream/playlist.m3u8
+#comment#EXTINF:-1 tvg-id="" group-title="ENTERTAIMENT",The CW Tallahassee FL (WTLF1) (720p) [Not 24/7]
+#commenthttps://5e6cea03e25b6.streamlock.net/live/WTLHCW.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="ENTERTAIMENT",TVS Television Network (720p)
 https://rpn1.bozztv.com/36bay2/gusa-tvstn/index.m3u8
@@ -2534,6 +2534,11 @@ https://2-fss-2.streamhoster.com/pl_138/amlst:201814-1291584/playlist.m3u8
 #EXTINF:-1 group-title="The Roku Channel",PBS 39 Extra Philadelphia (480p)
 https://forerunnerrtmp.livestreamingcdn.com/output18-2/output18-2.stream/playlist.m3u8
 
+#EXTINF:-1 group-title="The Roku Channel",AMC East (720p)
+https://bcovlive-a.akamaihd.net/b3ed62003de946c896f4f541b908376e/us-east-1/6240731308001/playlist.m3u8
+
+#EXTINF:-1 group-title="The Roku Channel",IFC East (720p)
+https://bcovlive-a.akamaihd.net/045bd3b615254da880c3db79b2e42fd0/us-east-1/6240731308001/playlist.m3u8
 
 #EXTINF:-1 group-title="The Roku Channel",Sony Movie Channel (720p)
 https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live1/smc_720p/playlist.m3u8
