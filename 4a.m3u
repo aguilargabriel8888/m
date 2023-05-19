@@ -3,38 +3,42 @@
 #EXTINF:-1 tvg-id="I46.1.29020.zap2it.com" tvg-name="46.1 WKLEDT" tvg-type="live" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/PBS.png?raw=true"group-title="THE_BEST_KIDS_TV",EPG | PBS | KET
 https://2-fss-1.streamhoster.com/pl_134/amlst:200914-1282960/playlist.m3u8?DVR
 
-#EXTINF:-1 tvg-id="I46.4.30551.zap2it.com" tvg-name="46.4 WKLEDT4" tvg-type="live" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/PBS-Kids_625x625.png?raw=true" group-title="THE_BEST_KIDS_TV",EPG | PBS Kids | KET
-https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8?DVR
+#comment#EXTINF:-1 tvg-id="I46.4.30551.zap2it.com" tvg-name="46.4 WKLEDT4" tvg-type="live" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/PBS-Kids_625x625.png?raw=true" group-title="THE_BEST_KIDS_TV",EPG | PBS Kids | KET
+#commenthttps://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8?DVR
 
 #comment#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/PBS.png?raw=true" group title="THE_BEST_KIDS_TV",PBS | WPSU
 #commenthttps://ssc4.wpsu.psu.edu/WPSU_LLStream/ngrp:WPSU1_720max/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/tvoKIDS_235x235.png?raw=true" group-title="THE_BEST_KIDS_TV",tvo KIDS
-https://bcsecurelivehls-i.akamaihd.net/hls/live/623607/15364602001/tvokids/master.m3u8
+#comment#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/tvoKIDS_235x235.png?raw=true" group title="THE_BEST_KIDS_TV",tvo KIDS
+#commenthttps://bcsecurelivehls-i.akamaihd.net/hls/live/623607/15364602001/tvokids/master.m3u8
+
+#comment#EXTINF:-1 group-title="THE_BEST_KIDS_TV",tvo KIDS2
+#commenthttps://manifest.googlevideo.com/api/manifest/hls_variant/expire/1658957835/ei/q1vhYrP2NInpugL8y7bYDQ/ip/2806%3A103e%3Ad%3Ad3f4%3A845d%3A71f2%3Aca2e%3Ae42/id/nIhbO89W1GE.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/lT-Khkg5aPsoMfkR73dc9Boq8qYQJVk/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIgHEX7C1TETfhTENap0TpI2dq3HRrrhUAgKMrxUK7oSNMCIQD5qe3uiCzi4kt-MgtkWnqtiukLK_estFQoJhECiYn6wA%3D%3D/file/index.m3u8
+
 
 #EXTINF:-1 group-title="THE_BEST_KIDS_TV",PBS Kids Eastern/Central (1080p)
 https://livestream.pbskids.org/out/v1/1e3d77b418ad4a819b3f4c80ac0373b5/est.m3u8
 
-#EXTINF:-1 group-title="THE_BEST_KIDS_TV",PBS Kids Hawaii (1080p)
-https://livestream.pbskids.org/out/v1/19d1d62bf61b4aea9ec20f83b6450a4e/hast.m3u8
+#comment#EXTINF:-1 group-title="THE_BEST_KIDS_TV",PBS Kids Hawaii (1080p)
+#commenthttps://livestream.pbskids.org/out/v1/19d1d62bf61b4aea9ec20f83b6450a4e/hast.m3u8
 
 #comment#EXTINF:-1 tvg-id="" group-title="THE_BEST_KIDS_TV",PBS Kids San Diego (KPBS-DT4) (432p)
 #commenthttps://cdn87.theus6tv.tk/locals/SanDiego/kpbs-dt4.m3u8
 
-#EXTINF:-1 group-title="THE_BEST_KIDS_TV",PBS Kids Mountain (KAET-DT4) (1080p)
-https://livestream.pbskids.org/out/v1/00a3b9014fa54c40bee6ca68a104a8a4/mst.m3u8
+#comment#EXTINF:-1 group-title="THE_BEST_KIDS_TV",PBS Kids Mountain (KAET-DT4) (1080p)
+#commenthttps://livestream.pbskids.org/out/v1/00a3b9014fa54c40bee6ca68a104a8a4/mst.m3u8
 
-#EXTINF:-1 group-title="THE_BEST_KIDS_TV", PBS Kids Alaska (1080p)
-https://livestream.pbskids.org/out/v1/2963202df0c142c69b5254a546473308/akst.m3u8
+#comment#EXTINF:-1 group-title="THE_BEST_KIDS_TV", PBS Kids Alaska (1080p)
+#commenthttps://livestream.pbskids.org/out/v1/2963202df0c142c69b5254a546473308/akst.m3u8
 
-#EXTINF:-1 group-title="THE_BEST_KIDS_TV",PBS Kids Pacific (1080p)
-https://livestream.pbskids.org/out/v1/c707b9310f2848de849b336f9914adbc/pst.m3u8
+#comment#EXTINF:-1 group-title="THE_BEST_KIDS_TV",PBS Kids Pacific (1080p)
+#commenthttps://livestream.pbskids.org/out/v1/c707b9310f2848de849b336f9914adbc/pst.m3u8
 
 
-#EXTINF:-1 group-title="THE_BEST_KIDS_TV",ABC Kids (720p) [Not 24/7]
-https://c.mjh.nz/101002210222
-#EXTINF:-1 group-title="THE_BEST_KIDS_TV",ABC ME (720p)
-https://c.mjh.nz/101002210224
+#comment#EXTINF:-1 group-title="THE_BEST_KIDS_TV",ABC Kids (720p) [Not 24/7]
+#commenthttps://c.mjh.nz/101002210222
+#comment#EXTINF:-1 group-title="THE_BEST_KIDS_TV",ABC ME (720p)
+#commenthttps://c.mjh.nz/101002210224
 
 
 #comment#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/tvoKIDS_235x235.png?raw=true" group-title="THE_BEST_KIDS_TV",CBBC
@@ -55,7 +59,8 @@ https://c.mjh.nz/101002210224
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxkabillion/CDN/playlist.m3u8
 
 #EXTINF:-1 group-title="KIDS_TV",Brat TV (1080p)
-https://brat-roku-us.amagi.tv/playlist.m3u8
+#commenthttps://brat-roku-us.amagi.tv/playlist.m3u8
+https://brat-samsung-us.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://pluto.tv.s3.amazonaws.com/channels/5ca673e0d0bd6c2689c94ce3/featuredImage.jpg" group-title="KIDS_TV",Nick
 https://stitcher.pluto.tv/stitch/hls/channel/5ca673e0d0bd6c2689c94ce3/master.m3u8?deviceId=cfe94b00-2178-4be3-9807-ea6b44f14a09&deviceVersion=80.0.3987.106&appVersion=5.6.0-05e6d11bfce7210bc262d7e9f2a96fc738b8ad86&deviceType=web&deviceMake=Chrome&sid=b21723ea-fade-4f00-b391-565f0326fe9e&deviceDNT=0&deviceModel=Chrome
@@ -65,6 +70,14 @@ https://stitcher.pluto.tv/stitch/hls/channel/5ca6748a37b88b269472dad9/master.m3u
 
 #comment#EXTINF:-1 tvg-logo="http://pluto.tv.s3.amazonaws.com/assets/images/channels/811b1700-0585-c37a-5bf0-56e79a8d0e7e-after-school-cartoons-channel-feature.jpg" group-title="KIDS_TV", NICK GAMES
 #commenthttp://stitcher.pluto.tv/stitch/hls/channel/5dae09950c657500093121a2/master.m3u8?deviceId=cfe94b00-2178-4be3-9807-ea6b44f14a09&deviceVersion=80.0.3987.106&appVersion=5.6.0-05e6d11bfce7210bc262d7e9f2a96fc738b8ad86&deviceType=web&deviceMake=Chrome&sid=b21723ea-fade-4f00-b391-565f0326fe9e&deviceDNT=0&deviceModel=Chrome
+
+
+#Comment#EXTINF:-1 group-title="KIDS_TV", WB Kids
+#commenthttps://www.youtube.com/channel/UC9trsD1jCTXXtN3xIOIU8gg/live
+
+#comment#EXTINF:-1 group-title="KIDS_TV", WB Kids2
+#commenthttp://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UC9trsD1jCTXXtN3xIOIU8gg/live
+
 
 #EXTINF:-1 tvg-logo="http://pluto.tv.s3.amazonaws.com/assets/images/channels/811b1700-0585-c37a-5bf0-56e79a8d0e7e-after-school-cartoons-channel-feature.jpg" group-title="KIDS_TV", TOTALLY TURTLES
 http://stitcher.pluto.tv/stitch/hls/channel/5d0c16d686454ead733d08f8/master.m3u8?deviceId=cfe94b00-2178-4be3-9807-ea6b44f14a09&deviceVersion=80.0.3987.106&appVersion=5.6.0-05e6d11bfce7210bc262d7e9f2a96fc738b8ad86&deviceType=web&deviceMake=Chrome&sid=b21723ea-fade-4f00-b391-565f0326fe9e&deviceDNT=0&deviceModel=Chrome
@@ -223,8 +236,8 @@ https://dai2-xumo.fubo.tv/amagi_hls_data_xumo1212A-fubo/CDN/master.m3u8
 #comment#EXTINF:-1 tvg-id="" group-title="ENTERTAIMENT",ABC
 #commenthttps://cdn2.sports24.win/abc.m3u8
 
-#EXTINF:-1 tvg-id="" group-title="ENTERTAIMENT",The CW New York NY (WPIX1) (720p)
-http://encodercdn1.frontline.ca/kamino/output/pix11_720p/playlist.m3u8
+#comment#EXTINF:-1 tvg-id="" group-title="ENTERTAIMENT",The CW New York NY (WPIX1) (720p)
+#commenthttp://encodercdn1.frontline.ca/kamino/output/pix11_720p/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="ENTERTAIMENT",ABC Spokane
 http://encodercdn1.frontline.ca/kamino/output/ABC_Spokane/playlist.m3u8
@@ -250,8 +263,8 @@ https://5e6cea03e25b6.streamlock.net/live/BOUNCE.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="" group-title="ENTERTAIMENT",Channel 23 Clark Vancouver TV (CVTV) (1080p) [Not 24/7]
 https://wowzaprod3-i.akamaihd.net/hls/live/252233/15b8d438/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" group-title="ENTERTAIMENT",BBC One Scotland (480p)
-http://www.filmon.com/vr-streams/3166.high/playlist.m3u8
+#comment#EXTINF:-1 tvg-id="" group-title="ENTERTAIMENT",BBC One Scotland (480p)
+#commenthttp://www.filmon.com/vr-streams/3166.high/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="ENTERTAIMENT",CBS Seattle WA (KIRO-TV1) (720p)
 http://encodercdn1.frontline.ca/geonosis/output/CBS_Seattle_720p/playlist.m3u8
@@ -339,8 +352,8 @@ https://5e6cea03e25b6.streamlock.net/live/WFSU-PBS.stream/playlist.m3u8
 https://cs.ebmcdn.net/eastbay-live-hs-1/apt/mp4:apt-world/playlist.m3u8
 
 
-#EXTINF:-1 tvg-id="" group-title="ENTERTAIMENT",The CW Tallahassee FL (WTLF1) (720p) [Not 24/7]
-https://5e6cea03e25b6.streamlock.net/live/WTLHCW.stream/playlist.m3u8
+#comment#EXTINF:-1 tvg-id="" group-title="ENTERTAIMENT",The CW Tallahassee FL (WTLF1) (720p) [Not 24/7]
+#commenthttps://5e6cea03e25b6.streamlock.net/live/WTLHCW.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="ENTERTAIMENT",TVS Television Network (720p)
 https://rpn1.bozztv.com/36bay2/gusa-tvstn/index.m3u8
@@ -494,7 +507,9 @@ https://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1234A-tmz/CDN/1280x720_5
 
 #EXTINF:-1 tvg-id="" group-title="ENTERTAIMENT",XUMO TV|Just for Laughs Gangs
 #commenthttps://dai2.xumo.com/amagi_hls_data_xumo1212A-rokujustforlaughsgags/CDN/playlist.m3u8
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokujustforlaughsgags/CDN/master.m3u8?p=roku&rdid=d3e60034-bdd6-5f69-a7a8-a82b92d5b116&coppa=false&is_lat=1&is_roku_lat=1&content_type=livefeed&content=3846e8e55bbe5d5c9032018b9384308a&genre=comedy&platform=web&content_rating=ROKU_ADS_CONTENT_RATING&channel_id=ROKU_CHANNEL_ID&bmodel=bm1&studio_id=just_for_laughs&channelStore=us&tags=ROKU_CONTENT_TAGS
+#commenthttps://dai2.xumo.com/amagi_hls_data_xumo1212A-rokujustforlaughsgags/CDN/master.m3u8?p=roku&rdid=d3e60034-bdd6-5f69-a7a8-a82b92d5b116&coppa=false&is_lat=1&is_roku_lat=1&content_type=livefeed&content=3846e8e55bbe5d5c9032018b9384308a&genre=comedy&platform=web&content_rating=ROKU_ADS_CONTENT_RATING&channel_id=ROKU_CHANNEL_ID&bmodel=bm1&studio_id=just_for_laughs&channelStore=us&tags=ROKU_CONTENT_TAGS
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-viziojustforlaughsgags/CDN/playlist.m3u8
+
 
 
 #EXTINF:-1 tvg-id="" group-title="ENTERTAIMENT",XUMO TV|Circle
@@ -2024,7 +2039,6 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5e8b0d10e
 #EXTINF:-1 tvg-id="YuGiOh.us" tvg-name="Yu-Gi-Oh" tvg-country="US" tvg-language="English" tvg-logo="http://images.pluto.tv/channels/5d14fc31252d35decbc4080b/colorLogoPNG.png" group-title="",Pluto TV Yu-Gi-Oh
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f4ec10ed9636f00089b8c89/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 
-
 #EXTINF:-1 group-title="24/7 PLUTO TV (DE)",visit_tv
 https://stream.visit-x.tv/vxtv/ngrp:live_all/playlist.m3u8
 
@@ -2079,7 +2093,7 @@ https://sdn-global-live-http-cache.3qsdn.com/live/_definst_/amlst:9528-mbr/chunk
 #EXTINF:-1 group-title="24/7 PLUTO TV (DE)",Adveture_tv_bia
 http://cdn.adultiptv.net/bigass.m3u8
 
-#EXTINF:-1 Adveture_tv_biti
+#EXTINF:-1 group-title="24/7 PLUTO TV (DE)",Adveture_tv_biti
 http://cdn.adultiptv.net/bigtits.m3u8
 
 #EXTINF:-1 group-title="24/7 PLUTO TV (DE)",Adveture_tv_bidi
@@ -2115,28 +2129,43 @@ https://59ec5453559f0.streamlock.net/mexicotv/smil:miamitvmexicoROKU/chunklist_w
 #EXTINF:-1 group-title="24/7 PLUTO TV (DE)",Adveture_tv_J
 http://109.71.162.112:1935/live/sd.jasminchannel.stream/playlist.m3u8
 
-#EXTINF:-1 group-title="24/7 PLUTO TV (DE)",AST_TV_1
-https://www.ast.tv/stream/1/high.m3u8
 
-#EXTINF:-1 group-title="24/7 PLUTO TV (DE)",AST_TV_2
-https://www.ast.tv/stream/2/high.m3u8
-
-#EXTINF:-1 group-title="Movies Plus",Local Now | 2020s Movies
-https://linear-169.frequency.stream/dist/localnow/169/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="Movies Plus",Local Now | 2010s Movies
-https://linear-168.frequency.stream/dist/localnow/168/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="Movies Plus",Local Now | 2000s Movies
-https://linear-167.frequency.stream/dist/localnow/167/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="Movies Plus",Local Now Movies of the '90s
-https://linear-170.frequency.stream/dist/localnow/170/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="Movies Plus",Local Now Movies of the '80s
-https://linear-171.frequency.stream/dist/localnow/171/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="Movies Plus",Local Now Movies of the '70s
-https://linear-172.frequency.stream/dist/localnow/172/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="Movies Plus",Movies of the '50s & '60s
-https://linear-203.frequency.stream/dist/localnow/203/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="Movies Plus",Movies of the '30s & '40s
-https://linear-204.frequency.stream/dist/localnow/204/hls/master/playlist.m3u8
+#comment#EXTINF:-1 group-title="Tubi_TV",Fox 2 Detroit
+#commenthttps://lnc-wjbk-fox-aws.tubi.video/index.m3u8
+#comment#EXTINF:-1 group-title="Tubi_TV",Fox 2 San Francisco
+#commenthttps://lnc-ktvu-fox-aws.tubi.video/index.m3u8
+#comment#EXTINF:-1 group-title="Tubi_TV",Fox 4 Dallas-FT-Worth
+#commenthttps://lnc-kdfw-fox-aws.tubi.video/index.m3u8
+#comment#EXTINF:-1 group-title="Tubi_TV",Fox 4 News Kansas City
+#commenthttp://tribwdaf-lh.akamaihd.net/i/WDAFBreaking_1@394769/index_1900_av-b.m3u8?sd=10&rebase=on:
+#comment#EXTINF:-1 group-title="Tubi_TV",Fox 5 Atlanta
+#commenthttps://lnc-waga-fox-aws.tubi.video/index.m3u8
+#comment#EXTINF:-1 group-title="Tubi_TV",Fox 5 New York
+#commenthttps://lnc-wnyw-fox-aws.tubi.video/index.m3u8
+#comment#EXTINF:-1 group-title="Tubi_TV",Fox 5 Washington DC
+#commenthttps://lnc-wttg-fox-aws.tubi.video/index.m3u8
+#comment#EXTINF:-1 group-title="Tubi_TV",Fox 6 Milwaukee
+#commenthttps://lnc-witi-fox-aws.tubi.video/index.m3u8
+#comment#EXTINF:-1 group-title="Tubi_TV",Fox 7 Austin
+#commenthttps://lnc-ktbc-fox-aws.tubi.video/index.m3u8
+#comment#EXTINF:-1 group-title="Tubi_TV",Fox 9 Minneapolis ST Paul
+#commenthttps://lnc-kmsp-fox-aws.tubi.video/index.m3u8
+#comment#EXTINF:-1 group-title="Tubi_TV",Fox 10 Phoenix
+#commenthttps://lnc-ksaz-fox-aws.tubi.video/index.m3u8
+#comment#EXTINF:-1 group-title="Tubi_TV",Fox 11 Los Angeles
+#commenthttps://lnc-kttv-fox-aws.tubi.video/index.m3u8
+#comment#EXTINF:-1 group-title="Tubi_TV",Fox 13 Tampa Bay
+#commenthttps://lnc-wtvt-fox-aws.tubi.video/index.m3u8
+#comment#EXTINF:-1 group-title="Tubi_TV",Fox Q13 Seattle
+#commenthttps://lnc-kcpq-fox-aws.tubi.video/index.m3u8:
+#comment#EXTINF:-1 group-title="Tubi_TV",Fox 26 Houston
+#commenthttps://lnc-kriv-fox-aws.tubi.video/index.m3u8
+#comment#EXTINF:-1 group-title="Tubi_TV",Fox 29 Philadelphia
+#commenthttps://lnc-wtxf-fox-aws.tubi.video/index.m3u8
+#comment#EXTINF:-1 group-title="Tubi_TV",Fox 32 Chicago
+#commenthttps://lnc-wfld-fox-aws.tubi.video/index.m3u8
+#comment#EXTINF:-1 group-title="Tubi_TV",Fox 35 Orlando
+#commenthttps://lnc-wofl-fox-aws.tubi.video/index.m3u8
 
 #EXTINF:-1 group-title="Movies Plus",23 ABC Bakersfield CA (KERO) (720p)
 https://content.uplynk.com/channel/ff809e6d9ec34109abfb333f0d4444b5.m3u8
@@ -2202,10 +2231,6 @@ https://a.jsrdn.com/broadcast/5oWx2VgEmK/+0000/c.m3u8?MoviesPlus
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokuxumowesterns/CDN/playlist.m3u8?p=roku
 #EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/ShoutFactoryTV_300x300.png?raw=true" group-title="Movies Plus",Shout! Factory TV | HD
 https://shoutfactory-xumo.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Dust_670x670.png?raw=true" group-title="Movies Plus",Dust | Channel 1
-https://dust.sinclair.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Dust_670x670.png?raw=true" group-title="Movies Plus",Dust | Channel 2
-https://dust-roku-xumo.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/MagellanTVNow_503x503.png?raw=true" group-title="Movies Plus",Magellan TV Now | HD
 https://magellantv-1.plex.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://od.lk/s/MF8yMjU4OTUzMzVf/RakutenTV_512x512.png" group-title="Movies Plus",Rakuten Action Movies
@@ -2371,7 +2396,8 @@ https://nosey-realnosey-1.roku.wurl.com/manifest/playlist.m3u8
 https://od.lk/s/MF8yMjE2NTkzNDVf/Roku_Boot-Animation_2017.mp4?Comedy
 
 #EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/TheRokuChannel_880x880.png?raw=true" group-title="The Roku Channel",Roku | Just For Laughs Gags
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokujustforlaughsgags/CDN/master.m3u8?p=roku&rdid=d3e60034-bdd6-5f69-a7a8-a82b92d5b116&coppa=false&is_lat=1&is_roku_lat=1&content_type=livefeed&content=3846e8e55bbe5d5c9032018b9384308a&genre=comedy&platform=web&content_rating=ROKU_ADS_CONTENT_RATING&channel_id=ROKU_CHANNEL_ID&bmodel=bm1&studio_id=just_for_laughs&channelStore=us&tags=ROKU_CONTENT_TAGS
+#commenthttps://dai2.xumo.com/amagi_hls_data_xumo1212A-rokujustforlaughsgags/CDN/master.m3u8?p=roku&rdid=d3e60034-bdd6-5f69-a7a8-a82b92d5b116&coppa=false&is_lat=1&is_roku_lat=1&content_type=livefeed&content=3846e8e55bbe5d5c9032018b9384308a&genre=comedy&platform=web&content_rating=ROKU_ADS_CONTENT_RATING&channel_id=ROKU_CHANNEL_ID&bmodel=bm1&studio_id=just_for_laughs&channelStore=us&tags=ROKU_CONTENT_TAGS
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-viziojustforlaughsgags/CDN/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/TheRokuChannel_880x880.png?raw=true" group-title="The Roku Channel",** Kids & Family **
 https://od.lk/s/MF8yMjE2NTkzNDVf/Roku_Boot-Animation_2017.mp4?KidsFamily
@@ -2427,9 +2453,6 @@ https://connection3-ent.roku.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 group-title="The Roku Channel",ACC Network (720p)
 https://a.jsrdn.com/broadcast/542cb2ce3c/+0000/c.m3u8
 
-#EXTINF:-1 group-title="The Roku Channel",ActionMax East (360p) [Not 24/7]
-http://31.220.41.88:8081/live/us-cinemaxaction.stream/playlist.m3u8
-
 #EXTINF:-1 group-title="The Roku Channel",AMG TV (1080p)
 https://2-fss-2.streamhoster.com/pl_138/201660-1270634-1/playlist.m3u8
 #EXTINF:-1 group-title="The Roku Channel",Amga TV (720p) [Not 24/7]
@@ -2440,12 +2463,6 @@ https://streamer1.connectto.com/AMGA_WEB_1202/playlist.m3u8
 
 #EXTINF:-1 group-title="The Roku Channel",Camp Spoopy (720p)
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=269
-
-#EXTINF:-1 group-title="The Roku Channel",Cinemax East (360p) [Not 24/7]
-http://31.220.41.88:8081/live/us-cinemax.stream/playlist.m3u8
-
-#EXTINF:-1 group-title="The Roku Channel",KBP Sports (720p) [Not 24/7]
-https://live-k2302-kbp.1plus1.video/sport/smil:sport.smil/playlist.m3u8
 
 #EXTINF:-1 group-title="The Roku Channel",MPT PBS Owings Mills MD (1080p)
 https://2-fss-2.streamhoster.com/pl_138/amlst:201814-1291584/playlist.m3u8
@@ -2486,20 +2503,11 @@ https://b9860b21629b415987978bdbbfbc3095.mediatailor.us-east-1.amazonaws.com/v1/
 #EXTINF:-1 group-title="The Roku Channel",Redbox 1: Spotlight (1080p)
 https://spotlight-rokuus.amagi.tv/hls/amagi_hls_data_redboxAAA-spotlight-roku/CDN/playlist.m3u8
 
-#EXTINF:-1 group-title="The Roku Channel",MovieMix (720p)
-https://moviemix.samsung.wurl.com/manifest/playlist.m3u8
-
-#EXTINF:-1 group-title="The Roku Channel",Ion Qubo (720p)
-https://ion-qubo-1.vizio.wurl.com/manifest/playlist.m3u8
-
 #EXTINF:-1 group-title="The Roku Channel",Fido TV
 https://fidotv-roku.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 group-title="The Roku Channel",Spotlight (1080p)
 https://spotlight-vizio.amagi.tv/playlist.m3u8
-
-#EXTINF:-1 group-title="The Roku Channel",NBCLX (1080p)
-https://lxlive-lh.akamaihd.net/i/LX_LIVE@148206/master.m3u8
 
 #EXTINF:-1 tvg-id="NYXT.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/KiIzWmO.jpg" group-title="",NYXT (1080p)
 https://api.new.livestream.com/accounts/19770665/events/5522162/live.m3u8
@@ -2514,45 +2522,20 @@ https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=31
 #EXTINF:-1 group-title="The Roku Channel",Watch It Kid (720p)
 https://content.uplynk.com/channel/ce3b524c342247549e996e7d3a977157.m3u8
 
-#comment#EXTINF:-1 group-title="The Roku Channel",Roku | tbs
-#commenthttp://live.tv247.club/live/tbs.m3u8
-
-#comment#EXTINF:-1 group-title="The Roku Channel",Roku | cbs
-#commenthttp://live.tv247.club/live/cbs.m3u8
-
-#comment#EXTINF:-1 group-title="The Roku Channel",Roku | FX
-#commenthttp://live.tv247.club/live/fxx.m3u8
-
-#comment#EXTINF:-1 group-title="The Roku Channel",Roku | MLB
-#commenthttp://live.tv247.club/live/mlb.m3u8
-
-#comment#EXTINF:-1 group-title="The Roku Channel",Roku | FOX
-#commenthttp://cdn.tv247.us/channel2/fox.m3u8
-
-#comment#EXTINF:-1 group-title="The Roku Channel",Roku | Cinemax
-#commenthttp://live.tv247.club/live/cinemax.m3u8
-
-#comment#EXTINF:-1 group-title="The Roku Channel",Roku | CW
-#commenthttp://live.tv247.club/live/cw.m3u8
-
 #EXTINF:-1 group-title="The Roku Channel",Rakuten Action Movies UK (720p)
 https://rakuten-actionmovies-1-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:-1 group-title="The Roku Channel",Rakuten Comedy Movies UK (720p)
 https://rakuten-comedymovies-1-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="The Roku Channel",Rakuten Family UK (720p)
+https://rakuten-family-1-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:-1 group-title="The Roku Channel",Rakuten Spotlight UK (720p)
 https://rakuten-spotlight-1-eu.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:-group-title="The Roku Channel",Rakuten Top Free UK (720p)
-https://rakuten-topfree-1-eu.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:-1 group-title="The Roku Channel",Rakuten TV Shows UK (720p)
+#EXTINF:-1 group-title="The Roku Channel",Rakuten Shows UK (720p)
 https://rakuten-tvshows-1-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="The Roku Channel",Rakuten Top Free UK (720p)
+https://rakuten-topfree-1-eu.rakuten.wurl.tv/playlist.m3u8
 
 
-
-#EXTINF:-1 group-title="The Roku Channel",Xumo Free Movies
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokuxumofreemovies/CDN/playlist.m3u8
-
-#EXTINF:-1 group-title="The Roku Channel",Roku | ABC
-http://cdn.tv247.us/channel2/abc.m3u8
 
 #EXTINF:-1 group-title="The Roku Channel",Roku | DW English
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
@@ -2560,12 +2543,12 @@ https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
 #EXTINF:-1 tvg-id="c6ea97" tvg-name="Crackle" tvg-chno="220" tvg-logo="https://i.imgur.com/9EgtUok.png" group-title="The Roku Channel",Crackle 
 https://crackle-plex.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="10688f" tvg-name="Popcornflix" tvg-chno="222" tvg-logo="https://i.imgur.com/ATUaSCV.png" group-title="The Roku Channel",Popcornflix 
+#comment#EXTINF:-1 tvg-id="10688f" tvg-name="Popcornflix" tvg-chno="222" tvg-logo="https://i.imgur.com/ATUaSCV.png" group-title="The Roku Channel",Popcornflix 
 #commenthttps://popcornflix-plex.amagi.tv/playlist.m3u8
-https://stitcheraws.unreel.me/wse-node02.powr.com/live/5d4b21643f4d602ba521b06c/playlist.m3u8
+#commenthttps://stitcheraws.unreel.me/wse-node02.powr.com/live/5d4b21643f4d602ba521b06c/playlist.m3u8
 
-#EXTINF:-1 tvg-id="10688f" tvg-name="Popcornflix_(alt)" tvg-chno="223" tvg-logo="https://i.imgur.com/ATUaSCV.png" group-title="The Roku Channel",Popcornflix (alt) 
-https://studio1091-samsungus.amagi.tv/popcornflix-xumo/playlist.m3u8
+#comment#EXTINF:-1 tvg-id="10688f" tvg-name="Popcornflix_(alt)" tvg-chno="223" tvg-logo="https://i.imgur.com/ATUaSCV.png" group-title="The Roku Channel",Popcornflix (alt) 
+#commenthttps://studio1091-samsungus.amagi.tv/popcornflix-xumo/playlist.m3u8
 
 #EXTINF:-1 tvg-id="bb3805" tvg-name="The_Design_Network" tvg-chno="274" tvg-logo="https://i.imgur.com/LoUGscj.png" group-title="The Roku Channel",The Design Network 
 https://thedesignnetwork-tdn-5.plex.wurl.com/manifest/playlist.m3u8
@@ -2573,171 +2556,87 @@ https://thedesignnetwork-tdn-5.plex.wurl.com/manifest/playlist.m3u8
 #comment#EXTINF:-1 group-title="The Roku Channel",Telemundo 40 Arizona (1080p)
 #commenthttps://cdn87.theus6tv.tk/locals/Pheonix/ktaz-dt1.m3u8
 
-#EXTINF:-1 group-title="The Roku Channel",WXTV-DT1 (Univision 41) (720p)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36
-http://v-ny.theus6tv.duckdns.org/hls/41.1/playlist.m3u8
+#comment#EXTINF:-1 group-title="The Roku Channel",WXTV-DT1 (Univision 41) (720p)
+#comment#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36
+#commenthttp://v-ny.theus6tv.duckdns.org/hls/41.1/playlist.m3u8
 
-#EXTINF:-1 group-title="The Roku Channel",WPVI-DT1 (ABC 6) (720p)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36
-http://v-pi.theus6tv.duckdns.org/hls/6.1/playlist.m3u8
+#EXTINF:-1 group-title="The Roku Channel",PIX11 (720p)
+https://content.uplynk.com/channel/98828f7707b84dc496472d5789143df2.m3u8
 
-#EXTINF:-1 group-title="The Roku Channel",WNYW-DT1 (FOX 5) (720p)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36
-http://v-ny.theus6tv.duckdns.org/hls/5.1/playlist.m3u8
+#EXTINF:-1 group-title="The Roku Channel",Channel 11
+https://cdn3.wowza.com/5/RXJNMFI3VlVkOEFP/scottsdale/G0040_007/chunklist.m3u8
+#EXTINF:-1 group-title="The Roku Channel",KALO TV (432p)
+https://10380e91fda5e303.mediapackage.us-west-2.amazonaws.com/out/v1/e8a622ce6ed34d07b468dd6ea2f94ee8/index.m3u8
+#EXTINF:-1 group-title="The Roku Channel",KBEV Spectrum Channel 6 [Beverly Hills] (1080p)
+https://s3-us-west-2.amazonaws.com/beverly-hills-high-school.castus-vod/live/ch1/video.m3u8
+#EXTINF:-1 group-title="The Roku Channel",KBP Sports (720p) [Not 24/7]
+https://live-k2302-kbp.1plus1.video/sport/smil:sport.smil/playlist.m3u8
+#EXTINF:-1 group-title="The Roku Channel",Ready Set Action (720p)
+https://simultv.s.llnwi.net/o059/ReadySetAction/interlink.m3u8
+
+#EXTINF:-1 group-title="The Roku Channel",ABC 2 Baton Rouge LA (WBRZ) (720p) [Not 24/7]
+http://cms-wowza.lunabyte.io/wbrz-live-1/_definst_/smil:wbrz-live.smil/playlist.m3u8
+#EXTINF:-1 group-title="The Roku Channel",ABC 4 Seattle WA (KOMO-TV) (720p)
+https://content.uplynk.com/2c88dfe19e1447e6a6aa27e8e143a140.m3u8
+#EXTINF:-1 group-title="The Roku Channel",ABC 7 Los Angeles CA (KABC-TV) (720p)
+https://content.uplynk.com/channel/ext/2118d9222a87420ab69223af9cfa0a0f/kabc_24x7_news.m3u8
+#EXTINF:-1 group-title="The Roku Channel",ABC 7 Denver CO (KMGH) (720p)
+https://content.uplynk.com/channel/64ca339f04964a5e961c3207a7771bf1.m3u8
+#EXTINF:-1 group-title="The Roku Channel",ABC 7 Washington DC (WJLA) (720p)
+https://content.uplynk.com/40cec2bf074c40f08932da03ab4510be.m3u8
+#EXTINF:-1 group-title="The Roku Channel",ABC 9 Orlando FL (WFTV) (720p)
+https://d3qm7vzp07vxse.cloudfront.net/v1/master/77872db67918a151b697b5fbc23151e5765767dc/cmg_PROD_cmg-tv-10070_fe1f5f6c-cd0b-4993-a4a4-6db66be4f313_LE/in/cmg-wftvtv-hls-v3/live.m3u8
+#EXTINF:-1 group-title="The Roku Channel",ABC 13 Las Vegas NV (KTNV) (720p)
+https://content.uplynk.com/channel/39919d3f7a074eefa8bf579214e952f9.m3u8
+#EXTINF:-1 group-title="The Roku Channel",ABC 15 Phoenix AZ (KNXV-TV) (720p)
+https://content.uplynk.com/channel/9deaf22aaa33461f9cac22e030ed00ec.m3u8
+#EXTINF:-1 group-title="The Roku Channel",23 ABC Bakersfield CA (KERO) (720p)
+https://content.uplynk.com/channel/ff809e6d9ec34109abfb333f0d4444b5.m3u8
+
+#EXTINF:-1 group-title="The Roku Channel",CBS 3 Omaha NE (KMTV-TV) (720p)
+https://content.uplynk.com/4a09fbea28ef4f32bce095e9eae04bd8.m3u8
+#EXTINF:-1 group-title="The Roku Channel",CBS 3 Omaha NE (KMTV-TV) (720p)
+https://content.uplynk.com/channel/328d1434fb51476cb6567c74d5b2cc70.m3u8
+#EXTINF:-1 group-title="The Roku Channel",CBS 6 Albany NY (WRGB) (720p)
+https://content.uplynk.com/channel/bba3e7da884a49bba96341ecf5128f0f.m3u8
+#EXTINF:-1 group-title="The Roku Channel",CBS 12 West Palm Beach FL (WPEC) (720p)
+https://content.uplynk.com/channel/0123b306191a4307a31b9fb573213fd3.m3u8
+
+#EXTINF:-1 group-title="The Roku Channel",NBC 15 Madison WI (WMTV) (720p)
+https://ad-playlistserver.aws.syncbak.com/playlist/899088/master.m3u8?access_token=eyJhbGciOiJIUzI1NiIsImtpZCI6IkdyYXkyMDE2MDgyOSIsInN1YiI6IioiLCJ0eXAiOiJKV1QifQ.eyJleHAiOjE3OTAzNjkxMDUsImlzcyI6IldMUyIsIm1kNSI6ImJhZTU4Y2ZlZWM2NmU1MjZkNmVjZmE1YmUzNTQxMzQ4IiwibWlkIjoiODk5MDg4In0.vBWkHmqS3z3dpq8UWfbk4wFd-vQlj6B0up-rpt7X_7Q
+#EXTINF:-1 group-title="The Roku Channel",NBC 26 Green Bay WI (WGBA) (720p)
+https://content.uplynk.com/channel/1fbfb28ae5044f619f75ae0adb011989.m3u8
 
 
-#EXTINF:-1 group-title="The Roku Channel",WNBC-DT1 (NBC 4) (1080p) [Not 24/7]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36
-http://v-ny.theus6tv.duckdns.org/hls/4.1/playlist.m3u8
-
-#EXTINF:-1 group-title="The Roku Channel",WCBS-DT1 (CBS 2) (1080p)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36
-http://v-ny.theus6tv.duckdns.org/hls/2.1/playlist.m3u8
-
-#EXTINF:-1 group-title="The Roku Channel",WACP-DT6 (The Family Channel) (480p)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36
-http://v-pi.theus6tv.duckdns.org/hls/4.6/playlist.m3u8
-#EXTINF:-1 group-title="The Roku Channel",WCAU-DT1 (NBC 10) (1080p)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36
-http://v-pi.theus6tv.duckdns.org/hls/10.1/playlist.m3u8
-
-#EXTINF:-1 group-title="The Roku Channel",KYW-DT1 (CBS 3) (1080p)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36
-http://v-pi.theus6tv.duckdns.org/hls/3.1/playlist.m3u8
-
-#EXTINF:-1 group-title="The Roku Channel",WABC-DT1 (ABC 7) (720p)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36
-http://v-ny.theus6tv.duckdns.org/hls/7.1/playlist.m3u8
-
-#EXTINF:-1 group-title="The Roku Channel",WTXF-DT1 (FOX 29) (720p)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36
-http://v-pi.theus6tv.duckdns.org/hls/29.1/playlist.m3u8
-
-#EXTINF:-1 group-title="The Roku Channel",WABC-DT2 (Localish)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36
-http://v-ny.theus6tv.duckdns.org/hls/7.2/playlist.m3u8
-
-#EXTINF:-1 group-title="The Roku Channel",WMBQ-LD (FNX) (432p)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36
-http://v-ny.theus6tv.duckdns.org/hls/46.1/playlist.m3u8
-
-#EXTINF:-1 group-title="The Roku Channel",WNET-DT1 (PBS THIRTEEN) (1080p)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36
-http://v-ny.theus6tv.duckdns.org/hls/13.1/playlist.m3u8
-
-#EXTINF:-1 group-title="The Roku Channel",WNET-DT2 (PBS KIDS) (720p)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36
-http://v-ny.theus6tv.duckdns.org/hls/13.2/playlist.m3u8
-
-#EXTINF:-1 group-title="The Roku Channel",WNJS-DT1 (NJ PBS) (1080p)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36
-http://v-pi.theus6tv.duckdns.org/hls/23.1/playlist.m3u8
-
-#EXTINF:-1 group-title="The Roku Channel",WPPX-DT5 (Laff) (432p)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36
-http://v-pi.theus6tv.duckdns.org/hls/61.5/playlist.m3u8
-
-#EXTINF:-1 group-title="The Roku Channel",WNBC-DT2 (COZI TV) (432p)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36
-http://v-ny.theus6tv.duckdns.org/hls/4.2/playlist.m3u8
-
-#EXTINF:-1 group-title="The Roku Channel",WNJS-DT2 (NHK WORLD) (1080p)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36
-http://v-pi.theus6tv.duckdns.org/hls/23.2/playlist.m3u8
-
-#EXTINF:-1 group-title="The Roku Channel",WCBS-DT2 (Start TV)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36
-http://v-ny.theus6tv.duckdns.org/hls/2.2/playlist.m3u8
-
-#EXTINF:-1 group-title="The Roku Channel",WNYE-DT1 (NYC Life) (1080p)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36
-http://v-ny.theus6tv.duckdns.org/hls/25.1/playlist.m3u8
-#EXTINF:-1 group-title="The Roku Channel",WNYE-DT2 (NYC Gov) (432p)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36
-http://v-ny.theus6tv.duckdns.org/hls/25.2/playlist.m3u8
-#EXTINF:-1 group-title="The Roku Channel",WNYE-DT3 (CUNY TV) (1080p)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36
-http://v-ny.theus6tv.duckdns.org/hls/25.3/playlist.m3u8
-#EXTINF:-1 group-title="The Roku Channel",WNYW-DT2 (Movies!)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36
-http://v-ny.theus6tv.duckdns.org/hls/5.2/playlist.m3u8
-#EXTINF:-1 group-title="The Roku Channel",WNYW-DT4 (The Grio)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36
-http://v-ny.theus6tv.duckdns.org/hls/5.4/playlist.m3u8
-#EXTINF:-1 group-title="The Roku Channel",WNYW-DT5 (Decades)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36
-http://v-ny.theus6tv.duckdns.org/hls/5.5/playlist.m3u8
-#EXTINF:-1 group-title="The Roku Channel",WPHL-DT1 (PHL17) (720p)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36
-http://v-pi.theus6tv.duckdns.org/hls/17.1/playlist.m3u8
-#EXTINF:-1 group-title="The Roku Channel",WPHL-DT2 (Antenna TV) (480p)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36
-http://v-pi.theus6tv.duckdns.org/hls/17.2/playlist.m3u8
-#EXTINF:-1 group-title="The Roku Channel",WPIX-DT1 (PIX 11)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36
-http://v-ny.theus6tv.duckdns.org/hls/11.1/playlist.m3u8
-#EXTINF:-1 group-title="The Roku Channel",WPPX-DT4 (TrueReal) (480p)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36
-http://v-pi.theus6tv.duckdns.org/hls/61.4/playlist.m3u8
-#EXTINF:-1 group-title="The Roku Channel",WPXN-DT1 (Ion East)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36
-http://v-ny.theus6tv.duckdns.org/hls/31.1/playlist.m3u8
-#EXTINF:-1 group-title="The Roku Channel",WPXN-DT2 (Bounce HD)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36
-http://v-ny.theus6tv.duckdns.org/hls/31.2/playlist.m3u8
-#EXTINF:-1 group-title="The Roku Channel",WPXN-DT3 (ION Mystery)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36
-http://v-ny.theus6tv.duckdns.org/hls/31.3/playlist.m3u8
-#EXTINF:-1 group-title="The Roku Channel",WWOR-DT1 (my9)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36
-http://v-ny.theus6tv.duckdns.org/hls/9.1/playlist.m3u8
-#EXTINF:-1 group-title="The Roku Channel",WXTV-DT3 (Twist)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36
-http://v-ny.theus6tv.duckdns.org/hls/41.3/playlist.m3u8
-
-#EXTINF:-1 group-title="The Roku Channel",WCBS-DT3 (Dabl)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36
-http://v-ny.theus6tv.duckdns.org/hls/2.3/playlist.m3u8
-#EXTINF:-1 group-title="The Roku Channel",WCBS-DT4 (FaveTV)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36
-http://v-ny.theus6tv.duckdns.org/hls/2.4/playlist.m3u8
-
-#EXTINF:-1 group-title="The Roku Channel",WLIW-DT2 (Create TV) (432p)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36
-http://v-ny.theus6tv.duckdns.org/hls/21.2/playlist.m3u8
-#EXTINF:-1 group-title="The Roku Channel",WLIW-DT3 (World) (432p)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36
-http://v-ny.theus6tv.duckdns.org/hls/21.3/playlist.m3u8
-#EXTINF:-1 group-title="The Roku Channel",WLIW-DT4 (All Arts) (1080p)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36
-http://v-ny.theus6tv.duckdns.org/hls/21.4/playlist.m3u8
-
+#EXTINF:-1 group-title="The Roku Channel",PBS KET Louisville KY (WKMJ-TV) (720p)
+https://2-fss-1.streamhoster.com/pl_134/amlst:200914-1282960/playlist.m3u8
+#EXTINF:-1 group-title="The Roku Channel",PBS KET World (480p)
+https://2-fss-1.streamhoster.com/pl_122/amlst:200914-2942150/playlist.m3u8
+#EXTINF:-1 group-title="The Roku Channel",PBS KET2 (720p)
+https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1315484/playlist.m3u8
+#EXTINF:-1 group-title="The Roku Channel",PBS KET KY (480p)
+https://2-fss-2.streamhoster.com/pl_132/amlst:200914-1315486/playlist.m3u8
+#EXTINF:-1 group-title="The Roku Channel",PBS 39 Allentown PA (WLVT) (720p)
+https://forerunnerrtmp.livestreamingcdn.com/output18/output18.stream/playlist.m3u8
+#EXTINF:-1 group-title="The Roku Channel",PBS MPT Baltimore MD (WMPB) (1080p)
+https://2-fss-2.streamhoster.com/pl_138/amlst:201814-1291584/playlist.m3u8
+#EXTINF:-1 group-title="The Roku Channel",PBS 39 Extra Philadelphia (480p)
+https://forerunnerrtmp.livestreamingcdn.com/output18-2/output18-2.stream/playlist.m3u8
 
 #EXTINF:-1 group-title="The Roku Channel",AMC East (720p)
-https://bcovlive-a.akamaihd.net/ebf15ff84e98490e8b00209ed77c77f5/us-east-1/6240731308001/playlist.m3u8
+https://bcovlive-a.akamaihd.net/b3ed62003de946c896f4f541b908376e/us-east-1/6240731308001/playlist.m3u8
 
-#EXTINF:-1 group-title="The Roku Channel",Pluto TV CBS Sports HQ (1080p)
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5e9f2c05172a0f0007db4786/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5a6b92f6e22a617379789618&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=204&terminate=false&userId=
+#EXTINF:-1 group-title="The Roku Channel",IFC East (720p)
+https://bcovlive-a.akamaihd.net/045bd3b615254da880c3db79b2e42fd0/us-east-1/6240731308001/playlist.m3u8
 
-#comment ?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY
+#EXTINF:-1 group-title="The Roku Channel",Sony Movie Channel (720p)
+https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live1/smc_720p/playlist.m3u8
+#EXTINF:-1 group-title="The Roku Channel",Sony Movies (Sony Movie Channel)
+http://n1.klowdtv.net/live1/smc_720p/playlist.m3u8
+#EXTINF:-1 group-title="The Roku Channel",24 Hour Free Movies (720p) [Not 24/7]
+https://d15690s323oesy.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/UDU-Plex2/145.m3u8
 
-#EXTINF:-1 group-title="The Roku Channel",Pluto TV CBSN (720p)
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5a6b92f6e22a617379789618/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5a6b92f6e22a617379789618&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=204&terminate=false&userId=
 
-#EXTINF:-1 group-title="The Roku Channel",Pluto TV CBSN Baltimore MD (720p) [Not 24/7]
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60f75919718aed0007250d7a/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY
-
-
-#comment#EXTINF:-1 group-title="The Roku Channel",WKOB-LD2 (Daystar) (480p)
-#comment#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36
-#commenthttps://v-ny.theus6tv.tk/hls/42.2/playlist.m3u8
-
-#EXTINF:-1 group-title="The Roku Channel",WHYY-DT3 (Y Kids) (720p)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36
-https://v-pi.theus6tv.tk/hls/12.3/playlist.m3u8
-#EXTINF:-1 group-title="The Roku Channel",WKOB-LD1 (Azteca America 42) (720p)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36
-https://v-ny.theus6tv.tk/hls/42.1/playlist.m3u8
 
 #EXTINF:-1 tvg-id="8b1169" tvg-name="KidsFlix" tvg-chno="722" tvg-logo="https://i.imgur.com/ZbAVzad.png" group-title="The Roku Channel",KidsFlix 
 https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=50&live=1&app_bundle=com.plexapp.desktop
@@ -2745,7 +2644,9 @@ https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=50&live=1&app_b
 #EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/TheRokuChannel_880x880.png?raw=true" group-title="The Roku Channel",Roku | Global Got Talent
 https://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-rokugottalentglobal/CDN/playlist.m3u8
 
+#EXTINF:-1 group-title="The Roku Channel",Roku |Nitro Circus (720p)
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxnitrocircus/CDN/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/TheRokuChannel_880x880.png?raw=true" group-title="The Roku Channel",Roku | Just For Laughs Gags
 #Commenthttps://dai2.xumo.com/amagi_hls_data_xumo1212A-rokujustforlaughsgags/CDN/master.m3u8?p=roku&rdid=d3e60034-bdd6-5f69-a7a8-a82b92d5b116&coppa=false&is_lat=1&is_roku_lat=1&content_type=livefeed&content=3846e8e55bbe5d5c9032018b9384308a&genre=comedy&platform=web&content_rating=ROKU_ADS_CONTENT_RATING&channel_id=ROKU_CHANNEL_ID&bmodel=bm1&studio_id=just_for_laughs&channelStore=us&tags=ROKU_CONTENT_TAGS
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-viziojustforlaughsgags/CDN/playlist.m3u8
-
