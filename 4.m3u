@@ -2453,11 +2453,6 @@ https://rakuten-tvshows-1-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:-1 group-title="The Roku Channel",Rakuten Top Free UK (720p)
 https://rakuten-topfree-1-eu.rakuten.wurl.tv/playlist.m3u8
 
-
-
-#EXTINF:-1 group-title="The Roku Channel",Roku | DW English
-https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
-
 #EXTINF:-1 tvg-id="c6ea97" tvg-name="Crackle" tvg-chno="220" tvg-logo="https://i.imgur.com/9EgtUok.png" group-title="The Roku Channel",Crackle 
 https://crackle-plex.amagi.tv/playlist.m3u8
 
@@ -2531,6 +2526,26 @@ https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live1/smc_720p/playlist.m3u8
 http://n1.klowdtv.net/live1/smc_720p/playlist.m3u8
 #EXTINF:-1 group-title="The Roku Channel",24 Hour Free Movies (720p) [Not 24/7]
 https://d15690s323oesy.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/UDU-Plex2/145.m3u8
+
+#EXTINF:-1 group-title="The Roku Channel",ТНТ International (480p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
+http://ott-cdn.ucom.am/s19/04.m3u8
+
+#EXTINF:-1 group-title="The Roku Channel",RT (1080p) [Not 24/7]
+https://cdn.odysee.live/content/fdd11cb3ab75f95efb7b3bc2d726aa13ac915b66/master.m3u8
+
+#EXTINF:-1 group-title="The Roku Channel",RT en Español (1080p)
+https://cdn.odysee.live/content/9f638b94d11d879726ae55dd5a0923621b96a45b/master.m3u8
+
+#EXTINF:-1 group-title="The Roku Channel",France 24 English (1080p)
+https://ythls.onrender.com/channel/UCQfwfsi5VrQ8yKZ-UWmAEFg.m3u8
+#EXTINF:-1 group-title="The Roku Channel",France 24 Español (1080p)
+https://ythls.onrender.com/channel/UCUdOoVWuWmgo1wByzcsyKDQ.m3u8
+#EXTINF:-1 group-title="The Roku Channel",France 24 French (1080p)
+https://ythls.onrender.com/channel/UCCCPCZNChQdGa9EkATeye4g.m3u8
+
+#EXTINF:-1 group-title="The Roku Channel",Roku | DW English
+https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
 
 #EXTINF:-1 group-title="The Roku Channel",Fox 54.1 Huntsville
 https://livevideo01.rocketcitynow.com/hls/live/2011659/elvs/live.m3u8
