@@ -377,9 +377,11 @@ https://5f1af61612fb5.streamlock.net/tv43/videotv43_480p/playlist.m3u8
 #EXTINF:-1 group-title="MEXICO",Canal 4.3 Gto (LEON) opc_3
 https://5f1af61612fb5.streamlock.net/tv43/videotv43_720p/playlist.m3u8
 
-
 #EXTINF:-1 group-title="MEXICO",Canal 4.4 Gto (LEON)
 https://5ca3e84a76d30.streamlock.net/tv44/videotv44_360p/playlist.m3u8
+
+#EXTINF:-1 group-title="MEXICO",NRT México Canal 4 (720p)
+https://59e88b197fb16.streamlock.net:4443/live/canal4/playlist.m3u8
 
 #EXTINF:-1 group-title="MEXICO",Canal Catorce
 https://60ed5b6d0df78.streamlock.net:1936/segundo/segundo/index.m3u8

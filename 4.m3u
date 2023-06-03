@@ -58,10 +58,6 @@ https://livestream.pbskids.org/out/v1/1e3d77b418ad4a819b3f4c80ac0373b5/est.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/tvoKIDS_235x235.png?raw=true" group-title="THE_BEST_KIDS_TV",Kabillion opt2
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxkabillion/CDN/playlist.m3u8
 
-#EXTINF:-1 group-title="KIDS_TV",Brat TV (1080p)
-#commenthttps://brat-roku-us.amagi.tv/playlist.m3u8
-https://brat-samsung-us.amagi.tv/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="http://pluto.tv.s3.amazonaws.com/channels/5ca673e0d0bd6c2689c94ce3/featuredImage.jpg" group-title="KIDS_TV",Nick
 https://stitcher.pluto.tv/stitch/hls/channel/5ca673e0d0bd6c2689c94ce3/master.m3u8?deviceId=cfe94b00-2178-4be3-9807-ea6b44f14a09&deviceVersion=80.0.3987.106&appVersion=5.6.0-05e6d11bfce7210bc262d7e9f2a96fc738b8ad86&deviceType=web&deviceMake=Chrome&sid=b21723ea-fade-4f00-b391-565f0326fe9e&deviceDNT=0&deviceModel=Chrome
 
@@ -666,9 +662,6 @@ https://linear-12.frequency.stream/dist/localnow/12/hls/master/playlist.m3u8
 https://2-fss-2.streamhoster.com/pl_138/201660-1270634-1/playlist.m3u8
 #comment#EXTINF:-1 tvg-id="" group-title="ENTERTAIMENT",New Kid TV (1080p)
 #commenthttps://newidco-newkid-2.roku.wurl.com/manifest/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" group-title="ENTERTAIMENT",Ion Plus (1080p)
-https://ion-plus.samsung.wurl.com/manifest/playlist.m3u8
 
 
 #comment#EXTINF:-1 tvg-id="" group-title="ENTERTAIMENT",Butaca TV (720p)
@@ -2550,6 +2543,9 @@ https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
 #EXTINF:-1 group-title="The Roku Channel",Fox 54.1 Huntsville
 https://livevideo01.rocketcitynow.com/hls/live/2011659/elvs/live.m3u8
 
+#EXTINF:-1 group-title="The Roku Channel",KSHB 41 (Kansas City MO) (720p)
+https://content.uplynk.com/channel/50d0fa1b042945a3a4f550f9b8412c83.m3u8
+
 #EXTINF:-1 group-title="The Roku Channel",PBS KET Louisville KY (WKMJ-TV) (720p)
 https://2-fss-1.streamhoster.com/pl_134/amlst:200914-1282960/playlist.m3u8
 #EXTINF:-1 group-title="The Roku Channel",PBS KET World (480p)
@@ -2565,7 +2561,14 @@ https://2-fss-2.streamhoster.com/pl_138/amlst:201814-1291584/playlist.m3u8
 #EXTINF:-1 group-title="The Roku Channel",PBS 39 Extra Philadelphia (480p)
 https://forerunnerrtmp.livestreamingcdn.com/output18-2/output18-2.stream/playlist.m3u8
 
-#EXTINF:-1 group-title="The Roku Channel" user-agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.97 Safari/537.36 OPR/65.0.3467.48",WGN Chicago IL (WGN-TV1) (720p)
+#EXTINF:-1 group-title="KIDS_TV",Brat TV (1080p)
+#commenthttps://brat-roku-us.amagi.tv/playlist.m3u8
+https://brat-samsung-us.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="KIDS_TV",Ion Plus (1080p)
+https://ion-plus.samsung.wurl.com/manifest/playlist.m3u8
+
+#EXTINF:-1 group-title="The Roku Channel" ,WGN Chicago IL (WGN-TV1) (720p)
 #EXTVLCOPT:http-referrer=https://plus.teleup.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.97 Safari/537.36 OPR/65.0.3467.48
 https://cdn1-8p.teleuptv.net/3773db6d-881b-4096-b9cc-b4fe99ab68ac/index.m3u8
