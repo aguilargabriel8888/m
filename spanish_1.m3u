@@ -13,17 +13,20 @@ https://mdstrm.com/live-stream-playlist/609b243156cca108312822a6.m3u8
 https://cloud2.streaminglivehd.com:1936/8018/8018/playlist.m3u8
 
 
-#EXTINF:-1 group-title="MOVIES",Digital 15 (1080p)
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://livestream.com/accounts/27456795/events/8268514/player
+#comment#EXTINF:-1 group-title="MOVIES",Digital 15 (1080p)
+#commenthttp://free.fullspeed.tv/iptv-query?streaming-ip=https://livestream.com/accounts/27456795/events/8268514/player
 
 #EXTINF:-1 group-title="MOVIES",TeleCanal 12
-https://cdn4.hostlagarto.com:8081/static/telecanal12/playlist.m3u8
+#commenthttps://cdn4.hostlagarto.com:8081/static/telecanal12/playlist.m3u8
+https://rdn.essastream.com:3258/live/telecanal12live.m3u8
 
 #EXTINF:-1 group-title="MOVIES",Punta Cana Tv
-https://cdn4.hostlagarto.com:8081/static/puntacanatv/playlist.m3u8
+#commenthttps://cdn4.hostlagarto.com:8081/static/puntacanatv/playlist.m3u8
+https://rdn.essastream.com:3544/live/puntacanatvlive.m3u8
 
 #EXTINF:-1 group-title="MOVIES",BELLAVISION
-https://cdn4.hostlagarto.com:8081/static/Bellavision8hd/playlist.m3u8
+#commenthttps://cdn4.hostlagarto.com:8081/static/Bellavision8hd/playlist.m3u8
+https://rdn.essastream.com:3110/live/bellavision8hdlive.m3u8
 
 #EXTINF:-1 group-title="MOVIES",TELE_CARIBE
 https://cloudflare.streamgato.us:3413/live/telecaribehdlive.m3u8
@@ -93,8 +96,8 @@ https://tv.ghtelevision.com:3018/live/ghtelevisionlive.m3u8
 #comment#EXTINF:-1 tvg-logo="https://i.imgur.com/YhMZXUp.png" group-title="MOVIES",Romana TV 42
 #commenthttp://tv.romanatv42.com/hls/live.m3u8
 
-#EXTINF:-1 group-title="MOVIES", Cine Club
-https://servilive.com:3176/live/cineclublive.m3u8
+#comment#EXTINF:-1 group-title="MOVIES", Cine Club
+#commenthttps://servilive.com:3176/live/cineclublive.m3u8
 
 #comment#EXTINF:-1 group-title="MOVIES", Viwix TV Accion | CL
 #commenthttps://s2.tvdatta.com:3457/hybrid/play.m3u8?PlaylistM3UCL
@@ -112,6 +115,12 @@ https://servilive.com:3176/live/cineclublive.m3u8
 https://ss2.domint.net:3200/gdm_str/gdmtv/playlist.m3u8
 #EXTINF:-1 group-title="MOVIES",MEGA TV
 https://vdo1.streamgato.us:3711/live/megatvlive.m3u8
+#EXTINF:-1 group-title="MOVIES",MEGA CINE TV
+https://cloudflare.streamgato.us:3125/live/megacinetvlive.m3u8
+#EXTINF:-1 group-title="MOVIES",CLARO TV DOM
+https://vsrv2.az-streamingserver.com:3960/live/claroteledomlive.m3u8
+#EXTINF:-1 group-title="MOVIES",NITRO TV
+https://nitro-tv-vivalive.evrideo.tv/71960d71-216f-47f3-bfe5-5b1386c05760_0_HLS/manifest.m3u8
 #comment#EXTINF:-1 group-title="MOVIES",PH (720p) [Not 24/7]
 #commenthttps://cm.hostlagarto.com:4445/phtv/Phtv.myStream/playlist.m3u8
 #comment#EXTINF:-1 group-title="MOVIES",San Isidro TV (360p) [Not 24/7]
@@ -127,13 +136,15 @@ http://newyorkstream.ddns.net:1935/telenord12/telenord12/playlist.m3u8
 #EXTINF:-1 group-title="MOVIES",Megavision Canal 43 (480p) [Not 24/7]
 http://stream3.prostudionetwork.com:1943/megavision/MV/playlist.m3u8
 #EXTINF:-1 group-title="MOVIES",Microvision 10 (720p) [Not 24/7]
-http://190.103.183.24:1935/live/MicroHD/playlist.m3u8
+#commenthttp://190.103.183.24:1935/live/MicroHD/playlist.m3u8
+https://streaming.telecablecentral.com.do/live/MicroHD/playlist.m3u8
+#commenthttps://streaming.telecablecentral.com.do/live/MicroHD/playlist.m3u8
 #EXTINF:-1 group-title="MOVIES",SUPER CANAL 33
 https://elgruposupercanal.streamgato.us:3158/live/supercanal33live.m3u8
 #EXTINF:-1 group-title="MOVIES",CARIBE TV
 https://ssai.aniview.com/api/v1/hls/stream.m3u8
-#EXTINF:-1 group-title="MOVIES",Microvision
-https://elgruposupercanal.streamgato.us:3828/live/dominicanviewlive.m3u8
+#comment#EXTINF:-1 group-title="MOVIES",Microvision
+#commenthttps://elgruposupercanal.streamgato.us:3828/live/dominicanviewlive.m3u8
 
 #EXTINF:-1 group-title="MOVIES",Onda TV (720p)
 https://ss5.domint.net:3176/otv_str/ondatv/playlist.m3u8
@@ -162,8 +173,8 @@ https://vdo2.streamgato.us:3978/live/ctvlive.m3u8
 https://vdo2.streamgato.us:3035/live/estylotvlive.m3u8
 #EXTINF:-1 group-title="MOVIES",Guaymate TV (360p)
 https://5790d294af2dc.streamlock.net/8100/8100/playlist.m3u8
-#EXTINF:-1 group-title="MOVIES",Jazmín TV (360p)
-https://tvdatta.com:3957/hybrid/play.m3u8
+#comment#EXTINF:-1 group-title="MOVIES",Jazmín TV (360p)
+#commenthttps://tvdatta.com:3957/hybrid/play.m3u8
 #EXTINF:-1 group-title="MOVIES",La Caleta TV
 https://cdn4.hostlagarto.com:8081/static/lacaletatv/playlist.m3u8
 #EXTINF:-1 group-title="MOVIES",MorroTV
@@ -1000,7 +1011,8 @@ http://mangotv01.streamprolive.com/hls/live.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Sbv9mq5.png" group-title="DOMINICAN REPUBLIC",Microvision 10
 #commenthttp://190.103.183.24:1935/live/MicroHD/chunklist_w1468779956.m3u8
-http://190.103.183.24:1935/live/MicroHD/playlist.m3u8
+#commenthttp://190.103.183.24:1935/live/MicroHD/playlist.m3u8
+https://streaming.telecablecentral.com.do/live/MicroHD/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.claro.com.do/portal/do/gc/canales/1492716663156-Imagen.png" group-title="DOMINICAN REPUBLIC",Nexxo 20 opt 1
 #http://ss6.domint.net:2106/nxo_str/nexxotv/chunklist_w286018438.m3u8
