@@ -1,20 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://i.imgur.com/4kX1baN.png" group-title="MOVIES",Azteca 7
-#commenthttps://dai.google.com/linear/hls/event/YHoOj51dSKCvBQOBG2OvLQ/master.m3u8
-https://mdstrm.com/live-stream-playlist/609ad46a7a441137107d7a81.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/4kX1baN.png" group-title="MOVIES",Azteca Uno
-#commenthttps://dai.google.com/linear/hls/event/asXufUKSSKisiLSMHR2BXA/master.m3u8
-#commenthttps://dai.google.com/linear/hls/event/8FUmvMX3ShuQTgE3tEqxNg/master.m3u8
-https://mdstrm.com/live-stream-playlist/609b243156cca108312822a6.m3u8
-
-#EXTINF:-1 group-title="MOVIES",FMTV MUNDO
-#commenthttps://cloud2.streaminglivehd.com:1936/8070/8070/playlist.m3u8
-https://cloud2.streaminglivehd.com:1936/8018/8018/playlist.m3u8
-
-
-#comment#EXTINF:-1 group-title="MOVIES",Digital 15 (1080p)
-#commenthttp://free.fullspeed.tv/iptv-query?streaming-ip=https://livestream.com/accounts/27456795/events/8268514/player
 
 #EXTINF:-1 group-title="MOVIES",TeleCanal 12
 #commenthttps://cdn4.hostlagarto.com:8081/static/telecanal12/playlist.m3u8
@@ -32,7 +16,8 @@ https://rdn.essastream.com:3110/live/bellavision8hdlive.m3u8
 https://cloudflare.streamgato.us:3413/live/telecaribehdlive.m3u8
 
 #EXTINF:-1 group-title="MOVIES",CANAL18
-https://cdn4.hostlagarto.com:8081/static/canal18hd/playlist.m3u8
+#commenthttps://cdn4.hostlagarto.com:8081/static/canal18hd/playlist.m3u8
+https://rdn.essastream.com:3400/live/canal18hdlive.m3u8
 
 #comment#EXTINF:-1 group-title="MOVIES",MEGA CINE TV
 #commenthttps://cloudflare.streamgato.us:3125/live/megacinetvlive.m3u8
@@ -42,18 +27,21 @@ https://cdn4.hostlagarto.com:8081/static/canal18hd/playlist.m3u8
 #comment#EXTINF:-1 group-title="MOVIES", Viwix TV Accion
 #commenthttps://cloudvideo.servers10.com:8081/8128/index.m3u8?PlaylistM3UCL
 
-#comment#EXTINF:-1 group-title="MOVIES", NEXT TV
+#EXTINF:-1 group-title="MOVIES", NEXT TV
 #commenthttps://streaming.ath.cx:1936/nextv/nextv/playlist.m3u8
+https://vdo1.streamgato.us:3474/live/nextvhdlive.m3u8
 
 #comment#EXTINF:-1 group-title="MOVIES",Cinevision 19
 #commenthttps://live.teledom.info:3713/live/cinevisionlive.m3u8
 
 #EXTINF:-1 group-title="MOVIES",TELEVISON DEL ESTE
-https://cm.hostlagarto.com:4445/ESTV/estv.myStream/playlist.m3u8
+#commenthttps://cm.hostlagarto.com:4445/ESTV/estv.myStream/playlist.m3u8
+https://vdo2.streamgato.us:3632/live/televisiondelestelive.m3u8
 
 #EXTINF:-1 group-title="MOVIES",HM TV 33
 #commenthttps://cm.hostlagarto.com/Hmtv/hmtv.myStream/playlist.m3u8
-http://cm.hostlagarto.com:8081/Hmtv/hmtv.myStream/playlist.m3u8
+#commenthttp://cm.hostlagarto.com:8081/Hmtv/hmtv.myStream/playlist.m3u8
+https://cnn.essastream.com:3091/live/hmtvlive.m3u8
 
 #EXTINF:-1 group-title="MOVIES",Hermanas Mirabal TV
 https://cm.hostlagarto.com:4445/Hmtv/hmtv.myStream/playlist.m3u8
@@ -77,6 +65,7 @@ https://cdn3.streamgato.us:3938/live/nexxotvlive.m3u8
 
 #EXTINF:-1 group-title="MOVIES",DAN TV
 http://cm.hostlagarto.com:8081/Punaltv/punaltvHD.myStream/playlist.m3u8
+
 
 #EXTINF:-1 group-title="MOVIES",VALLEVISION
 #commenthttp://190.103.183.24:1935/Vallevision/ValleHD/playlist.m3u8
@@ -145,6 +134,9 @@ https://elgruposupercanal.streamgato.us:3158/live/supercanal33live.m3u8
 https://ssai.aniview.com/api/v1/hls/stream.m3u8
 #comment#EXTINF:-1 group-title="MOVIES",Microvision
 #commenthttps://elgruposupercanal.streamgato.us:3828/live/dominicanviewlive.m3u8
+
+#EXTINF:-1 group-title="MOVIES",Digital 15 (1080p)
+http://51.81.93.29:8084/hls/d15.m3u8
 
 #EXTINF:-1 group-title="MOVIES",Onda TV (720p)
 https://ss5.domint.net:3176/otv_str/ondatv/playlist.m3u8
@@ -258,6 +250,21 @@ https://cdn5.streamgato.us:3371/live/canal56live.m3u8
 #EXTINF:-1 group-title="MOVIES",TELEORIENTAL
 https://stream-us-east-1.getpublica.com/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4kX1baN.png" group-title="MOVIES",Azteca 7
+#commenthttps://dai.google.com/linear/hls/event/YHoOj51dSKCvBQOBG2OvLQ/master.m3u8
+https://mdstrm.com/live-stream-playlist/609ad46a7a441137107d7a81.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4kX1baN.png" group-title="MOVIES",Azteca Uno
+#commenthttps://dai.google.com/linear/hls/event/asXufUKSSKisiLSMHR2BXA/master.m3u8
+#commenthttps://dai.google.com/linear/hls/event/8FUmvMX3ShuQTgE3tEqxNg/master.m3u8
+https://mdstrm.com/live-stream-playlist/609b243156cca108312822a6.m3u8
+
+#EXTINF:-1 group-title="MOVIES",FMTV MUNDO
+#commenthttps://cloud2.streaminglivehd.com:1936/8070/8070/playlist.m3u8
+https://cloud2.streaminglivehd.com:1936/8018/8018/playlist.m3u8
+
+
+
 #EXTINF:-1 group-title="MOVIES",Runtime (Mexico) (1080p)
 https://runtimemx-samsungmx.amagi.tv/playlist.m3u8
 
@@ -322,6 +329,9 @@ https://vivo.canaloncelive.tv/alivepkgr3/ngrp:cepro_all/playlist.m3u8
 #EXTINF:-1 group-title="MEXICO",SMRYT Michoacan
 #commenthttps://6011c5681d877.streamlock.net:1936/enlinea/enlinea/playlist.m3u8
 https://60ed5b6d0df78.streamlock.net:1936/enlinea/enlinea/playlist.m3u8
+
+#EXTINF:-1 group-title="MEXICO",AYM Sports
+https://epg.provider.plex.tv/library/parts/608049aefa2b8ae93c2c3a63-63f0c8c6a9c2ebc9d406dda0/variant.m3u8?url=53e17036c06869725a07eb2692c0f95e-2b66f327236673d1e9f22b415942917cd4ce72292ee735525a8a506922675c00af365809f5cdee0f65c7a65ffc861de50b6f6c61df6ac4e82b8a5b1af2f611793801a51ac6417809f42f42f73ca39635d8ea7ac8bc5fa05a93c9a47c12cd8fd2e2d6790ecd456d2311a8e91ef78efb8d&x-plex-token=BSG2gskrS-jzBoNFYvQf&x-plex-advertising-identifier=&x-plex-advertising-donottrack=0&x-plex-provider-streaming-start=1696807650
 
 #EXTINF:-1 group-title="MEXICO",TV UNAM
 #commenthttps://5e50264bd6766.streamlock.net/tvunam/videotvunam/playlist.m3u8
@@ -1625,7 +1635,8 @@ https://content.uplynk.com/channel/c1698e3bc70e429a887301d8831400f8.m3u8
 #commenthttps://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo121 2A-rokugottalentglobal/CDN/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/TheRokuChannel_880x880.png?raw=true" group-title="The Roku Channel",Roku | Just For Laughs Gags
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-viziojustforlaughsgags/CDN/playlist.m3u8
+#commenthttps://dai2.xumo.com/amagi_hls_data_xumo1212A-viziojustforlaughsgags/CDN/playlist.m3u8
+https://epg.provider.plex.tv/library/parts/608049aefa2b8ae93c2c3a63-64704954e536e0faaf10be9f/variant.m3u8?url=9389a26ac4039a2e785b54ef26ace76c-d7834caf64970c674463329f58c007d315cbba5e325208be26745fab080db5abdf83d778a939b473646aae85a409decd61fa88f37759ff59b79900efb45085b8a35c9380f8570e5af567588ca486e4e7d4abc620cdf713b2a3d35492091baf23cae22001ff0b55d85056eeee556ac854d57ac957a2936ddbdc2ebc6e8621fa8db9f374412f39199b14221c43820a76f311fb8445a715c92309d6e39f05c387c1dfbe91333a2a8d198bf75908644d849db62741ea4ac7655ace6bd747bbcc9782ec70a06126e96623403e809d3ae2b8e3&x-plex-token=BSG2gskrS-jzBoNFYvQf&x-plex-advertising-identifier=&x-plex-advertising-donottrack=0&x-plex-provider-streaming-start=1696807828
 
 
 
