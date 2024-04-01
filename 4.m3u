@@ -4,12 +4,20 @@
 #commenthttps://2-fss-1.streamhoster.com/pl_134/amlst:200914-1282960/playlist.m3u8?DVR
 https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8
 
-#EXTINF:-1 group-title="THE_BEST_KIDS_TV",EPG | PBS | KET_KY
-https://2-fss-2.streamhoster.com/pl_132/amlst:200914-1315486/playlist.m3u8
-
 #comment#EXTINF:-1 tvg-id="I46.4.30551.zap2it.com" tvg-name="46.4 WKLEDT4" tvg-type="live" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/PBS-Kids_625x625.png?raw=true" group-title="THE_BEST_KIDS_TV",EPG | PBS Kids | KET
 #commenthttps://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8?DVR
 
+
+#EXTINF:-1 group-title="THE_BEST_KIDS_TV",PBS KET2 (720p)
+https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1315484/playlist.m3u8
+#comment#EXTINF:-1 group-title="THE_BEST_KIDS_TV",PBS KET KY (480p)
+#commenthttps://2-fss-2.streamhoster.com/pl_132/amlst:200914-1315486/playlist.m3u8
+#EXTINF:-1 group-title="THE_BEST_KIDS_TV",EPG | PBS | KET_KY
+https://2-fss-2.streamhoster.com/pl_132/amlst:200914-1315486/playlist.m3u8
+#EXTINF:-1 group-title="THE_BEST_KIDS_TV",PBS KET Louisville KY (WKMJ-TV) (720p)
+https://2-fss-1.streamhoster.com/pl_134/amlst:200914-1282960/playlist.m3u8
+#EXTINF:-1 group-title="THE_BEST_KIDS_TV",WMPT-DT2 (PBS Create)
+https://2-fss-1.streamhoster.com/pl_122/amlst:201814-2122456/playlist.m3u8
 
 #comment#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/PBS.png?raw=true" group title="THE_BEST_KIDS_TV",PBS | WPSU
 #commenthttps://ssc4.wpsu.psu.edu/WPSU_LLStream/ngrp:WPSU1_720max/playlist.m3u8
@@ -46,6 +54,9 @@ https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8
 #EXTINF:-1 group-title="THE_BEST_KIDS_TV",ABC ME (720p)
 #commenthttps://c.mjh.nz/101002210224
 https://c.mjh.nz/abc-me.m3u8
+
+#EXTINF:-1 group-title="THE_BEST_KIDS_TV",ABC PLUS (720p)
+https://c.mjh.nz/abc-tv-plus.m3u8
 
 #comment#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/tvoKIDS_235x235.png?raw=true" group-title="THE_BEST_KIDS_TV",CBBC
 #commenthttps://bozztv.com/36bay2/gin/giniko_bbcthree_900kb_36bay2/index.m3u8
@@ -2607,6 +2618,27 @@ https://epg.provider.plex.tv/library/parts/608049aefa2b8ae93c2c3a63-64704954e536
 
 #comment#EXTINF:-1 group-title="The Roku Channel",Roku | Just For Laughs Gags
 #commenthttps://distributionsjustepourrire-justforlaughsgags-1-eu.freemoviesplus.wurl.tv/playlist.m3u8
+
+#EXTM3U
+#EXTINF:-1 group-title="The Roku Channel",RT News (1080p) [Not 24/7]
+#EXTVLCOPT:http-referrer=https://odysee.com/
+https://cloud.odysee.live/content/fdd11cb3ab75f95efb7b3bc2d726aa13ac915b66/master.m3u8
+#EXTINF:-1 group-title="The Roku Channel",RT News (1080p) [Not 24/7]
+https://rt-glb.rttv.com/dvr/rtnews/playlist.m3u8
+#EXTINF:-1 group-title="The Roku Channel",RT News (1080p) [Not 24/7]
+https://rumble.com/live-hls-dvr/33aw1a/playlist.m3u8
+#EXTINF:-1 group-title="The Roku Channel",RT Documentary English (1080p) [Geo-blocked]
+https://rt-rtd.rttv.com/dvr/rtdoc/playlist.m3u8
+#EXTINF:-1 group-title="The Roku Channel",RT Documentary English (1080p) [Geo-blocked]
+https://rt-rtd.rttv.com/live/rtdoc/playlist.m3u8
+#EXTINF:-1 group-title="The Roku Channel",RT en Español (1080p)
+#EXTVLCOPT:http-referrer=https://odysee.com/
+https://cloud.odysee.live/content/9f638b94d11d879726ae55dd5a0923621b96a45b/master.m3u8
+#EXTINF:-1 group-title="The Roku Channel",RT en Español (1080p) [Geo-blocked]
+https://rt-esp.rttv.com/dvr/rtesp/playlist.m3u8
+#EXTINF:-1 group-title="The Roku Channel",RT en Español (1080p) [Geo-blocked]
+https://rt-esp.rttv.com/live/rtesp/playlist.m3u8
+
 
 
 #EXTINF:-1 group-title="The Roku Channel",AMC East
