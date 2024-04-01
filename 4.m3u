@@ -2607,3 +2607,23 @@ https://epg.provider.plex.tv/library/parts/608049aefa2b8ae93c2c3a63-64704954e536
 
 #comment#EXTINF:-1 group-title="The Roku Channel",Roku | Just For Laughs Gags
 #commenthttps://distributionsjustepourrire-justforlaughsgags-1-eu.freemoviesplus.wurl.tv/playlist.m3u8
+
+
+#EXTINF:-1 group-title="The Roku Channel",AMC East
+http://170.254.18.106/AMC/mono.m3u8
+#EXTINF:-1 group-title="The Roku Channel",AMC+ (1080p)
+https://bcovlive-a.akamaihd.net/ba853de442c140b7b3dc020001597c0a/us-east-1/6245817279001/playlist.m3u8
+#EXTINF:-1 group-title="The Roku Channel",Telemundo Corpus Christi
+https://content.uplynk.com/channel/b6a96ed39d694ae1b738faa98cf7dd3f.m3u8
+#EXTINF:-1 group-title="The Roku Channel",Nickelodeon East (720p)
+http://143.244.60.30/NICKELODEON/index.m3u8
+#EXTINF:-1 group-title="The Roku Channel",Telemundo West (720p)
+https://content.uplynk.com/channel/b6a96ed39d694ae1b738faa98cf7dd3f.m3u8?delay=10800
+#EXTINF:-1 group-title="The Roku Channel",NickToons (720p)
+http://143.244.60.30/NICKTOONS/index.m3u8
+#EXTINF:-1 group-title="The Roku Channel",TBS East (1080p)
+http://143.244.60.30/TBS/index.m3u8
+#EXTINF:-1 group-title="The Roku Channel",BBC America East (720p)
+https://bcovlive-a.akamaihd.net/4e7f273ae0a04ad6b7d2e543df61e362/us-west-2/6240731308001/playlist.m3u8
+
+
