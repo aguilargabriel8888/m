@@ -2639,7 +2639,8 @@ https://rt-esp.rttv.com/dvr/rtesp/playlist.m3u8
 #EXTINF:-1 group-title="The Roku Channel",RT en Español (1080p) [Geo-blocked]
 https://rt-esp.rttv.com/live/rtesp/playlist.m3u8
 
-
+#EXTINF:-1 group-title="The Roku Channel",CBC Comedy (1080p) [Geo-blocked]
+https://webtelly-streams.akamaized.net/prod-cbc-comedy-rtp/hls/master.m3u8
 
 #EXTINF:-1 group-title="The Roku Channel",AMC East
 http://170.254.18.106/AMC/mono.m3u8

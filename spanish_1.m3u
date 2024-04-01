@@ -1575,6 +1575,9 @@ https://rakuten-comedymovies-2-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:-1 group-title="The Roku Channel",Rakuten Spotlight Spain (720p)
 https://rakuten-spotlight-2-eu.rakuten.wurl.tv/playlist.m3u8
 
+#EXTINF:-1 group-title="The Roku Channel",Canal 13 Michoacán (720p)
+https://alba-mx-c13mexico-c13michoacan.stream.mediatiquestream.com/tracks-v2a1/mono.m3u8
+
 
 #EXTINF:-1 tvg-id="" group-title="The Roku Channel",DW Español
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
@@ -1610,6 +1613,14 @@ https://hwlive.streamingmediahosting.com/14135-live/0_lkq7fay8/index.m3u8
 https://uni01rtmp.tulix.tv/americateve1/americateve1/playlist.m3u8
 #EXTINF:-1 group-title="The Roku Channel",KRCA-TV Estrella Los Angeles (720p)
 https://content.uplynk.com/channel/81bcd5789d8d48ae8b6b0a559db1c7d6.m3u8
+
+#EXTINF:-1 group-title="The Roku Channel",RT en Español (1080p)
+#EXTVLCOPT:http-referrer=https://odysee.com/
+https://cloud.odysee.live/content/9f638b94d11d879726ae55dd5a0923621b96a45b/master.m3u8
+#EXTINF:-1 group-title="The Roku Channel",RT en Español (1080p) [Geo-blocked]
+https://rt-esp.rttv.com/dvr/rtesp/playlist.m3u8
+#EXTINF:-1 group-title="The Roku Channel",RT en Español (1080p) [Geo-blocked]
+https://rt-esp.rttv.com/live/rtesp/playlist.m3u8
 
 
 #EXTINF:-1 group-title="The Roku Channel",WNJU-DT2 (teleXitos) (432p)
