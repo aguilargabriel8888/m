@@ -1223,6 +1223,16 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d8d0ec7b0f7015fbe
 #EXTINF:-1 tvg-id="" group-title="Pluto TV Mexico",being sports
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5df975e2b27cf5000921c102/master.m3u8?deviceId=cfe94b00-2178-4be3-9807-ea6b44f14a09&deviceVersion=80.0.3987.106&appVersion=5.6.0-05e6d11bfce7210bc262d7e9f2a96fc738b8ad86&deviceType=web&deviceMake=Chrome&sid=b21723ea-fade-4f00-b391-565f0326fe9e&deviceDNT=0&deviceModel=Chrome
 
+#EXTINF:-1 group-title="The Roku Channel",TV Education | 1
+http://cdn.adultiptv.net/anal.m3u8
+
+#EXTINF:-1 group-title="The Roku Channel",TV Education | 2
+http://cdn.adultiptv.net/lesbian.m3u8
+
+#EXTINF:-1 group-title="The Roku Channel",TV Education | 3
+http://cdn.adultiptv.net/gay.m3u8
+
+
 #comment#EXTINF:-1 tvg-id="" group-title="Pluto TV Mexico",MVS TV
 #commenthttps://content-ause3.uplynk.com/api/v3/preplay2/channel/09c1181b216d4131ba54ead8cc9601a1/2c4ed5c003e3f52f98370bb3235c199c/6GiD9hStgxlD6jbF8ose444VvqGHMJabO28zK5KDFogj.m3u8?pbs=a1ca22a8b9cb4ffea63ab918f05f593c
 

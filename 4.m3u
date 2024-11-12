@@ -72,8 +72,8 @@ https://c.mjh.nz/abc-tv-plus.m3u8
 #comment#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/tvoKIDS_235x235.png?raw=true" group-title="THE_BEST_KIDS_TV",CBBC opt2
 #commenthttps://bozztv.com/36bay2/gin/giniko_bbcthree_900kb_36bay2/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/tvoKIDS_235x235.png?raw=true" group-title="THE_BEST_KIDS_TV",Kabillion opt2
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxkabillion/CDN/playlist.m3u8
+#comment#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/tvoKIDS_235x235.png?raw=true" group-title="THE_BEST_KIDS_TV",Kabillion opt2
+#commenthttps://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxkabillion/CDN/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://pluto.tv.s3.amazonaws.com/channels/5ca673e0d0bd6c2689c94ce3/featuredImage.jpg" group-title="KIDS_TV",Nick
 https://stitcher.pluto.tv/stitch/hls/channel/5ca673e0d0bd6c2689c94ce3/master.m3u8?deviceId=cfe94b00-2178-4be3-9807-ea6b44f14a09&deviceVersion=80.0.3987.106&appVersion=5.6.0-05e6d11bfce7210bc262d7e9f2a96fc738b8ad86&deviceType=web&deviceMake=Chrome&sid=b21723ea-fade-4f00-b391-565f0326fe9e&deviceDNT=0&deviceModel=Chrome
@@ -177,8 +177,8 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/56340779a738201b4c
 #EXTINF:-1 tvg-id="" group-title="SPORTS",PGA
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5de94dacb394a300099fa22a/master.m3u8?deviceId=cfe94b00-2178-4be3-9807-ea6b44f14a09&deviceVersion=80.0.3987.106&appVersion=5.6.0-05e6d11bfce7210bc262d7e9f2a96fc738b8ad86&deviceType=web&deviceMake=Chrome&sid=b21723ea-fade-4f00-b391-565f0326fe9e&deviceDNT=0&deviceModel=Chrome
 
-#EXTINF:-1 tvg-id="" group-title="SPORTS",MLS
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cb626cfcaf83414128f439c/master.m3u8?deviceId=cfe94b00-2178-4be3-9807-ea6b44f14a09&deviceVersion=80.0.3987.106&appVersion=5.6.0-05e6d11bfce7210bc262d7e9f2a96fc738b8ad86&deviceType=web&deviceMake=Chrome&sid=b21723ea-fade-4f00-b391-565f0326fe9e&deviceDNT=0&deviceModel=Chrome
+#comment#EXTINF:-1 tvg-id="" group-title="SPORTS",MLS
+#commenthttps://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cb626cfcaf83414128f439c/master.m3u8?deviceId=cfe94b00-2178-4be3-9807-ea6b44f14a09&deviceVersion=80.0.3987.106&appVersion=5.6.0-05e6d11bfce7210bc262d7e9f2a96fc738b8ad86&deviceType=web&deviceMake=Chrome&sid=b21723ea-fade-4f00-b391-565f0326fe9e&deviceDNT=0&deviceModel=Chrome
 
 #EXTINF:-1 tvg-id="" group-title="SPORTS",BACKCOUNTRY
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cabdf1437b88b26947346b2/master.m3u8?deviceId=cfe94b00-2178-4be3-9807-ea6b44f14a09&deviceVersion=80.0.3987.106&appVersion=5.6.0-05e6d11bfce7210bc262d7e9f2a96fc738b8ad86&deviceType=web&deviceMake=Chrome&sid=b21723ea-fade-4f00-b391-565f0326fe9e&deviceDNT=0&deviceModel=Chrome
@@ -207,117 +207,15 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ba3fb9c4b078e0f37
 #EXTINF:-1 tvg-id="" group-title="SPORTS",cheerleaders Dallas cowboys
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d40855b3fb0855028c99b6f/master.m3u8?deviceId=cfe94b00-2178-4be3-9807-ea6b44f14a09&deviceVersion=80.0.3987.106&appVersion=5.6.0-05e6d11bfce7210bc262d7e9f2a96fc738b8ad86&deviceType=web&deviceMake=Chrome&sid=b21723ea-fade-4f00-b391-565f0326fe9e&deviceDNT=0&deviceModel=Chrome
 
-#EXTINF:-1 tvg-id="" group-title="SPORTS",American Gladiator
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d815e489b315b154db2e053/master.m3u8?deviceId=cfe94b00-2178-4be3-9807-ea6b44f14a09&deviceVersion=80.0.3987.106&appVersion=5.6.0-05e6d11bfce7210bc262d7e9f2a96fc738b8ad86&deviceType=web&deviceMake=Chrome&sid=b21723ea-fade-4f00-b391-565f0326fe9e&deviceDNT=0&deviceModel=Chrome
-
-#EXTINF:-1 tvg-id="" group-title="SPORTS",Bek Sports East (720p)
-https://wowzaprod188-i.akamaihd.net/hls/live/728897/54d0bcd5/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" group-title="SPORTS",Bek Sports West (720p)
-https://wowzaprod188-i.akamaihd.net/hls/live/728897/89b077e6/playlist.m3u8
-
-
-#EXTINF:-1 tvg-chno="5072" tvg-id="STIRR | sports" tvg-name="STIRR | sports" tvg-logo="https://ott-gateway.sinclairstoryline.com/optimized/90/a43594d1-364b-4e0c-8647-0d117973a641-small3x1_stirr_1219_epg_stirrsports_1920x1080.png?1576019645577" group-title="SPORTS",STIRR | sports TV Plus
-#commenthttps://dai.google.com/linear/hls/event/1B2yihdIR1mCL63rXzERag/master.m3u8
-https://dai.google.com/linear/hls/event/9FKrAqCfRvGfn3tPbVFO-g/master.m3u8
-#EXTINF:-1 tvg-chno="5073" tvg-id="Stadium " tvg-name="Stadium " tvg-logo="https://ott-gateway.sinclairstoryline.com/optimized/90/b4e26296-be68-4e3d-beda-04e81f4d34ee-small3x1_stirr_1219_epg_stadium_1920x1080.png?1576018965230" group-title="SPORTS",STIRR | Stadium 
-https://dai.google.com/linear/hls/event/0jRU1DBXSW6a_TFheLfAUQ/master.m3u8
-#EXTINF:-1 tvg-chno="5074" tvg-id="The T" tvg-name="The T" tvg-logo="https://ott-gateway.sinclairstoryline.com/optimized/90/887ab420-6923-4600-b1ed-3cba74db10fd-small3x1_STIRR_Logo_0320_TheT_1920x1080_EPG.png?1584562044540" group-title="SPORTS",STIRR | The T
-https://playoutengine.sinclairstoryline.com/playout/9f87522c-5a0e-4ff4-b82c-d5564216132f.m3u8
-#EXTINF:-1 tvg-chno="5075" tvg-id="SportsGrid" tvg-name="SportsGrid" tvg-logo="https://ott-gateway.sinclairstoryline.com/optimized/90/b4765251-26e4-48e8-a5ad-f96d8a1eec77-small3x1_STIRR_Logo_0320_SportsGrid_1920x1080_EPG.png?1584561904816" group-title="SPORTS",STIRR | SportsGrid
-https://dai.google.com/linear/hls/event/9FKrAqCfRvGfn3tPbVFO-g/master.m3u8
-#EXTINF:-1 tvg-chno="5076" tvg-id="World Poker Tour" tvg-name="World Poker Tour" tvg-logo="https://ott-gateway.sinclairstoryline.com/optimized/90/8b115727-b06f-4259-8a9f-1163d81b955d-small3x1_STIRR_Logo_0320_WorldPokerTour_1920x1080_EPG.png?1584652964461" group-title="SPORTS",STIRR | World Poker Tour
-https://dai.google.com/linear/hls/event/V7AWGB66R3avQhuIFaxmjw/master.m3u8
-#EXTINF:-1 tvg-chno="5077" tvg-id="Combat Go" tvg-name="Combat Go" tvg-logo="https://ott-gateway.sinclairstoryline.com/optimized/90/849f3b26-39dd-4f9d-b902-96006dfd5517-small3x1_stirr_1219_epg_combatgo_1920x1080.png?1576010585863" group-title="SPORTS",STIRR | Whistle sports
-#commenthttps://dai.google.com/linear/hls/event/gaDje967RoSDD5llid2OBA/master.m3u8
-https://dai.google.com/linear/hls/event/Wu11mwhnTKGNhwZimEK6Jg/master.m3u8
-
-#comment#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://pbs.twimg.com/media/DfLqnf4VMAA0m27.png" tvg-country="US" tvg-url="" group-title="SPORTS",Bek Sports East
-#commenthttps://wowzaprod188-i.akamaihd.net/hls/live/728897/54d0bcd5/playlist.m3u8
-#comment#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://pbs.twimg.com/media/DfLqnf4VMAA0m27.png" tvg-country="US" tvg-url="" group-title="SPORTS",Bek Sports West
-#commenthttps://wowzaprod188-i.akamaihd.net/hls/live/728897/89b077e6/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://static1.squarespace.com/static/5a6f534f017db2d628751be1/t/5a6f5557652deada67290f54" tvg-country="US" tvg-url="" group-title="SPORTS",Edge Sports
-https://imgedge.akamaized.net/amagi_hls_data_imgAAA2AA-edgesports/CDN/playlist.m3u8
-#comment#EXTINF:-1 tvg-id="tv.fox.sports.news" tvg-name="Fox Sports News" tvg-language="English" tvg-logo="https://i.imgur.com/Kxem8ae.jpg" tvg-country="AU" #commenttvg-url="http://i.mjh.nz/nzau/epg.xml.gz" group-title="SPORTS",Fox Sports News
-#commenthttps://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master1280x720.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://www.bestappletv.com/wp-content/uploads/2017/10/STADIUM_LOGO-620x350_2-620x350.jpg" tvg-country="US" tvg-url="" group-title="SPORTS",Stadium
-https://stadiumlivein-i.akamaihd.net/hls/live/522512/mux_4/master.m3u8
-
-#EXTINF:-1 group-title="SPORTS",fubo Sports Network (720p)
-https://dai2-xumo.fubo.tv/amagi_hls_data_xumo1212A-fubo/CDN/master.m3u8
-
-#comment#EXTINF:-1 tvg-id="" group-title="ENTERTAIMENT",ABC
-#commenthttps://cdn2.sports24.win/abc.m3u8
-
-#comment#EXTINF:-1 tvg-id="" group-title="ENTERTAIMENT",The CW New York NY (WPIX1) (720p)
-#commenthttp://encodercdn1.frontline.ca/kamino/output/pix11_720p/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" group-title="ENTERTAIMENT",ABC Spokane
-http://encodercdn1.frontline.ca/kamino/output/ABC_Spokane/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" group-title="ENTERTAIMENT",ABC Spokane (720)
-http://encodercdn1.frontline.ca/kamino/output/ABC_Spokane_720p/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" group-title="ENTERTAIMENT",TSN5 (720)
-http://encodercdn1.frontline.ca/kamino/output/TSN5_720p/playlist.m3u8
-
 #EXTINF:-1 tvg-id="" group-title="ENTERTAIMENT", NASA TV
 https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
-
-#EXTINF:-1 tvg-id="" group-title="ENTERTAIMENT", HDNET Movies
-http://tvdynasty.ddns.net:25461/live/tvdynasty-trial1/tvdynasty/933.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="ENTERTAIMENT",AXS TV Now (1080p)
 https://dikcfc9915kp8.cloudfront.net/hls/main.m3u8
 
-#EXTINF:-1 tvg-id="" group-title="ENTERTAIMENT",Bounce Tallahassee FL (WTXL-TV2) (480p)
-https://5e6cea03e25b6.streamlock.net/live/BOUNCE.stream/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" group-title="ENTERTAIMENT",Channel 23 Clark Vancouver TV (CVTV) (1080p) [Not 24/7]
-https://wowzaprod3-i.akamaihd.net/hls/live/252233/15b8d438/playlist.m3u8
-
-#comment#EXTINF:-1 tvg-id="" group-title="ENTERTAIMENT",BBC One Scotland (480p)
-#commenthttp://www.filmon.com/vr-streams/3166.high/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" group-title="ENTERTAIMENT",CBS Seattle WA (KIRO-TV1) (720p)
-http://encodercdn1.frontline.ca/geonosis/output/CBS_Seattle_720p/playlist.m3u8
-#EXTINF:-1 tvg-id="" group-title="ENTERTAIMENT",CBS Seattle WA (KIRO-TV1) (480p)
-http://encodercdn1.frontline.ca/geonosis/output/CBS_Seattle/playlist.m3u8
 #EXTINF:-1 tvg-id="" group-title="ENTERTAIMENT",CCX Media North Brooklyn Park MN (1080p)
 http://156.142.85.152/live/WIFI-2096k-1080p/WIFI-2096k-1080p.m3u8
 
-#EXTINF:-1 tvg-id="" group-title="ENTERTAIMENT",CBS Buffalo NY (WIVB-TV1) (720p)
-http://encodercdn1.frontline.ca/vantrix/ltv/Bell_CBSHB_AtopItci_2015_01_12_HD/hls_hd.m3u8
-#EXTINF:-1 tvg-id="" group-title="ENTERTAIMENT",CBS Detroit MI (WWJ-TV1) (720p)
-http://encodercdn1.frontline.ca/encoder183/output/CBS_Detroit_720p/playlist.m3u8
-#EXTINF:-1 tvg-id="" group-title="ENTERTAIMENT",CBS Detroit MI (WWJ-TV1) (480p)
-http://encodercdn1.frontline.ca/encoder183/output/CBS_Detroit/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" group-title="ENTERTAIMENT",Fox Boston MA (WFXT1) (480p)
-http://encodercdn1.frontline.ca/encoder182/output/FOX_Boston/playlist.m3u8
-#EXTINF:-1 tvg-id="" group-title="ENTERTAIMENT",Fox Boston MA (WFXT1) (720p) [Not 24/7]
-http://encodercdn1.frontline.ca/encoder182/output/FOX_Boston_720p/playlist.m3u8
-#EXTINF:-1 tvg-id="" group-title="ENTERTAIMENT",Fox Buffalo NY (WUTV1) (720p)
-http://encodercdn1.frontline.ca/vantrix/ltv/Bell_FOXHB_AtopItci_2015_01_12_HD/hls_hd.m3u8
-
-#EXTINF:-1 tvg-id="" group-title="ENTERTAIMENT",FOX Rochester NY (WUHF-DT1) (720p)
-http://encodercdn1.frontline.ca/encoder184/output/FOX_Rochester_720p/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" group-title="ENTERTAIMENT",Fox Seattle WA (KCPQ1) (720p)
-http://encodercdn1.frontline.ca/geonosis/output/FOX_Seattle_720p/playlist.m3u8
-#EXTINF:-1 tvg-id="" group-title="ENTERTAIMENT",Fox Seattle WA (KCPQ1) (480p)
-http://encodercdn1.frontline.ca/geonosis/output/FOX_Seattle/playlist.m3u8
-#EXTINF:-1 tvg-id="" group-title="ENTERTAIMENT",FOX Spokane WA (KAYU-TV1) (720p)
-http://encodercdn1.frontline.ca/encoder182/output/FOX_Spokane_720p/playlist.m3u8
-#EXTINF:-1 tvg-id="" group-title="ENTERTAIMENT",FOX Spokane WA (KAYU-TV1) (480p)
-http://encodercdn1.frontline.ca/encoder182/output/FOX_Spokane/playlist.m3u8
-#EXTINF:-1 tvg-id="" group-title="ENTERTAIMENT",Fox Tallahassee FL (WTWC-TV2) (720p)
-https://5e6cea03e25b6.streamlock.net/live/WTWC-FX.stream/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" group-title="ENTERTAIMENT",Miami City TV (360p) [Not 24/7]
-https://granicusliveus9-a.akamaihd.net/miamifl/G2076_003/playlist.m3u8
-#EXTINF:-1 tvg-id="" group-title="ENTERTAIMENT",Miami TV (720p) [Not 24/7]
-https://59ec5453559f0.streamlock.net/miamitv/smil:miamitvWEB/playlist.m3u8
 #EXTINF:-1 tvg-id="" group-title="ENTERTAIMENT",Miami TV Jenny Live (720p) [Not 24/7]
 https://59ec5453559f0.streamlock.net/JennyLive/JennyLive/playlist.m3u8
 #EXTINF:-1 tvg-id="" group-title="ENTERTAIMENT",Miami TV Latino (720p)
@@ -326,130 +224,8 @@ https://5ee7c2b857b7f.streamlock.net/latino/latino/playlist.m3u8
 https://59ec5453559f0.streamlock.net/mexicotv/smil:miamitvmexicoROKU/playlist.m3u8
 
 
-#EXTINF:-1 tvg-id="" group-title="ENTERTAIMENT",NBC Boston MA (WBTS-CD1) (720p)
-http://encodercdn1.frontline.ca/encoder183/output/NBC_Boston_720p/playlist.m3u8
-#EXTINF:-1 tvg-id="" group-title="ENTERTAIMENT",NBC Boston MA (WBTS-CD1) (480p) [Not 24/7]
-http://encodercdn1.frontline.ca/encoder183/output/NBC_Boston/playlist.m3u8
-#EXTINF:-1 tvg-id="" group-title="ENTERTAIMENT",NBC Buffalo NY (WGRZ1) (720p)
-http://encodercdn1.frontline.ca/vantrix/ltv/Bell_NBCHB_AtopItci_2015_01_12_HD/hls_hd.m3u8
-
-#EXTINF:-1 tvg-id="" group-title="ENTERTAIMENT",NBC Seattle WA (KING-TV1) (720p)
-http://encodercdn1.frontline.ca/bespin/output/NBC_Seattle_720p/playlist.m3u8
-#EXTINF:-1 tvg-id="" group-title="ENTERTAIMENT",NBC Seattle WA (KING-TV1) (480p)
-http://encodercdn1.frontline.ca/bespin/output/NBC_Seattle/playlist.m3u8
-#EXTINF:-1 tvg-id="" group-title="ENTERTAIMENT",NBC Spokane WA (KHQ-TV1) (720p)
-http://encodercdn1.frontline.ca/encoder184/output/NBC_Spokane_720p/playlist.m3u8
-#EXTINF:-1 tvg-id="" group-title="ENTERTAIMENT",NBC Spokane WA (KHQ-TV1) (480p)
-http://encodercdn1.frontline.ca/encoder184/output/NBC_Spokane/playlist.m3u8
-#EXTINF:-1 tvg-id="" group-title="ENTERTAIMENT",NBC Tallahassee FL (WTWC-TV1) (720p)
-https://5e6cea03e25b6.streamlock.net/live/WTWC-NB.stream/playlist.m3u8
-
-
-#EXTINF:-1 tvg-id="" group-title="ENTERTAIMENT",PBS 39 Extra Philadelphia PA (WPPT) (480p)
-https://forerunnerrtmp.livestreamingcdn.com/output18-2/output18-2.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="" group-title="ENTERTAIMENT",PBS Buffalo NY (WNED-TV) (720p)
-http://encodercdn1.frontline.ca/vantrix/ltv/Bell_PBSHB_AtopItci_2015_01_12_HD/hls_hd.m3u8
-
-
-#EXTINF:-1 tvg-id="" group-title="ENTERTAIMENT",PBS Seattle WA (KCTS-TV1) (720p)
-http://encodercdn1.frontline.ca/bespin/output/PBS_Seattle_720p/playlist.m3u8
-#EXTINF:-1 tvg-id="" group-title="ENTERTAIMENT",PBS Seattle WA (KCTS-TV1) (480p)
-http://encodercdn1.frontline.ca/bespin/output/PBS_Seattle/playlist.m3u8
-#EXTINF:-1 tvg-id="" group-title="ENTERTAIMENT",PBS Spokane WA (KSPS-TV1) (720p)
-http://encodercdn1.frontline.ca/encoder183/output/PBS_Spokane_720p/playlist.m3u8
-#EXTINF:-1 tvg-id="" group-title="ENTERTAIMENT",PBS Spokane WA (KSPS-TV1) (480p)
-http://encodercdn1.frontline.ca/encoder183/output/PBS_Spokane/playlist.m3u8
-#EXTINF:-1 tvg-id="" group-title="ENTERTAIMENT",PBS Tallahassee FL (WFSU-TV1) (720p)
-https://5e6cea03e25b6.streamlock.net/live/WFSU-PBS.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="" group-title="ENTERTAIMENT",PBS World Channel (480p)
-https://cs.ebmcdn.net/eastbay-live-hs-1/apt/mp4:apt-world/playlist.m3u8
-
-
-#comment#EXTINF:-1 tvg-id="" group-title="ENTERTAIMENT",The CW Tallahassee FL (WTLF1) (720p) [Not 24/7]
-#commenthttps://5e6cea03e25b6.streamlock.net/live/WTLHCW.stream/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" group-title="ENTERTAIMENT",TVS Television Network (720p)
-https://rpn1.bozztv.com/36bay2/gusa-tvstn/index.m3u8
-#EXTINF:-1 tvg-id="" group-title="ENTERTAIMENT",TVS Today Home Entertainment Network (484p) [Not 24/7]
-https://rpn1.bozztv.com/36bay2/gusa-TVSTodayHomeEntertainment/index.m3u8
-
 #EXTINF:-1 tvg-id="" group-title="ENTERTAIMENT",UCTV University of California (720p) [Not 24/7]
 https://59e8e1c60a2b2.streamlock.net/509/509.stream/playlist.m3u8
-
-#comment#EXTINF:-1 tvg-id="" group-title="ENTERTAIMENT",CBS
-#commenthttps://ottproxy.yuppcdn.net/live/ustvnow/60/hd/hls/live/2004009/whphdmsl1/whphdmsl1/playlist.m3u8?hdnts=st=1598227242~exp=1598248842~acl=!*/#comment*!/payload/yupptvott_5_2325782_48a4510a-4a26-985c-cecc-de2fd4d0b64d_US_18.218.24.5_ustvnow_3_channel_60_-1/#comment*~data=yupptvott_5_2325782_48a4510a-4a26-985c-cecc-#commentde2fd4d0b64d_US_18.218.24.5_ustvnow_3_channel_60_-1~hmac=e5e479b2d16a7c1e17d0dbec1bddc66c17f4a91bdf7877ece0058abebaffd710
-
-#EXTINF:-1 tvg-id="" group-title="ENTERTAIMENT",CSI
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5efbd29e4aa26700076c0d06/master.m3u8?deviceId=cfe94b00-2178-4be3-9807-ea6b44f14a09&deviceVersion=80.0.3987.106&appVersion=5.6.0-05e6d11bfce7210bc262d7e9f2a96fc738b8ad86&deviceType=web&deviceMake=Chrome&sid=b21723ea-fade-4f00-b391-565f0326fe9e&deviceDNT=0&deviceModel=Chrome
-
-#comment#EXTINF:-1 tvg-id="" group-title="ENTERTAIMENT",FOX
-#commenthttps://ustvnowmsl.akamaized.net/hls/live/2004241/wpmtmsl1/wpmtmsl1/playlist.m3u8?hdnts=st=1598227242~exp=1598248842~acl=!*/*!/payload/#commentyupptvott_5_2325782_48a4510a-4a26-985c-cecc-de2fd4d0b64d_US_18.218.24.5_ustvnow_3_channel_60_-1/#comment*~data=yupptvott_5_2325782_48a4510a-4a26-985c-cecc-#commentde2fd4d0b64d_US_18.218.24.5_ustvnow_3_channel_60_-1~hmac=e5e479b2d16a7c1e17d0dbec1bddc66c17f4a91bdf7877ece0058abebaffd710
-
-#comment#EXTINF:-1 tvg-logo="https://i.imgur.com/pMhTxmf.png" group-title="ENTERTAIMENT",CBS (WFOR) (Opt-1)
-#commenthttp://161.0.157.50/PLTV/88888888/224/3221227041/03.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Qu9NAwe.png" group-title="ENTERTAIMENT",CBS News (Opt-1)
-http://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/master.m3u8
-
-#comment#EXTINF:-1 tvg-logo="https://i.imgur.com/zGUrIlJ.png" group-title="ENTERTAIMENT",NBC (WTVJ) (Opt-1)
-#commenthttp://161.0.157.51/PLTV/88888888/224/3221227040/index.m3u8?fluxustv.m3u8
-
-#comment#EXTINF:-1 tvg-logo="https://i.imgur.com/zGUrIlJ.png" group-title="ENTERTAIMENT",NBC (WTVJ) (Opt-2)
-#commenthttp://190.80.3.28/NBC/NBC.isml/index.m3u8
-
-#comment#EXTINF:-1 tvg-id="" group-title="ENTERTAIMENT",CW
-#commenthttp://136.243.177.164/AXN/playlist.m3u8
-#comment#EXTINF:-1 tvg-id="" group-title="ENTERTAIMENT",CW
-#commenthttps://bozztv.com/teleyupp/e5CGxWp8iU/playlist.m3u8
-
-#comment#EXTINF:-1 tvg-id="" group-title="ENTERTAIMENT",CBS Dallas (KTVT) (720p)
-#commenthttps://cbsn-dal-cedexis.cbsnstream.cbsnews.com/out/v1/ffa98bbf7d2b4c038c229bd4d9122708/master.m3u8
-
-#comment#EXTINF:-1 tvg-id="" group-title="ENTERTAIMENT",CBS Dallas (KTVT) (180p)
-#commenthttps://cbsn-dal-cedexis.cbsnstream.cbsnews.com/out/v1/ffa98bbf7d2b4c038c229bd4d9122708/master_6.m3u8
-
-#EXTINF:-1 tvg-id="" group-title="ENTERTAIMENT",CNN International
-https://cnn-cnninternational-1-gb.samsung.wurl.com/manifest/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" group-title="ENTERTAIMENT",Entertainment Tonight (1080p)
-https://etlive-mediapackage-fastly.cbsaavideo.com/dvr/manifest.m3u8
-
-#EXTINF:-1 tvg-id="" group-title="ENTERTAIMENT",PBS 39 (WLVT) (720p)
-https://forerunnerrtmp.livestreamingcdn.com/output18/output18.stream/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" group-title="ENTERTAIMENT",PBS World San Diego (KPBS-DT2) (720p)
-https://cdn87.theus6tv.tk/locals/SanDiego/kpbs-dt2.m3u8
-#EXTINF:-1 tvg-id="" group-title="ENTERTAIMENT",PBS | World Channel (480p)
-https://cs.ebmcdn.net/eastbay-live-hs-1/apt/mp4:apt-world/playlist.m3u8
-
-#comment#EXTINF:-1 tvg-id="" group-title="ENTERTAIMENT",FOX 7 Florida (WSVN) (720p)
-#commenthttps://bozztv.com/teleyupp1/teleup-GgIpXe0CjT/playlist.m3u8
-
-#comment#EXTINF:-1 tvg-id="" group-title="ENTERTAIMENT",ABC 7 New York NY (WABC-TV) (720p)
-#commenthttps://cdn87.theus6tv.tk/locals/NewYorkCity/wabc-dt1.m3u8
-
-#comment#EXTINF:-1 tvg-id="" group-title="ENTERTAIMENT",ABC 7 San Francisco CA (KGO-TV) (720p)
-#commenthttps://cdn87.theus6tv.tk/locals/BayArea/kgo-dt1.m3u8
-
-#EXTINF:-1 tvg-id="" group-title="ENTERTAIMENT",ABC 7 Sarasota FL (WWSB) (720p)
-https://d2nt5wxzqbe1ad.cloudfront.net/out/raycom-wwsb1-hls/live.m3u8
-
-#comment#EXTINF:-1 tvg-id="" group-title="ENTERTAIMENT",The CW Philadelphia (H264) (432p)
-#commenthttps://cdn007.the6tv.duckdns.org:2443/the6tv-ota/h264/philadelphia/WPSG-DT1/playlist.m3u8
-#comment#EXTINF:-1 tvg-id="" group-title="ENTERTAIMENT",The CW Philadelphia (HEVC) (720p)
-#commenthttps://cdn007.the6tv.duckdns.org:2443/the6tv-ota/hevc/philadelphia/WPSG-DT1/playlist.m3u8
-
-#comment#EXTINF:-1 tvg-id="" group-title="ENTERTAIMENT",The Weather Channel (720p)
-#commenthttps://cdn88.theus6tv.tk/united-states/cable/the-weather-channel.m3u8
-
-#comment#EXTINF:-1 tvg-id="" group-title="ENTERTAIMENT",Univision East (WXTV) (720p)
-#commenthttps://cdn87.theus6tv.tk/locals/NewYorkCity/wxtv-dt1.m3u8
-
-#comment#EXTINF:-1 tvg-id="" group-title="ENTERTAIMENT",Univision West (KDTV) (720p)
-#commenthttps://cdn87.theus6tv.tk/locals/BayArea/kfsf-dt2.m3u8
-
-#EXTINF:-1 tvg-id="" group-title="ENTERTAIMENT",Camare Smile Tv (720)
-https://playout4multirtmp.tulix.tv/live7/Stream1/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="ENTERTAIMENT",Filmon 1 (640p)
 https://www.filmon.com/vr-streams/4136.high/playlist.m3u8
@@ -458,72 +234,8 @@ https://www.filmon.com/vr-streams/4136.high/playlist.m3u8
 #comment#EXTINF:-1 tvg-id="" group-title="ENTERTAIMENT",Filmon 3 (480p)
 #commenthttps://www.filmon.com/vr-streams/6158.high/playlist.m3u8
 
-
-#EXTINF:-1 tvg-id="" group-title="ENTERTAIMENT",FOX 15 West Texas Abilene TX (KXVA) (1080p)
-https://livevideo01.myfoxzone.com/hls/live/2017381/newscasts/live.m3u8
-
-#comment#EXTINF:-1 tvg-id="" group-title="ENTERTAIMENT",NBC 7 San Diego CA (KNSD-DT1) (1080p)
-#commenthttps://cdn87.theus6tv.tk/locals/SanDiego/knsd-dt1.m3u8
-
-#EXTINF:-1 tvg-id="" group-title="ENTERTAIMENT",FOX 23 Tulsa
-https://d3nzocdfkx2ybv.cloudfront.net/in/cmg-kokitv-hls-v3/live.m3u8
-
-#EXTINF:-1 tvg-id="" group-title="ENTERTAIMENT",Fox News (720p)
-https://bozztv.com/teleyupp/AsEAeOtIxz/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" group-title="ENTERTAIMENT",FOX Sport HD 1 (720p)
-https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master.m3u8
-
-#EXTINF:-1 tvg-id="" group-title="ENTERTAIMENT",Love Nature (1080p)
-http://bamus-eng-roku.amagi.tv/playlist.m3u8
-
 #EXTINF:-1 tvg-id="" group-title="ENTERTAIMENT",NBC 15 Madison WI (WMTVNBC) (720p)
 https://ad-playlistserver.aws.syncbak.com/playlist/899088/master.m3u8?access_token=eyJhbGciOiJIUzI1NiIsImtpZCI6IkdyYXkyMDE2MDgyOSIsInN1YiI6IioiLCJ0eXAiOiJKV1QifQ.eyJleHAiOjE3OTAzNjkxMDUsImlzcyI6IldMUyIsIm1kNSI6ImJhZTU4Y2ZlZWM2NmU1MjZkNmVjZmE1YmUzNTQxMzQ4IiwibWlkIjoiODk5MDg4In0.vBWkHmqS3z3dpq8UWfbk4wFd-vQlj6B0up-rpt7X_7Q
-
-
-#EXTINF:-1 tvg-id="" group-title="ENTERTAIMENT",Qello Concerts (1080p)
-https://dai.google.com/linear/hls/event/BakMHO8xRSmGKYeiyhsq3A/master.m3u8
-#comment#EXTINF:-1 tvg-logo="https://i.imgur.com/zGUrIlJ.png" group-title="ENTERTAIMENT",The CW
-#commenthttps://cdn006.teleuptv.net/rTK2EQCVCX/tracks-v2a1/mono.m3u8
-
-#comment#EXTINF:-1 tvg-logo="https://i.imgur.com/zGUrIlJ.png" group-title="ENTERTAIMENT",HBO EST
-#commenthttps://edge.roku-live.top.comcast.net/out/u/hbo-east_8_0.m3u8?m=1589266180
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/zGUrIlJ.png" group-title="ENTERTAIMENT",STIRR_TV|BOB_ROSS
-https://dai.google.com/linear/hls/event/3dbJrQmVT_-psb-KBYuKQA/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/wzBD6fy.png" group-title="ENTERTAIMENT",TMZ
-https://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1234A-tmz/CDN/1280x720_5000000/index.m3u8
-
-#comment#EXTINF:-1 tvg-id="" group-title="ENTERTAIMENT",BBC TWO | GINIKO
-#commenthttps://bozztv.com/36bay2/gin/giniko_bbc22_1000kb_36bay2/index.m3u8
-#commenthttps://gintna100.tulix.tv/gin_live/bbctwo/44d7dd5a98232ba3a07410e532aaf4a0/60450922/index.m3u8
-#commenthttps://gintna100.tulix.tv/gin_live/bbctwo/6520ba3ebb459cf55125fb2799cba705/606b73d9/index.m3u8
-
-#comment#EXTINF:-1 tvg-id="" group-title="ENTERTAIMENT",BBC ENTERTAIMENT | GINIKO
-#commenthttps://bozztv.com/36bay2/gin/giniko_bbc22_1000kb_36bay2/tracks-v1a1/mono.m3u8
-#commenthttps://gintna100.tulix.tv/gin_live/bbcent/af0f0db302978fbcad29dc6d3857980c/604509df/index.m3u8
-#commenthttps://gintna100.tulix.tv/gin_live/bbcent/601103a9a74815457c0b5157c1782bb3/604e93de/index.m3u8
-#commenthttps://gintna100.tulix.tv/gin_live/bbcent/f4d54fd239f473458f5fe1db03ab198a/606b7474/index.m3u8
-
-#comment#EXTINF:-1 tvg-id="" group-title="ENTERTAIMENT",BBC ONE SCOTLAND
-#commenthttp://51.52.156.22:8888/http/001
-
-#comment#EXTINF:-1 tvg-id="" group-title="ENTERTAIMENT",CHANNEL 4 United Kindom | GINIKO
-#commenthttps://gintna100.tulix.tv/gin_live/channel4/f38ec6c6b227cba847e57cea0de25625/60450a0c/index.m3u8
-#commenthttp://51.52.156.22:8888/http/002
-#commenthttps://gintna100.tulix.tv/gin_live/channel4/567edc0ace61caa70a359124ee2dbffa/606b7dea/index.m3u8
-
-#comment#EXTINF:-1 tvg-id="" group-title="ENTERTAIMENT",CANALE 5 Italy | GINIKO
-#commenthttps://gintna100.tulix.tv/gin_live/canale-5/6894facbf30c9eef6cf6f3e3f8c4ba0d/60450a51/index.m3u8
-#commenthttps://gintna100.tulix.tv/gin_live/canale-5/e924e9f492524c890ce2288da6392616/606b7dae/index.m3u8
-
-#EXTINF:-1 tvg-id="" group-title="ENTERTAIMENT",XUMO TV|Just for Laughs Gangs
-#commenthttps://dai2.xumo.com/amagi_hls_data_xumo1212A-rokujustforlaughsgags/CDN/playlist.m3u8
-#commenthttps://dai2.xumo.com/amagi_hls_data_xumo1212A-rokujustforlaughsgags/CDN/master.m3u8?p=roku&rdid=d3e60034-bdd6-5f69-a7a8-a82b92d5b116&coppa=false&is_lat=1&is_roku_lat=1&content_type=livefeed&content=3846e8e55bbe5d5c9032018b9384308a&genre=comedy&platform=web&content_rating=ROKU_ADS_CONTENT_RATING&channel_id=ROKU_CHANNEL_ID&bmodel=bm1&studio_id=just_for_laughs&channelStore=us&tags=ROKU_CONTENT_TAGS
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-viziojustforlaughsgags/CDN/playlist.m3u8
-
-
 
 #EXTINF:-1 tvg-id="" group-title="ENTERTAIMENT",XUMO TV|Circle
 #commenthttps://live-content.xumo.com/117/content/XM0BAJMK3KBANH/18339311/master.m3u8
@@ -532,142 +244,13 @@ https://circle-xumo.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="" group-title="ENTERTAIMENT", XUMO TV|Preview Channel
 https://hls.xumo.com/channel-hls/v1/bmneuerw7j9k5lfc/9999330/master.m3u8
 
-#comment pagina donde se obtuvo ITV channel https://yamcode.com/htb-lokalluar-1
-#comment#EXTINF:-1 tvg-id="" group-title="ENTERTAIMENT",ITV
-#commenthttps://sportportal1.akamaized.net/hls/live/702646/itvlive/ITV1PORTAL2/master.m3u8
-#EXTINF:-1 tvg-id="" group-title="ENTERTAIMENT",ITV
-http://93.152.174.144:4000/play/itv1/index.m3u8
-
-#comment#EXTINF:-1 tvg-id="" group-title="ENTERTAIMENT",ITV2
-#commenthttp://51.52.156.22:8888/http/005
-#EXTINF:-1 tvg-id="" group-title="ENTERTAIMENT",ITV2
-http://93.152.174.144:4000/play/itv2/index.m3u8
-
-#EXTINF:-1 tvg-id="" group-title="ENTERTAIMENT",Sky Sport 1
-http://93.152.174.144:4000/play/ssports1/index.m3u8
-
-#EXTINF:-1 tvg-id="" group-title="ENTERTAIMENT",Sky Sport 2
-http://93.152.174.144:4000/play/skysports2/index.m3u8
-
-#EXTINF:-1 tvg-id="" group-title="ENTERTAIMENT",Sky Sport 3
-http://93.152.174.144:4000/play/skysports3/index.m3u8
-
-#EXTINF:-1 tvg-id="" group-title="ENTERTAIMENT",Sky Sport 4
-http://93.152.174.144:4000/play/skysports4/index.m3u8
-
-#EXTINF:-1 tvg-id="" group-title="ENTERTAIMENT",Sky Sport 5
-http://93.152.174.144:4000/play/skysports5/index.m3u8
-
-#EXTINF:-1 tvg-id="" group-title="ENTERTAIMENT", ICI Montreal
-https://ici-i.akamaihd.net/hls/live/873426/ICI-Live-Stream/master.m3u8
-
-#comment#EXTINF:-1 tvg-id="" group-title="ENTERTAIMENT",ITV3
-#commenthttp://51.52.156.22:8888/http/006
-
-
-#comment#EXTINF:-1 tvg-id="" group-title="ENTERTAIMENT",ITV4
-#commenthttp://51.52.156.22:8888/http/007
-
-#EXTINF:-1 tvg-id="" group-title="ENTERTAIMENT",ITV
-#commenthttp://31.220.41.88:8081/live/itv1.stream/chunks.m3u8
-http://93.190.139.35:8278/streams/d/itv1_antik/playlist.m3u8
-#commenthttp://31.220.41.88:8081/live/itv1.stream/playlist.m3u8
-#comment#EXTINF:-1 tvg-id="" group-title="ENTERTAIMENT",ITV2
-#commenthttp://31.220.41.88:8081/live/itv2.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="" group-title="ENTERTAIMENT",ITV2_2
-http://93.190.139.35:8278/streams/d/itv2_antik/playlist.m3u8
-#comment#EXTINF:-1 tvg-id="" group-title="ENTERTAIMENT",ITV3
-#commenthttp://31.220.41.88:8081/live/itv3.stream/playlist.m3u8
-#comment#EXTINF:-1 tvg-id="" group-title="ENTERTAIMENT",ITV4
-#commenthttp://31.220.41.88:8081/live/itv4.stream/playlist.m3u8
-
-#EXTINF:-1 group-title="ENTERTAIMENT",Marvel HQ (720p)
-https://feed.play.mv/live/10005200/niZoVrR2vD/master.m3u8
-
-#EXTINF:-1 group-title="ENTERTAIMENT",MGM HQ
-http://c0.cdn.trinity-tv.net/stream/uq2t763988wmx82xs37vrzrtrvaz686y22jd9gcgvgbhu88g6dntdb82kggx9zgvpvwj5wisyi5mgwwgdqzm7d6xbf7yvctwzvhsu3t57ms3wa4qxwyeuqk3ayrdwx3k2b6cdtnrydx9qa3ezqzea===.m3u8
-
-#EXTINF:-1 group-title="ENTERTAIMENT",Warner TV (720p)
-http://203.154.243.89:11205
-#EXTINF:-1 group-title="ENTERTAIMENT",Warner TV (720p) [Not 24/7]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 Macintosh; Intel Mac OS X 10_14_5 AppleWebKit/537.36 KHTML, like Gecko Chrome/76.0.3809.25 Safari/537.36
-https://www.livedoomovie.com/02_WarnerTVHD_720p/chunklist.m3u8
-
-#EXTINF:-1 group-title="ENTERTAIMENT",NBCLX (1080p)
-https://lxlive-lh.akamaihd.net/i/LX_LIVE@148206/master.m3u8
-
-#comment#EXTINF:-1 group-title="ENTERTAIMENT",English Club TV (480p)
-#comment#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
-#commenthttp://ott-cdn.ucom.am/s37/index.m3u8
-
 #EXTINF:-1 group-title="ENTERTAIMENT",MyTime movie network (1080p)
 https://mytimeuk-rakuten-samsung.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" group-title="ENTERTAIMENT",A+E | Lively Place (1080p)
-http://aenetworks-ae-1.roku.wurl.com/manifest/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" group-title="ENTERTAIMENT",ABC 10 Sacramento CA (KXTV) (1080p)
-https://livevideo01.abc10.com/hls/live/2014547/newscasts/live.m3u8
-#EXTINF:-1 tvg-id="" group-title="ENTERTAIMENT",ABC 11 Louisville KY (WHAS) (1080p)
-https://livevideo01.whas11.com/hls/live/2016284/newscasts/live.m3u8
-#EXTINF:-1 tvg-id="" group-title="ENTERTAIMENT",ABC 13 Grand Rapids MI (WZZM) (1080p)
-https://livevideo01.wzzm13.com/hls/live/2016280/newscasts/live.m3u8
-#EXTINF:-1 tvg-id="" group-title="ENTERTAIMENT",ABC 13 Las Vegas NV (KTNV) (720p)
-https://content.uplynk.com/channel/39919d3f7a074eefa8bf579214e952f9.m3u8
-#EXTINF:-1 tvg-id="" group-title="ENTERTAIMENT",ABC 13 Norfolk VA (WVEC) (1080p)
-https://livevideo01.13newsnow.com/hls/live/2014545/newscasts/live.m3u8
-#EXTINF:-1 tvg-id="" group-title="ENTERTAIMENT",ABC 15 Phoenix AZ (KNXV-TV) (720p)
-https://content.uplynk.com/channel/9deaf22aaa33461f9cac22e030ed00ec.m3u8
-#EXTINF:-1 tvg-id="" group-title="ENTERTAIMENT",ABC 16 Wilkes Barre PA (WNEP) (1080p)
-https://livevideo01.wnep.com/hls/live/2011655/newscasts/live.m3u8
-#EXTINF:-1 tvg-id="" group-title="ENTERTAIMENT",ABC 2 Atlanta GA (WSB-TV) (720p)
-https://d2rwx6gwduugne.cloudfront.net/v1/master/77872db67918a151b697b5fbc23151e5765767dc/cmg_PROD_cmg-tv-10010_183ec1c7-4183-4661-803b-3ed282ffb625_LE/in/cmg-wsbtvnow-hls-v3/live.m3u8
-#EXTINF:-1 tvg-id="" group-title="ENTERTAIMENT",ABC 2 Baton Rouge LA (WBRZ) (720p)
-http://cms-wowza.lunabyte.io/wbrz-live-1/_definst_/smil:wbrz-live.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="" group-title="ENTERTAIMENT",ABC 24 Austin TX (KVUE) (1080p)
-https://livevideo01.kvue.com/hls/live/2016282/newscasts/live.m3u8
-#EXTINF:-1 tvg-id="" group-title="ENTERTAIMENT",ABC 24 Memphis TN (WATN-TV) (1080p)
-https://livevideo01.localmemphis.com/hls/live/2011654/newscasts/live.m3u8
-#EXTINF:-1 tvg-id="" group-title="ENTERTAIMENT",ABC 3 Corpus Christi TX (KIII) (1080p)
-https://livevideo01.kiiitv.com/hls/live/2017378/newscasts/live.m3u8
 #EXTINF:-1 tvg-id="" group-title="ENTERTAIMENT",ABC 4 Seattle WA (KOMO-TV) (720p)
 https://content.uplynk.com/2c88dfe19e1447e6a6aa27e8e143a140.m3u8
-#EXTINF:-1 tvg-id="" group-title="ENTERTAIMENT",ABC 5 Cleveland OH (WEWS-TV) (720p)
-https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Cloudfront-WEWS.m3u8
-#EXTINF:-1 tvg-id="" group-title="ENTERTAIMENT",ABC 5 Cleveland OH (WEWS-TV) (1080p)
-https://wews-syndication.ewscloud.com/out/v1/72729e3f4dbe4aafbab93d6b1117e5f1/index.m3u8
-#EXTINF:-1 tvg-id="" group-title="ENTERTAIMENT",ABC 5 Des Moines IA (WOI) (1080p)
-https://livevideo01.weareiowa.com/hls/live/2011593/newscasts/live.m3u8
-#EXTINF:-1 tvg-id="" group-title="ENTERTAIMENT",ABC 7 Denver CO (KMGH) (720p)
-https://content.uplynk.com/channel/64ca339f04964a5e961c3207a7771bf1.m3u8
-#EXTINF:-1 tvg-id="" group-title="ENTERTAIMENT",ABC 7 Detroit MI (WXYZ-TV) (720p)
-https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Cloudfront-WXYZ.m3u8
-#EXTINF:-1 tvg-id="" group-title="ENTERTAIMENT",ABC 7 New York NY (WABC-TV) (720p)
-https://cdn87.theus6tv.tk/locals/NewYorkCity/wabc-dt1.m3u8
-#EXTINF:-1 tvg-id="" group-title="ENTERTAIMENT",ABC 7 News San Francisco CA (KGO-TV) (720p)
-https://cdn87.theus6tv.tk/locals/BayArea/kgo-dt1.m3u8
-#EXTINF:-1 tvg-id="" group-title="ENTERTAIMENT",ABC 7 Sarasota FL (WWSB) (720p)
-https://d2nt5wxzqbe1ad.cloudfront.net/out/raycom-wwsb1-hls/live.m3u8
 #EXTINF:-1 tvg-id="" group-title="ENTERTAIMENT",ABC 7 Washington DC (WJLA) (720p)
 https://content.uplynk.com/40cec2bf074c40f08932da03ab4510be.m3u8
-#EXTINF:-1 tvg-id="" group-title="ENTERTAIMENT",ABC 8 Dallas TX (WFAA) (1080p)
-https://livevideo01.wfaa.com/hls/live/2014541/newscasts/live.m3u8
-#EXTINF:-1 tvg-id="" group-title="ENTERTAIMENT",ABC 8 Davenport IA (WQAD) (1080p)
-https://livevideo01.wqad.com/hls/live/2011657/newscasts/live.m3u8
-#EXTINF:-1 tvg-id="" group-title="ENTERTAIMENT",ABC 9 Manchester NH (WMUR-TV) (720p)
-https://csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,Cloudfront-WMUR.m3u8
-#EXTINF:-1 tvg-id="" group-title="ENTERTAIMENT",ABC 9 Orlando FL (WFTV) (540p)
-https://d3qm7vzp07vxse.cloudfront.net/v1/master/77872db67918a151b697b5fbc23151e5765767dc/cmg_PROD_cmg-tv-10070_fe1f5f6c-cd0b-4993-a4a4-6db66be4f313_LE/in/cmg-wftvtv-hls-v3/live.m3u8
-
-#comment#EXTINF:-1 tvg-id="" group-title="ENTERTAIMENT",ActionMAX (360p)
-#commenthttp://31.220.41.88:8081/live/us-cinemaxaction.stream/playlist.m3u8
-#comment#EXTINF:-1 tvg-id="" group-title="ENTERTAIMENT",CineMAX us
-#commenthttp://31.220.41.88:8081/live/us-cinemax.stream/playlist.m3u8
-
-#comment#EXTINF:-1 tvg-id="" group-title="ENTERTAIMENT",NICKELODEON AU
-#commenthttp://31.220.41.88:8081/live/us-nick.stream/playlist.m3u8
-#commenthttp://c0.cdn.trinity-tv.net/stream/7tsewn83ddjifz69us9je7eftbm5nuausb4dsvz9g5aydin9672n734qbb9jgcfpiqtpwudvs9dpi2udjc3eh4h462eie5azjmfbfgfjeqfuhjmmgx9zuj736ijg7nffhf8rviq5svkgxbp639y9nfgc.m3u8
-
 
 #EXTINF:-1 tvg-id="" group-title="ENTERTAIMENT",AFV Español (720p)
 https://linear-46.frequency.stream/dist/localnow/46/hls/master/playlist.m3u8
@@ -677,119 +260,6 @@ https://linear-46.frequency.stream/dist/localnow/46/hls/master/playlist.m3u8
 https://linear-12.frequency.stream/dist/localnow/12/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="" group-title="ENTERTAIMENT",AMG TV (1080p)
 https://2-fss-2.streamhoster.com/pl_138/201660-1270634-1/playlist.m3u8
-#comment#EXTINF:-1 tvg-id="" group-title="ENTERTAIMENT",New Kid TV (1080p)
-#commenthttps://newidco-newkid-2.roku.wurl.com/manifest/playlist.m3u8
-
-
-#comment#EXTINF:-1 tvg-id="" group-title="ENTERTAIMENT",Butaca TV (720p)
-#commenthttps://veranda-butacatv-1-es.samsung.wurl.com/manifest/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" group-title="ENTERTAIMENT",CBS 8 San Diego CA (KFMB-TV) (1080p)
-https://livevideo01.cbs8.com/hls/live/2014967/newscasts/live.m3u8
-#EXTINF:-1 tvg-id="" group-title="ENTERTAIMENT",CBS 9 Los Angeles CA (KCAL-TV) (720p)
-https://cbsn-la-cedexis.cbsnstream.cbsnews.com/out/v1/57b6c4534a164accb6b1872b501e0028/master.m3u8
-#EXTINF:-1 tvg-id="" group-title="ENTERTAIMENT",CBS 10 Tampa FL (WTSP) (1080p)
-https://livevideo01.wtsp.com/hls/live/2015503/newscasts/live.m3u8
-#EXTINF:-1 tvg-id="" group-title="ENTERTAIMENT",CBS 11 Dallas TX (KTVT) (720p)
-https://cbsn-dal-cedexis.cbsnstream.cbsnews.com/out/v1/ffa98bbf7d2b4c038c229bd4d9122708/master.m3u8
-
-#EXTINF:-1 tvg-id="" group-title="ENTERTAIMENT",CONtv Anime (1080p)
-https://contvanime-plex-ingest.cinedigm.com/playlist.m3u8
-
-#comment#EXTINF:-1 tvg-id="" group-title="ENTERTAIMENT",FX (720p)
-#commenthttps://bozztv.com/teleyupp/teleup-fxhd/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" group-title="ENTERTAIMENT",Family Flix (720p)
-https://linear-137.frequency.stream/dist/localnow/137/hls/master/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" group-title="ENTERTAIMENT",FilmRise Action (720p)
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokufilmriseaction/CDN/playlist.m3u8
-
-#comment#EXTINF:-1 tvg-id="" group-title="ENTERTAIMENT",TV25.4 Action (480p)
-#commenthttps://cdn.igocast.com/channel4_hls/channel4_master.m3u8
-
-#EXTINF:-1 tvg-id="" group-title="ENTERTAIMENT",PopCornFlix Action (Bumblebee) (1080p)
-https://stitcheraws.unreel.me/wse-node02.powr.com/live/5d4b21643f4d602ba521b06c/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" group-title="ENTERTAIMENT",FilmRise Family (720p)
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-filmrisefamily/CDN/playlist.m3u8
-
-#comment#EXTINF:-1 tvg-id="" group-title="ENTERTAIMENT",FilmStreams (720p)
-#commenthttps://spi-filmstream-1-eu.rakuten.wurl.com/manifest/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" group-title="ENTERTAIMENT",Funny or Die (720p)
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokufunnyordie/CDN/master.m3u8
-#EXTINF:-1 tvg-id="" group-title="ENTERTAIMENT",HA! That's Funny (720p)
-https://linear-135.frequency.stream/dist/localnow/135/hls/master/playlist.m3u8
-
-#comment#EXTINF:-1 tvg-id="" group-title="ENTERTAIMENT",HBO Family
-#commenthttps://liveorigin01.hbogoasia.com:8443/origin/live/main/FAMILY/index.m3u8
-
-#comment#EXTINF:-1 tvg-id="" group-title="ENTERTAIMENT",HBO PREMIUM (360p)
-#commenthttps://s.vdo.ai/vhs/1.m3u8
-
-#comment#EXTINF:-1 group-title="ENTERTAIMENT",HBO Family East (1080p)
-#commenthttps://liveorigin01.hbogoasia.com:8443/origin/live/FAMILY/index.m3u8
-#comment#EXTINF:-1 group-title="ENTERTAIMENT",HBO Hits (1080p)
-#commenthttps://liveorigin01.hbogoasia.com:8443/origin/live/HITS/index.m3u8
-#comment#EXTINF:-1 group-title="ENTERTAIMENT",HBO Hits (1080p)
-#commenthttps://liveorigin01.hbogoasia.com:8443/origin/live/main/HITS/index.m3u8
-#comment#EXTINF:-1 group-title="ENTERTAIMENT",HBO Signature East (1080p)
-#commenthttps://liveorigin01.hbogoasia.com:8443/origin/live/main/SIG/index.m3u8
-#comment#EXTINF:-1 group-title="ENTERTAIMENT",HBO Signature East (1080p)
-#commenthttps://liveorigin01.hbogoasia.com:8443/origin/live/SIG/index.m3u8
-
-
-#EXTINF:-1 tvg-id="" group-title="ENTERTAIMENT",Pluto TV Garfield (720p)
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6054ab20a365c70007e4fd44/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
-
-#EXTINF:-1 tvg-id="" group-title="ENTERTAIMENT",TVS Family Channel (360p)
-https://rpn1.bozztv.com/36bay2/gusa-TVSFamilyChannel/index.m3u8
-
-
-#comment#EXTINF:-1 tvg-id="" group-title="ENTERTAIMENT",Crazy Inventions
-#commenthttps://bozztv.com/36bay4/Crazy_Inventions/index.m3u8
-
-#comment#EXTINF:-1 tvg-id="" group-title="ENTERTAIMENT",Top Gear
-#commenthttps://bozztv.com/36bay4/ginikotest/index.m3u8
-
-#comment#EXTINF:-1 tvg-id="" group-title="ENTERTAIMENT",Nat Geo Wild
-#commenthttps://bozztv.com/36bay4/animalshere/index.m3u8
-
-#comment#EXTINF:-1 tvg-id="" group-title="ENTERTAIMENT",4K CHannel
-#commenthttps://bozztv.com/36bay4/gin/gin-4kchann/index.m3u8
-
-#comment#EXTINF:-1 tvg-id="" group-title="ENTERTAIMENT",Eye
-#commenthttps://bozztv.com/36bay4/bikini/index.m3u8
-
-#comment#EXTINF:-1 tvg-id="" group-title="ENTERTAIMENT",Fitness
-#commenthttps://bozztv.com/36bay4/BikiniFitness/index.m3u8
-
-#comment#EXTINF:-1 tvg-id="" group-title="ENTERTAIMENT",CMC TV
-#commenthttps://bozztv.com/36bay2/giniko_cmctv/index.m3u8
-
-#comment#EXTINF:-1 tvg-id="" group-title="ENTERTAIMENT",Animals | GINIKO
-#commenthttps://bozztv.com/36bay4/funnyanimals/index.m3u8
-#commenthttps://gintna100.tulix.tv/gin_live/animalhere/88cbdc76208a9bda38523e122b6b611d/606b822b/index.m3u8
-#comment#EXTINF:-1 tvg-id="" group-title="ENTERTAIMENT",Comedy
-#commenthttps://bozztv.com/36bay4/marius_comedy/index.m3u8
-#comment#EXTINF:-1 tvg-id="" group-title="ENTERTAIMENT",CA Music
-#commenthttps://bozztv.com/36bay2/gin/giniko_camusic_1200kb_36bay2/index.m3u8
-#comment#EXTINF:-1 tvg-id="" group-title="ENTERTAIMENT",Model Inc
-#commenthttps://bozztv.com/36bay2/gin/giniko_modelinc_2000kb_36bay2/index.m3u8
-#comment#EXTINF:-1 tvg-id="" group-title="ENTERTAIMENT",HD Fashion
-#commenthttps://bozztv.com/36bay2/gin/giniko_hdfashion_900kb_36bay2/index.m3u8
-#comment#EXTINF:-1 tvg-id="" group-title="ENTERTAIMENT",J TV | GINIKO
-#commenthttps://bozztv.com/36bay2/giniko_jasmintv/index.m3u8
-#commenthttps://gintna100.tulix.tv/gin_live/jasmintv/dabbdd3056aaaa66c3e2b108ffd25137/606b7e8d/index.m3u8
-#comment#EXTINF:-1 tvg-id="" group-title="ENTERTAIMENT",MIAMI | GINIKO
-#commenthttps://gintna100.tulix.tv/gin_live/miamitv/cc002afe44004dc2c913d5bd7eebbe08/606b7f0d/index.m3u8
-#comment#EXTINF:-1 tvg-id="" group-title="ENTERTAIMENT",TOROS | GINIKO
-#Commenthttps://bozztv.com/36bay2/gin/giniko_miamitv_1000kb_36bay2/index.m3u8
-#commenthttps://gintna100.tulix.tv/gin_live/torosbulls/07d76e8f7177ae893087cea4a6bd55cb/606b752f/index.m3u8
-#comment#EXTINF:-1 tvg-id="" group-title="ENTERTAIMENT",Cuatro Espana
-#commenthttps://gintna100.tulix.tv/gin_live/cuatro/f639aa88bc88436da6058c30afc9a9aa/606b7e38/index.m3u8
-
 #comment#EXTINF:-1 tvg-id="" group-title="ENTERTAIMENT", CARS
 #commenthttps://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5812b3a4249444e05d09cc46/master.m3u8?terminate=false&deviceId=bc4e1e5c-#commenta988-4314-9cb5-d50d142aefe0&deviceVersion=79.0.3945.130&appVersion=2.9.3-#commentb879e400d5df7a969d4bff8863fe5cb02c7120e6&deviceType=web&deviceMake=Chrome&sid=1d807765-0025-4bd1-9065-1e003c89ac5f&advertisingId=&deviceLat=39.7954&deviceLon=-86.2658&deviceDNT=0&deviceModel=Chrome&userId=&embedPartner=&appName=web&serverSideAds=true&architecture=&paln=&includeExtendedEvents=false
 
@@ -797,267 +267,7 @@ https://rpn1.bozztv.com/36bay2/gusa-TVSFamilyChannel/index.m3u8
 #EXTINF:-1 tvg-id="" group-title="ENTERTAIMENT", CARS
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5812b3a4249444e05d09cc46/master.m3u8?deviceId=cfe94b00-2178-4be3-9807-ea6b44f14a09&deviceVersion=80.0.3987.106&appVersion=5.6.0-05e6d11bfce7210bc262d7e9f2a96fc738b8ad86&deviceType=web&deviceMake=Chrome&sid=b21723ea-fade-4f00-b391-565f0326fe9e&deviceDNT=0&deviceModel=Chrome
 
-#EXTINF:-1 tvg-chno="5079" tvg-id="Choppertown" tvg-name="Choppertown" tvg-logo="https://ott-gateway.sinclairstoryline.com/optimized/90/7b1c655c-1037-4372-884f-97b8921ac8d2-small3x1_STIRR_Logo_0320_Choppertown_1920x1080_EPG.png?1584566957241" group-title="ENTERTAIMENT",STIRR | Choppertown
-https://dai.google.com/linear/hls/event/N3c94WZQQq2fruixzfcCUQ/master.m3u8
 
-#EXTINF:-1 tvg-id="" group-title="ENTERTAIMENT",CMT Pluto Tv
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcc42446750e200093b15e2/master.m3u8?deviceId=cfe94b00-2178-4be3-9807-ea6b44f14a09&deviceVersion=80.0.3987.106&appVersion=5.6.0-05e6d11bfce7210bc262d7e9f2a96fc738b8ad86&deviceType=web&deviceMake=Chrome&sid=b21723ea-fade-4f00-b391-565f0326fe9e&deviceDNT=0&deviceModel=Chrome
-
-#EXTINF:-1 tvg-id="" group-title="ENTERTAIMENT",BET
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ca670f6593a5d78f0e85aed/master.m3u8?deviceId=cfe94b00-2178-4be3-9807-ea6b44f14a09&deviceVersion=80.0.3987.106&appVersion=5.6.0-05e6d11bfce7210bc262d7e9f2a96fc738b8ad86&deviceType=web&deviceMake=Chrome&sid=b21723ea-fade-4f00-b391-565f0326fe9e&deviceDNT=0&deviceModel=Chrome
-
-#comment#EXTINF:-1 tvg-id="" group-title="ENTERTAIMENT",Frontdoor
-#commenthttps://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5938888cd045ffce74cf9048/master.m3u8?deviceId=cfe94b00-2178-4be3-9807-ea6b44f14a09&deviceVersion=80.0.3987.106&appVersion=5.6.0-05e6d11bfce7210bc262d7e9f2a96fc738b8ad86&deviceType=web&deviceMake=Chrome&sid=b21723ea-fade-4f00-b391-565f0326fe9e&deviceDNT=0&deviceModel=Chrome
-
-#EXTINF:-1 tvg-id="" group-title="ENTERTAIMENT",Funny Videos
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/580e87ff497c73ba2f321dd3/master.m3u8?deviceId=cfe94b00-2178-4be3-9807-ea6b44f14a09&deviceVersion=80.0.3987.106&appVersion=5.6.0-05e6d11bfce7210bc262d7e9f2a96fc738b8ad86&deviceType=web&deviceMake=Chrome&sid=b21723ea-fade-4f00-b391-565f0326fe9e&deviceDNT=0&deviceModel=Chrome
-   
-#EXTINF:-1 tvg-id="" group-title="ENTERTAIMENT",Laugh loud
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5af09e645126c2157123f9eb/master.m3u8?deviceId=cfe94b00-2178-4be3-9807-ea6b44f14a09&deviceVersion=80.0.3987.106&appVersion=5.6.0-05e6d11bfce7210bc262d7e9f2a96fc738b8ad86&deviceType=web&deviceMake=Chrome&sid=b21723ea-fade-4f00-b391-565f0326fe9e&deviceDNT=0&deviceModel=Chrome
-
-#comment#EXTINF:-1 tvg-id="" group-title="ENTERTAIMENT",American Funny TV
-#commenthttps://afv-plutolive-vo.akamaized.net/m/hlslive/afv/4/afv.m3u8?profID=736&n=4&ctype=0&chname=afv&pub=cd44c23c-4796-475f-bcb1-b846bed4cf40
-
-#comment#EXTINF:-1 tvg-id="" group-title="ENTERTAIMENT",The Weather Channel
-#commenthttps://weather-lh.akamaihd.net/i/twc_1@92006/master.m3u8
-
-#comment#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="" tvg-country="US" tvg-url="" group-title="ENTERTAIMENT",USA
-#commenthttp://cdnak19.cast4u.info/channels/4/10804.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/Ll6GlqY.png" tvg-country="INT" tvg-url="" group-group-title="ENTERTAIMENT",V2BEAT TV
-http://de1se01.v2beat.live/playlist.m3u8
-#comment#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/c3Z5i2L.png" tvg-country="US" tvg-url="" group-title="ENTERTAIMENT",Z Living
-#commenthttps://y5w8j4a9.ssl.hwcdn.net/zlivingusa_r/index.m3u8
-
-
-#funciona
-#commenthttps://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5812b3a4249444e05d09cc46/master.m3u8?deviceId=cfe94b00-2178-4be3-9807-#commentea6b44f14a09&deviceVersion=80.0.3987.106&appVersion=5.6.0-05e6d11bfce7210bc262d7e9f2a96fc738b8ad86&deviceType=web&deviceMake=Chrome&sid=b21723ea-#commentfade-4f00-b391-565f0326fe9e&deviceDNT=0&deviceModel=Chrome
-
-#comment#EXTINF:-1 tvg-id="" group-title="ENTERTAIMENT", DISCOVERY
-#commenthttps://content-ausw4.uplynk.com/channel/19334c6a5c614c46b2f198f15c179163/h.m3u8?#commenttc=1&exp=1597270383&rn=1133127067&ct=c&cid=19334c6a5c614c46b2f198f15c179163&ts=1597270083&endts=1597270443&ad.pingf=5&pp2ip=0&ad.cping=1&ad=fw&rays=cdefghiba&ad.customer_id=&ad.nw=&ad.prof=&ad.csid=&ad.vip=18.218.24.5&ad.kv=_fw_vcid2%#comment2C%3Abd0367067f5a11eaacfe0e7a3adfd3ad%2C_fw_enable_lat_fc%#comment2C1&ap.use=0&sig=6faa044043526be6c156bda7a41ff2123b6f60220aad660c04f2cf8cb8867206&pbs=198cba23310840d2b4edcb7d7f22397e
-
-#comment#EXTINF:-1 tvg-id="" group-title="ENTERTAIMENT", DISCOVERY 2
-#commenthttps://content-ausw4.uplynk.com/channel/19334c6a5c614c46b2f198f15c179163/h.m3u8?terminate=false&deviceId=bc4e1e5c-a988-4314-9cb5-#commentd50d142aefe0&deviceVersion=79.0.3945.130&appVersion=2.9.3-#commentb879e400d5df7a969d4bff8863fe5cb02c7120e6&deviceType=web&deviceMake=Chrome&sid=1d807765-0025-4bd1-9065-1e003c89ac5f&advertisingId=&deviceLat=39.7954&deviceLon=-86.2658&deviceDNT=0&deviceModel=Chrome&userId=&embedPartner=&appName=web&serverSideAds=true&architecture=&paln=&includeExtendedEvents=false
-
-#comment#EXTINF:-1 tvg-chno="5001" tvg-id="2020 Live" tvg-name="2020 Live" tvg-logo="https://ott-gateway.sinclairstoryline.com/optimized/90/e155b2ff-61dc-44c2-9d2a-26b0f69ebc5b-small3x1_stirr_0120_epg_2020LIVE_1920x1080.png?1579110210736" group-title="STIRR Tv",STIRR | 2020 Live
-#commenthttps://dai.google.com/linear/hls/event/mMP0Ny8OTb2Ev2EvsiIlrg/master.m3u8
-#comment#EXTINF:-1 tvg-chno="5002" tvg-id="COVID-19 News" tvg-name="COVID-19 News" tvg-logo="https://ott-gateway.sinclairstoryline.com/optimized/90/03f16a85-c53f-4e81-8482-84717fba63d6-small3x1_stirr_1219_epg_template_1920x1080.png?1584745146676" group-title="STIRR Tv",STIRR | COVID-19 News
-#commenthttps://dai.google.com/linear/hls/event/08ADpEIeQ8iZOjusLsZbCg/master.m3u8
-#EXTINF:-1 tvg-chno="5003" tvg-id="Newsy" tvg-name="Newsy" tvg-logo="https://ott-gateway.sinclairstoryline.com/optimized/90/95613c15-7298-48d5-bf3d-43f33b630727-small3x1_stirr_1219_epg_newsy_1920x1080.png?1576623622874" group-title="STIRR Tv",STIRR | Newsy
-https://dai.google.com/linear/hls/event/0PopB0AoSiClAGrHVHBTlw/master.m3u8
-#EXTINF:-1 tvg-chno="5004" tvg-id="Law - Crime " tvg-name="Law - Crime " tvg-logo="https://ott-gateway.sinclairstoryline.com/optimized/90/51c6158b-80d1-4dde-883d-02bbb9a92f65-small3x1_stirr_1219_epg_lawandcrime_1920x1080.png?1576623764110" group-title="STIRR Tv",STIRR | Law & Crime 
-https://dai.google.com/linear/hls/event/3w3PsYzZQzS8lyRfi7e4mQ/master.m3u8
-#EXTINF:-1 tvg-chno="5005" tvg-id="Cheddar" tvg-name="Cheddar" tvg-logo="https://ott-gateway.sinclairstoryline.com/optimized/90/a6c7993c-d498-4f5f-93a9-fa02503802a9-small3x1_stirr_1219_epg_cheddarnews_1920x1080.png?1576623531570" group-title="STIRR Tv",STIRR | Cheddar
-https://dai.google.com/linear/hls/event/frfwucAPTVunrpitYiymwg/master.m3u8
-#EXTINF:-1 tvg-chno="5006" tvg-id="People TV" tvg-name="People TV" tvg-logo="https://ott-gateway.sinclairstoryline.com/optimized/90/4415c6b3-9e1b-42b4-a708-b359387aa7e2-small3x1_STIRR_Logo_0320_PeopleTV_1920x1080_EPG.png?1584561723408" group-title="STIRR Tv",STIRR | People TV
-https://dai.google.com/linear/hls/event/Fe9LYYCFR5Csif-I5dyMHg/master.m3u8
-#EXTINF:-1 tvg-chno="5007" tvg-id="Futurism" tvg-name="Futurism" tvg-logo="https://ott-gateway.sinclairstoryline.com/optimized/90/07e29bcf-2580-4d0d-896e-382ddc6291f5-small3x1_STIRR_Logo_0320_Futurism_1920x1080_EPG.png?1584560329613" group-title="STIRR Tv",STIRR | Futurism
-https://dai.google.com/linear/hls/event/YakHdnr_RpyszducVuHOpQ/master.m3u8
-#EXTINF:-1 tvg-chno="5008" tvg-id="NASATV" tvg-name="NASATV" tvg-logo="https://ott-gateway.sinclairstoryline.com/optimized/90/441fd841-4cd4-42d0-8471-98d55a05ad47-small3x1_STIRR_Logo_0320_NASA_1920x1080_EPG.png?1584561322882" group-title="STIRR Tv",STIRR | NASATV
-https://uplynkcontent.sinclairstoryline.com/channel/ddd76fdc1c0a456ba537e4f48e827d3e.m3u8
-#comment#EXTINF:-1 tvg-chno="5009" tvg-id="STIRR | tv" tvg-name="STIRR | tv" tvg-logo="https://ott-gateway.sinclairstoryline.com/optimized/90/64751cb2-0f74-482b-a55f-b3c20da53a9b-small3x1_stirr_1219_epg_stirrtvmix_1920x1080.png?1576624466457" group-title="STIRR Tv",STIRR | tv
-#commenthttps://dai.google.com/linear/hls/event/UQrixd_tTG2nC-lOUtw0mQ/master.m3u8
-#EXTINF:-1 tvg-chno="5010" tvg-id="Buzzr" tvg-name="Buzzr" tvg-logo="https://ott-gateway.sinclairstoryline.com/optimized/90/21acd9d6-373a-4695-9ac0-99a35ea0fc40-small3x1_STIRR_Logo_0320_BUZZR_1920x1080_EPG.png?1585351197130" group-title="STIRR Tv",STIRR | Buzzr
-https://dai.google.com/linear/hls/event/wFZ1ufQ8ToaSdPgGtbBbpw/master.m3u8
-#EXTINF:-1 tvg-chno="5011" tvg-id="Dove " tvg-name="Dove " tvg-logo="https://ott-gateway.sinclairstoryline.com/optimized/90/f8e63530-6d3b-478b-b935-d4a834db5a7f-small3x1_stirr_1219_epg_dovechannel_1920x1080.png?1577988653144" group-title="STIRR Tv",STIRR | Dove 
-https://dai.google.com/linear/hls/event/dfbBGQhPQQqypdEAjpUGlA/master.m3u8
-#EXTINF:-1 tvg-chno="5012" tvg-id="American Classics" tvg-name="American Classics" tvg-logo="https://ott-gateway.sinclairstoryline.com/optimized/90/207935e9-f81c-4e73-9166-0e75e41e7ac3-small3x1_stirr_1219_epg_americanclassics_1920x1080_v2.png?1576028072841" group-title="STIRR Tv",STIRR | American Classics
-https://dai.google.com/linear/hls/event/0e06oV-NTI2ygS2MRQk9ZA/master.m3u8
-#EXTINF:-1 tvg-chno="5013" tvg-id="Filmrise Classic TV" tvg-name="Filmrise Classic TV" tvg-logo="https://ott-gateway.sinclairstoryline.com/optimized/90/0cc80229-e631-4ab5-b9e6-cab62f841ab5-small3x1_STIRR_Logo_0320_FilmriseClassicTV_1920x1080_EPG.png?1584560291700" group-title="STIRR Tv",STIRR | Filmrise Classic TV
-https://dai.google.com/linear/hls/event/hW5jMh7dTRK1UXW5fTH07A/master.m3u8
-#EXTINF:-1 tvg-chno="5014" tvg-id="Shout Factory" tvg-name="Shout Factory" tvg-logo="https://ott-gateway.sinclairstoryline.com/optimized/90/1cb27c26-19c1-46ee-8b8a-fe02abcd3f65-small3x1_stirr_1219_epg_shoutfactorytv_1920x1080_v2.png?1576028201438" group-title="STIRR Tv",STIRR | Shout Factory
-https://dai.google.com/linear/hls/event/JX5KKhKKRPqchP3LfXD-1A/master.m3u8
-#EXTINF:-1 tvg-chno="5015" tvg-id="CONtv" tvg-name="CONtv" tvg-logo="https://ott-gateway.sinclairstoryline.com/optimized/90/f7c2fe09-fad1-402b-8d73-2dfddece26e1-small3x1_stirr_1219_epg_contv_1920x1080.png?1576624028716" group-title="STIRR Tv",STIRR | CONtv
-https://dai.google.com/linear/hls/event/o8Smo_gsSAm26uW9Xkww_g/master.m3u8
-#EXTINF:-1 tvg-chno="5016" tvg-id="Comedy Dynamics" tvg-name="Comedy Dynamics" tvg-logo="https://ott-gateway.sinclairstoryline.com/optimized/90/90195c82-4090-472d-9039-09be4e9c472f-small3x1_STIRR_Logo_0320_ComedyDynamics_1920x1080_EPG.png?1584559959311" group-title="STIRR Tv",STIRR | Comedy Dynamics
-https://dai.google.com/linear/hls/event/NJK_yxrcTBqULaHt-wi0Wg/master.m3u8
-#comment#EXTINF:-1 tvg-chno="5017" tvg-id="BritCom" tvg-name="BritCom" tvg-logo="https://ott-gateway.sinclairstoryline.com/optimized/90/3b1f2833-2065-4bf9-a92b-88238158330e-small3x1_STIRR_Logo_0320_Britcom_1920x1080_EPG.png?1584559805717" group-title="STIRR Tv",STIRR | BritCom
-#commenthttps://dai.google.com/linear/hls/event/IdHTuehZQPClis-gJaZkFQ/master.m3u8
-#EXTINF:-1 tvg-chno="5018" tvg-id="Revry" tvg-name="Revry" tvg-logo="https://ott-gateway.sinclairstoryline.com/optimized/90/38394c13-f158-4f11-ac90-e9c8f3e5784f-small3x1_STIRR_Logo_0320_Revry_1920x1080_EPG.png?1584561829109" group-title="STIRR Tv",STIRR | Revry
-https://dai.google.com/linear/hls/event/gvO6-Y6TTjCxRf1QALU4VQ/master.m3u8
-#EXTINF:-1 tvg-chno="5019" tvg-id="Popstar! TV" tvg-name="Popstar! TV" tvg-logo="https://ott-gateway.sinclairstoryline.com/optimized/90/0e59efc2-cf39-4ae8-a587-c7b83f16b74e-small3x1_STIRR_Logo_0320_PopstarTV_1920x1080_EPG.png?1584561768700" group-title="STIRR Tv",STIRR | Popstar! TV
-https://dai.google.com/linear/hls/event/cJFuxTLzQUqbGGrqTMBJuw/master.m3u8
-#EXTINF:-1 tvg-chno="5020" tvg-id="CHARGE " tvg-name="CHARGE " tvg-logo="https://ott-gateway.sinclairstoryline.com/optimized/90/8aa83636-ea2b-4bc0-946a-cb0942548724-small3x1_STIRR_Logo_0320_Charge_1920x1080_EPG.png?1584559850136" group-title="STIRR Tv",STIRR | CHARGE 
-https://dai.google.com/linear/hls/event/e1QjWFRNSR2YFYGsPbkfgg/master.m3u8
-#EXTINF:-1 tvg-chno="5021" tvg-id="Electric Now" tvg-name="Electric Now" tvg-logo="https://ott-gateway.sinclairstoryline.com/optimized/90/6e9b5b43-d409-47a5-a13a-fdba785d466b-small3x1_STIRR_Logo_0320_ElectricNOW_1920x1080_EPG.png?1584560176850" group-title="STIRR Tv",STIRR | Electric Now
-https://dai.google.com/linear/hls/event/KsvJAc81Qoewj6opYso6Fw/master.m3u8
-#EXTINF:-1 tvg-chno="5022" tvg-id="COMET" tvg-name="COMET" tvg-logo="https://ott-gateway.sinclairstoryline.com/optimized/90/1e3c13e3-cba9-4754-8e30-e158f14d17fe-small3x1_stirr_1219_epg_comet_1920x1080.png?1577988622681" group-title="STIRR Tv",STIRR | COMET
-https://dai.google.com/linear/hls/event/83L2OqtGSZ6lbWt8ODomWg/master.m3u8
-#EXTINF:-1 tvg-chno="5023" tvg-id="Dust" tvg-name="Dust" tvg-logo="https://ott-gateway.sinclairstoryline.com/optimized/90/9350b637-a354-4916-a408-15f8350ff292-small3x1_stirr_1219_epg_dust_1920x1080.png?1576623975189" group-title="STIRR Tv",STIRR | Dust
-https://dai.google.com/linear/hls/event/xuMJ1vhQQDGjEWlxK9Qh4w/master.m3u8
-#EXTINF:-1 group-title="STIRR Tv",STIRR | DustX
-https://dust.sinclair.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 tvg-chno="5024" tvg-id="Space 1999" tvg-name="Space 1999" tvg-logo="https://ott-gateway.sinclairstoryline.com/optimized/90/aaaa25c9-d98a-46b8-8dca-3851ab93d3ee-small3x1_STIRR_Logo_0320_SPACE1999_1920x1080_EPG.png?1584561866784" group-title="STIRR Tv",STIRR | Space 1999
-https://dai.google.com/linear/hls/event/NeKNJHuzSeCiN_7Fcuo83Q/master.m3u8
-#EXTINF:-1 tvg-chno="5025" tvg-id="Mystery Science Theater 3000" tvg-name="Mystery Science Theater 3000" tvg-logo="https://ott-gateway.sinclairstoryline.com/optimized/90/ee454d3c-4cbe-4bda-a056-56d037c28705-small3x1_STIRR_Logo_0320_MysteryScienceTheater3000_1920x1080_EPG_2.png?1585087262443" group-title="STIRR Tv",STIRR | Mystery Science Theater 3000
-https://dai.google.com/linear/hls/event/rmBGeSwhQEG64TrT0_JO2A/master.m3u8
-#comment#EXTINF:-1 tvg-chno="5026" tvg-id="Greatest American Hero" tvg-name="Greatest American Hero" tvg-logo="https://ott-gateway.sinclairstoryline.com/optimized/90/885a4fe2-5dce-4193-8c9b-e72c9b16ae4d-small3x1_stirr_1219_epg_thegreatestamericanhero_1920x1080.png?1576624259557" group-title="STIRR Tv",STIRR | Greatest American Hero
-#commenthttps://dai.google.com/linear/hls/event/zaW9PVeXQeamNt6SZ9FsOg/master.m3u8
-#comment#EXTINF:-1 tvg-chno="5027" tvg-id="Forensics Files" tvg-name="Forensics Files" tvg-logo="https://ott-gateway.sinclairstoryline.com/optimized/90/3e64aff5-e709-4ced-8452-d67728e54718-small3x1_stirr_1219_epg_forensicfiles_1920x1080.png?1576624150836" group-title="STIRR Tv",STIRR | Forensics Files
-#commenthttps://dai.google.com/linear/hls/event/fJj7BuL_Tv2KjCnNAmLK8g/master.m3u8
-#comment#EXTINF:-1 tvg-chno="5028" tvg-id="Unsolved Mysteries" tvg-name="Unsolved Mysteries" tvg-logo="https://ott-gateway.sinclairstoryline.com/optimized/90/5cf60259-ce44-452f-a8a1-cb33585ea701-small3x1_stirr_1219_epg_unsolvedmysteries_1920x1080.png?1575941343067" group-title="STIRR Tv",STIRR | Unsolved Mysteries
-#commenthttps://dai.google.com/linear/hls/event/iLjE1UKtRCiSNkFatA65bg/master.m3u8
-#comment#EXTINF:-1 tvg-chno="5029" tvg-id="Hunter" tvg-name="Hunter" tvg-logo="https://ott-gateway.sinclairstoryline.com/optimized/90/11ca088b-4ef8-41a8-bdfd-8fc62dd4682a-small3x1_stirr_1219_epg_hunter_1920x1080.png?1576624227727" group-title="STIRR Tv",STIRR | Hunter
-#commenthttps://dai.google.com/linear/hls/event/Z-kHpGoATwyuxIuQEY_3fw/master.m3u8
-#comment#EXTINF:-1 tvg-chno="5030" tvg-id="The Commish" tvg-name="The Commish" tvg-logo="https://ott-gateway.sinclairstoryline.com/optimized/90/3a139329-7cdd-40f7-85fa-35d3b68853ca-small3x1_stirr_1219_epg_thecommish_1920x1080.png?1576624189699" group-title="STIRR Tv",STIRR | The Commish
-#commenthttps://dai.google.com/linear/hls/event/zfyiHhG0TeuoNist_WUwjg/master.m3u8
-#comment#EXTINF:-1 tvg-chno="5031" tvg-id="Wiseguy" tvg-name="Wiseguy" tvg-logo="https://ott-gateway.sinclairstoryline.com/optimized/90/5e3b98cb-3de9-4bb2-b775-e487f3a117ca-small3x1_stirr_1219_epg_wiseguy_1920x1080.png?1575941429658" group-title="STIRR Tv",STIRR | Wiseguy
-#commenthttps://dai.google.com/linear/hls/event/kv03O_9RS8-uRahEGtDcjA/master.m3u8
-#comment#EXTINF:-1 tvg-chno="5032" tvg-id="21 Jump Street" tvg-name="21 Jump Street" tvg-logo="https://ott-gateway.sinclairstoryline.com/optimized/90/fff115ea-8e29-48e9-b8bc-42c97e53a29f-small3x1_stirr_1219_epg_21jumpstreet_1920x1080_v2.png?1576028030573" group-title="STIRR Tv",STIRR | 21 Jump Street
-#commenthttps://dai.google.com/linear/hls/event/UXgY8vuCSgiAlXtckOHm6A/master.m3u8
-#comment#EXTINF:-1 tvg-chno="5033" tvg-id="Crime Story" tvg-name="Crime Story" tvg-logo="https://ott-gateway.sinclairstoryline.com/optimized/90/85d2d767-c699-4fbe-b53b-7256107e0c0e-small3x1_stirr_1219_epg_crimestory_1920x1080_v2.png?1576517301267" group-title="STIRR Tv",STIRR | Crime Story
-#commenthttps://dai.google.com/linear/hls/event/HgozmUlQQviIXFUF23mloA/master.m3u8
-#comment#EXTINF:-1 tvg-chno="5034" tvg-id="Silk Stalkings" tvg-name="Silk Stalkings" tvg-logo="https://ott-gateway.sinclairstoryline.com/optimized/90/f391754b-a2f8-4c0e-bdf9-7c40ffe92655-small3x1_stirr_1219_epg_silkstalkings_1920x1080.png?1576018800561" group-title="STIRR Tv",STIRR | Silk Stalkings
-#commenthttps://dai.google.com/linear/hls/event/8ZYru1fgSY6JL1Ejb6T5Ag/master.m3u8
-#comment#EXTINF:-1 tvg-chno="5035" tvg-id="Hell's Kitchen" tvg-name="Hell's Kitchen" tvg-logo="https://ott-gateway.sinclairstoryline.com/optimized/90/e9486527-1ffc-4031-8b91-c954076365f8-small3x1_stirr_1219_epg_hellskitchen_1920x1080.png?1576017232739" group-title="STIRR Tv",STIRR | Hell's Kitchen
-#commenthttps://sinclair-prod.apigee.net/pemediator/29647b12-693b-41b2-a3c6-484cdda32e7e.m3u8
-#comment#EXTINF:-1 tvg-chno="5036" tvg-id="Kitchen Nightmares" tvg-name="Kitchen Nightmares" tvg-logo="https://ott-gateway.sinclairstoryline.com/optimized/90/d3fa0a6c-3f76-46e0-b4d6-5039ee16f5a3-small3x1_stirr_1219_epg_kitchennightmares_1920x1080.png?1576017630826" group-title="STIRR Tv",STIRR | Kitchen Nightmares
-#commenthttps://sinclair-prod.apigee.net/pemediator/0fdaaae4-1e80-4ea3-ba68-c9b0137233d9.m3u8
-#comment#EXTINF:-1 tvg-chno="5037" tvg-id="Whose Line Is It Anyway" tvg-name="Whose Line Is It Anyway" tvg-logo="https://ott-gateway.sinclairstoryline.com/optimized/90/ed57e0b9-7f78-4203-a1d9-b0f542ca856a-small3x1_stirr_1219_epg_whoselineisitanyway_1920x1080.png?1576020729645" group-title="STIRR Tv",STIRR | Whose Line Is It Anyway
-#commenthttps://dai.google.com/linear/hls/event/SYob3ZZfTwyVW7LILC9ckw/master.m3u8
-#comment#EXTINF:-1 tvg-chno="5038" tvg-id="Laurel - Hardy" tvg-name="Laurel - Hardy" tvg-logo="https://ott-gateway.sinclairstoryline.com/optimized/90/b26179ed-d63c-41c0-a422-a2a9cbeb52f4-small3x1_stirr_0120_epg_LaurelandHardy_1920x1080.png?1578423603199" group-title="STIRR Tv",STIRR | Laurel & Hardy
-#commenthttps://dai.google.com/linear/hls/event/uDdlFsS2S1CqcUkd7KGu4Q/master.m3u8
-#comment#EXTINF:-1 tvg-chno="5039" tvg-id="Beverly Hillbillies" tvg-name="Beverly Hillbillies" tvg-logo="https://ott-gateway.sinclairstoryline.com/optimized/90/2855ccff-6344-45e2-a8d0-54982f399f5c-small3x1_stirr_0120_epg_TheBeverlyHillbillies_1920x1080.png?1579123142323" group-title="STIRR Tv",STIRR | Beverly Hillbillies
-#commenthttps://dai.google.com/linear/hls/event/TEeUv9DbStyK8DyFmG3Cfw/master.m3u8
-#comment#EXTINF:-1 tvg-chno="5040" tvg-id="The Lucy Show" tvg-name="The Lucy Show" tvg-logo="https://ott-gateway.sinclairstoryline.com/optimized/90/dbd51b97-8863-49a7-b6cf-f092f4676cf4-small3x1_stirr_0120_epg_TheLucyShow_1920x1080.png?1578423652951" group-title="STIRR Tv",STIRR | The Lucy Show
-#commenthttps://dai.google.com/linear/hls/event/-s-FtbzrQCaLMDSyM0ejyw/master.m3u8
-#comment#EXTINF:-1 tvg-chno="5041" tvg-id="Bonanza" tvg-name="Bonanza" tvg-logo="https://ott-gateway.sinclairstoryline.com/optimized/90/3385dd03-f70f-42e3-b1e6-98b8b5078a8c-small3x1_stirr_0120_epg_Bonanza_1920x1080.png?1579110328947" group-title="STIRR Tv",STIRR | Bonanza
-#commenthttps://dai.google.com/linear/hls/event/LeVr-Z0_Q4qMDdXx7zr22w/master.m3u8
-#comment#EXTINF:-1 tvg-chno="5042" tvg-id="The Lone Ranger" tvg-name="The Lone Ranger" tvg-logo="https://ott-gateway.sinclairstoryline.com/optimized/90/37204910-429a-4e1a-8c8d-eeb697ae5c62-small3x1_stirr_0120_epg_TheLoneRanger_1920x1080_v3.png?1578433844690" group-title="STIRR Tv",STIRR | The Lone Ranger
-#commenthttps://dai.google.com/linear/hls/event/dRKvXuioSv-e5T65yR_7Ow/master.m3u8
-#comment#EXTINF:-1 tvg-chno="5043" tvg-id="The Adventures of Sherlock Holmes" tvg-name="The Adventures of Sherlock Holmes" tvg-logo="https://ott-gateway.sinclairstoryline.com/optimized/90/8f0ba0f2-e3aa-45ca-bc7c-26d2e4cc79d9-small3x1_stirr_0120_epg_Sherlock_1920x1080.png?1579110243579" group-title="STIRR Tv",STIRR | The Adventures of Sherlock Holmes
-#commenthttps://dai.google.com/linear/hls/event/fMcxjP7ORACGFsBvi7ZhAg/master.m3u8
-#comment#EXTINF:-1 tvg-chno="5044" tvg-id="Real People" tvg-name="Real People" tvg-logo="https://ott-gateway.sinclairstoryline.com/optimized/90/61d8a775-ee54-406e-ab70-828eff54bad8-small3x1_stirr_0120_epg_RealPeople_1920x1080.png?1578423922550" group-title="STIRR Tv",STIRR | Real People
-#commenthttps://dai.google.com/linear/hls/event/RoiVzG-4TJiJMSVUatDd4A/master.m3u8
-#EXTINF:-1 tvg-chno="5045" tvg-id="STIRR | movies" tvg-name="STIRR | movies" tvg-logo="https://ott-gateway.sinclairstoryline.com/optimized/90/5fd662e5-864f-4739-a6ec-67f00b2d95c7-small3x1_stirr_1219_epg_stirrmovies_1920x1080.png?1576019523553" group-title="STIRR Tv",STIRR | movies
-https://dai.google.com/linear/hls/event/f-zA7b21Squ7M1_sabGfjA/master.m3u8
-
-#EXTINF:-1 group-title="STIRR Tv",STIRR TV Mix (720p)
-https://dai.google.com/linear/hls/event/ZP8ZMv95Q0Gm9EiyYOGHAA/master.m3u8
-
-#EXTINF:-1 group-title="STIRR Tv",STIRR City Los Angeles (720p)
-https://dai.google.com/linear/hls/event/n3PVAFmPTJSVYjdSVf7XZw/master.m3u8
-
-#EXTINF:-1 group-title="STIRR Tv",STIRR | Star Movies (720p)
-https://sonar.sinclair.wurl.com/manifest/playlist.m3u8
-
-#comment#EXTINF:-1 tvg-chno="5046" tvg-id="STIRR Comedy " tvg-name="STIRR Comedy " tvg-logo="https://ott-gateway.sinclairstoryline.com/optimized/90/990dca91-04c1-4795-b958-75339be1d01e-small3x1_stirr_1219_epg_stirrcomedy_1920x1080.png?1576019348381" group-title="STIRR Tv",STIRR |  Comedy 
-#commenthttps://dai.google.com/linear/hls/event/dGP9Z-PNRPCgGQSDEzxqYg/master.m3u8
-#EXTINF:-1 tvg-chno="5047" tvg-id="STIRR Cine House" tvg-name="STIRR Cine House" tvg-logo="https://ott-gateway.sinclairstoryline.com/optimized/90/0a9b36ef-1240-47c1-a7e6-5ed04648ad72-small3x1_stirr_1219_epg_stirrhorror_1920x1080.png?1576019461774" group-title="STIRR Tv",STIRR |  CineHouse
-#commenthttps://dai.google.com/linear/hls/event/3P6eoQ_ARgeofjgKUyVI6w/master.m3u8
-https://dai.google.com/linear/hls/event/28oUp4GcQ-u49U4_jjC4Iw/master.m3u8
-#EXTINF:-1 tvg-chno="5048" tvg-id="STIRR Westerns" tvg-name="STIRR Westerns" tvg-logo="https://ott-gateway.sinclairstoryline.com/optimized/90/51ae9480-f6ae-4c26-9518-b32bd8aa99e5-small3x1_stirr_1219_epg_stirrwesterns_1920x1080.png?1576020337739" group-title="STIRR Tv",STIRR |  Westerns
-https://dai.google.com/linear/hls/event/YF2jfXh_QROPxoHEwp1Abw/master.m3u8
-#comment#EXTINF:-1 tvg-chno="5049" tvg-id="STIRR Black Cinema" tvg-name="STIRR Black Cinema" tvg-logo="https://ott-gateway.sinclairstoryline.com/optimized/90/9625f6a4-43d3-46c2-a87a-8592261c0996-small3x1_stirr_1219_epg_stirrblackcinema_1920x1080.png?1576019266683" group-title="STIRR Tv",STIRR | Black Cinema
-#commenthttps://dai.google.com/linear/hls/event/9WuQ_LseR12mMx2-QW41XQ/master.m3u8
-#EXTINF:-1 tvg-chno="5050" tvg-id="Film Detective" tvg-name="Film Detective" tvg-logo="https://ott-gateway.sinclairstoryline.com/optimized/90/8b882761-8e2a-41f5-b715-9dce3741aa49-small3x1_stirr_0120_epg_TheFilmDetective_1920x1080.png?1578423407605" group-title="STIRR Tv",STIRR | Film Detective
-https://dai.google.com/linear/hls/event/OYH9J7rZSK2fabKXWAYcfA/master.m3u8
-#EXTINF:-1 tvg-chno="5051" tvg-id="The Asylum" tvg-name="The Asylum" tvg-logo="https://ott-gateway.sinclairstoryline.com/optimized/90/928ad78f-cfec-4334-bd53-0aa8da0c2041-small3x1_stirr_1219_epg_theasylum_1920x1080.png?1576020379335" group-title="STIRR Tv",STIRR | The Asylum
-https://dai.google.com/linear/hls/event/2r7F3DThT-C5YW21CUuGLQ/master.m3u8
-#EXTINF:-1 tvg-chno="5052" tvg-id="CineLife" tvg-name="CineLife" tvg-logo="https://ott-gateway.sinclairstoryline.com/optimized/90/b69e56d9-8aac-4cff-94e2-4d848cd44ead-small3x1_stirr_0120_epg_CineLife_1920x1080.png?1581472857610" group-title="STIRR Tv",STIRR | CineLife
-https://dai.google.com/linear/hls/event/PFJ1Jhd6SsSMcu3qq86wzQ/master.m3u8
-#EXTINF:-1 tvg-chno="5053" tvg-id="Filmrise Free Movies" tvg-name="Filmrise Free Movies" tvg-logo="https://ott-gateway.sinclairstoryline.com/optimized/90/dca5effb-f654-41c7-8f52-ae71b86b6511-small3x1_stirr_1219_epg_filmrisefreemovies_1920x1080.png?1576016561638" group-title="STIRR Tv",Filmrise Free Movies
-https://dai.google.com/linear/hls/event/Va1QEor0SWO_x_SQNyaF0w/master.m3u8
-#EXTINF:-1 tvg-chno="5054" tvg-id="Gravitas" tvg-name="Gravitas" tvg-logo="https://ott-gateway.sinclairstoryline.com/optimized/90/b042bace-ff67-4f2b-8676-6d8877f746b4-small3x1_stirr_1219_epg_gravitasmovies_1920x1080.png?1576017158638" group-title="STIRR Tv",STIRR | Gravitas
-https://dai.google.com/linear/hls/event/EpqgwRlpQKq73ySVSohJWA/master.m3u8
-#EXTINF:-1 tvg-chno="5055" tvg-id="Movie Mix" tvg-name="Movie Mix" tvg-logo="https://ott-gateway.sinclairstoryline.com/optimized/90/7dfc8d97-0c37-40f0-b251-5eacf509d891-small3x1_stirr_1219_epg_moviemix_1920x1080.png?1576017989167" group-title="STIRR Tv",STIRR | Movie Mix
-https://dai.google.com/linear/hls/event/TSIJo6RCRZWuCD9WrKtRFg/master.m3u8
-#comment#EXTINF:-1 tvg-chno="5056" tvg-id="STIRR Biographies" tvg-name="STIRR Biographies" tvg-logo="https://ott-gateway.sinclairstoryline.com/optimized/90/c4e67151-bef0-42f2-8305-02f242ea1543-small3x1_stirr_0120_epg_STIRRBiographies_1920x1080.png?1578423358252" group-title="STIRR Tv",STIRR | Biographies
-#commenthttps://dai.google.com/linear/hls/event/OzhtmoTQQjSNOimI6ikGCQ/master.m3u8
-#EXTINF:-1 tvg-chno="5057" tvg-id="Docurama" tvg-name="Docurama" tvg-logo="https://ott-gateway.sinclairstoryline.com/optimized/90/64e1e4f2-5aa5-49d8-bd74-a692313d0473-small3x1_stirr_0120_epg_Docurama_1920x1080.png?1578423444816" group-title="STIRR Tv",STIRR | Docurama
-https://dai.google.com/linear/hls/event/Hx_PEMEsSzOCcZgy0Tq2YQ/master.m3u8
-#EXTINF:-1 tvg-chno="5058" tvg-id="MagellanTV" tvg-name="MagellanTV" tvg-logo="https://ott-gateway.sinclairstoryline.com/optimized/90/8719b6b1-9dbd-4661-8a30-c351bbf91219-small3x1_stirr_0120_epg_MagellanTV_1920x1080.png?1578681205301" group-title="STIRR Tv",MagellanTV
-https://dai.google.com/linear/hls/event/5xreV3X4T9WxeIbrwOmdMA/master.m3u8
-#comment#EXTINF:-1 tvg-chno="5059" tvg-id="InWonder" tvg-name="InWonder" tvg-logo="https://ott-gateway.sinclairstoryline.com/optimized/90/e67f56ca-97c0-4830-9e28-57c559d94dfd-small3x1_STIRR_Logo_0320_INWonder_1920x1080_EPG.png?1584560577155" group-title="STIRR Tv",STIRR | InWonder
-#commenthttps://dai.google.com/linear/hls/event/QiQc47LCQDep-t9pkaGIVg/master.m3u8
-#EXTINF:-1 tvg-chno="5060" tvg-id="Big Life " tvg-name="Big Life " tvg-logo="https://ott-gateway.sinclairstoryline.com/optimized/90/d461a675-af3d-41c9-8c78-aecec5fe80ab-small3x1_stirr_1219_epg_biglifetv_1920x1080.png?1576010373482" group-title="STIRR Tv",STIRR | Big Life 
-https://biglife.sinclair.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 tvg-chno="5061" tvg-id="Glewed TV" tvg-name="Glewed TV" tvg-logo="https://ott-gateway.sinclairstoryline.com/optimized/90/89b390bb-1351-4f08-82dd-a8b9dca9c33a-small3x1_stirr_1219_epg_glewedtv_1920x1080.png?1576017136005" group-title="STIRR Tv",STIRR | Glewed TV
-https://dai.google.com/linear/hls/event/ChWV1GupQOWE92uG4DvbkQ/master.m3u8
-#comment#EXTINF:-1 tvg-chno="5062" tvg-id="STIRR Fit" tvg-name="STIRR Fit" tvg-logo="https://ott-gateway.sinclairstoryline.com/optimized/90/1514a022-e768-4276-a25e-1646d37a6f12-small3x1_stirr_0120_epg_stirr_fit_1920x1080.png?1583440072558" group-title="STIRR Tv",STIRR | Fit
-#commenthttps://dai.google.com/linear/hls/event/ZidoyK28TXyMRTZU7rFuEQ/master.m3u8
-#comment#EXTINF:-1 tvg-chno="5063" tvg-id="STIRR Travel" tvg-name="STIRR Travel" tvg-logo="https://ott-gateway.sinclairstoryline.com/optimized/90/2adc9fb0-a8dd-4fc4-ac6e-9287f54c37e9-small3x1_STIRR_Logo_0320_STIRRTravel_1920x1080_EPG.png?1584561994673" group-title="STIRR Tv",STIRR | Travel
-#commenthttps://dai.google.com/linear/hls/event/0ZXyCbn9TYmrrAzcDfoU1w/master.m3u8
-#comment#EXTINF:-1 tvg-chno="5064" tvg-id="STIRR Cooks" tvg-name="STIRR Cooks" tvg-logo="https://ott-gateway.sinclairstoryline.com/optimized/90/d2379062-d570-4ce6-ad7d-a31417eb5b27-small3x1_STIRR_Logo_0320_STIRRCooks_1920x1080_EPG.png?1584561963680" group-title="STIRR Tv",STIRR | Cooks
-#commenthttps://dai.google.com/linear/hls/event/CHaUZsCfSyS2CVF7I-NktA/master.m3u8
-#EXTINF:-1 tvg-chno="5065" tvg-id="Gusto" tvg-name="Gusto" tvg-logo="https://ott-gateway.sinclairstoryline.com/optimized/90/2be3bd47-2b8b-4bb4-83d2-924f59a261e3-small3x1_STIRR_Logo_0320_GustoTV_1920x1080_EPG.png?1584560371730" group-title="STIRR Tv",STIRR | Gusto
-https://dai.google.com/linear/hls/event/tdSCy5u2R5WtCLXX4NwDtg/master.m3u8
-#EXTINF:-1 tvg-chno="5066" tvg-id="Truly" tvg-name="Truly" tvg-logo="https://ott-gateway.sinclairstoryline.com/optimized/90/ed531a2a-04cd-4845-a419-cc46ed05333b-small3x1_STIRR_Logo_0320_Truly_1920x1080_EPG.png?1584562091344" group-title="STIRR Tv",STIRR | Truly
-https://dai.google.com/linear/hls/event/Xu-I6qGiSTKeu6glzS4BtQ/master.m3u8
-#EXTINF:-1 tvg-chno="5067" tvg-id="Insight TV" tvg-name="Insight TV" tvg-logo="https://ott-gateway.sinclairstoryline.com/optimized/90/4c370dd2-0e81-4cab-9369-cfac5e55fcc6-small3x1_STIRR_Logo_0320_InsightTV_1920x1080_EPG.png?1584560498545" group-title="STIRR Tv",STIRR | Insight TV
-https://dai.google.com/linear/hls/event/KAfBFcVrQgKmHhpzvkEn9A/master.m3u8
-#EXTINF:-1 tvg-chno="5068" tvg-id="Made In Hollywood" tvg-name="Made In Hollywood" tvg-logo="https://ott-gateway.sinclairstoryline.com/optimized/90/30a2f367-97f1-49e2-b9a7-0ae1a859e917-small3x1_STIRR_Logo_0320_MadeInHollywood_1920x1080_EPG.png?1584560950946" group-title="STIRR Tv",STIRR | Made In Hollywood
-https://dai.google.com/linear/hls/event/Mteif75-SJeFi19Sk3-dGQ/master.m3u8
-#EXTINF:-1 tvg-chno="5069" tvg-id="TBD" tvg-name="TBD" tvg-logo="https://ott-gateway.sinclairstoryline.com/optimized/90/00042dc2-f462-42bc-8aaa-cf73828eb0e6-small3x1_stirr_1219_epg_tbd_1920x1080.png?1576020360002" group-title="STIRR Tv",STIRR | TBD
-https://dai.google.com/linear/hls/event/_xtY848OSRCm_k0veSjMHg/master.m3u8
-#EXTINF:-1 tvg-chno="5070" tvg-id="The Pet Collective" tvg-name="The Pet Collective" tvg-logo="https://ott-gateway.sinclairstoryline.com/optimized/90/924f1362-0d11-488e-9644-42a7bae0a5cf-small3x1_stirr_1219_epg_thepetcollective_1920x1080.png?1576020468658" group-title="STIRR Tv",STIRR | The Pet Collective
-https://dai.google.com/linear/hls/event/q0dlRn_xSBGTZYI7vwWWJQ/master.m3u8
-#EXTINF:-1 tvg-chno="5071" tvg-id="FailArmy" tvg-name="FailArmy" tvg-logo="https://ott-gateway.sinclairstoryline.com/optimized/90/3d50d31f-5b81-4560-b7a7-16bcf6a6fb5a-small3x1_stirr_1219_epg_failarmy_1920x1080.png?1576016422969" group-title="STIRR Tv",STIRR | FailArmy
-https://dai.google.com/linear/hls/event/7tuuoX1wSsCTaki1HqJFYw/master.m3u8
-#comment#EXTINF:-1 tvg-chno="5072" tvg-id="STIRR | sports" tvg-name="STIRR | sports" tvg-logo="https://ott-gateway.sinclairstoryline.com/optimized/90/a43594d1-364b-4e0c-8647-0d117973a641-small3x1_stirr_1219_epg_stirrsports_1920x1080.png?1576019645577" group-title="STIRR Tv",STIRR | sports
-#commenthttps://dai.google.com/linear/hls/event/1B2yihdIR1mCL63rXzERag/master.m3u8
-#EXTINF:-1 tvg-chno="5073" tvg-id="Stadium " tvg-name="Stadium " tvg-logo="https://ott-gateway.sinclairstoryline.com/optimized/90/b4e26296-be68-4e3d-beda-04e81f4d34ee-small3x1_stirr_1219_epg_stadium_1920x1080.png?1576018965230" group-title="STIRR Tv",STIRR | Stadium 
-https://dai.google.com/linear/hls/event/0jRU1DBXSW6a_TFheLfAUQ/master.m3u8
-#EXTINF:-1 tvg-chno="5074" tvg-id="The T" tvg-name="The T" tvg-logo="https://ott-gateway.sinclairstoryline.com/optimized/90/887ab420-6923-4600-b1ed-3cba74db10fd-small3x1_STIRR_Logo_0320_TheT_1920x1080_EPG.png?1584562044540" group-title="STIRR Tv",STIRR | The T
-https://playoutengine.sinclairstoryline.com/playout/9f87522c-5a0e-4ff4-b82c-d5564216132f.m3u8
-#EXTINF:-1 tvg-chno="5075" tvg-id="SportsGrid" tvg-name="SportsGrid" tvg-logo="https://ott-gateway.sinclairstoryline.com/optimized/90/b4765251-26e4-48e8-a5ad-f96d8a1eec77-small3x1_STIRR_Logo_0320_SportsGrid_1920x1080_EPG.png?1584561904816" group-title="STIRR Tv",STIRR | SportsGrid
-https://dai.google.com/linear/hls/event/9FKrAqCfRvGfn3tPbVFO-g/master.m3u8
-#EXTINF:-1 tvg-chno="5076" tvg-id="World Poker Tour" tvg-name="World Poker Tour" tvg-logo="https://ott-gateway.sinclairstoryline.com/optimized/90/8b115727-b06f-4259-8a9f-1163d81b955d-small3x1_STIRR_Logo_0320_WorldPokerTour_1920x1080_EPG.png?1584652964461" group-title="STIRR Tv",STIRR | World Poker Tour
-https://dai.google.com/linear/hls/event/V7AWGB66R3avQhuIFaxmjw/master.m3u8
-#comment#EXTINF:-1 tvg-chno="5077" tvg-id="Combat Go" tvg-name="Combat Go" tvg-logo="https://ott-gateway.sinclairstoryline.com/optimized/90/849f3b26-39dd-4f9d-b902-96006dfd5517-small3x1_stirr_1219_epg_combatgo_1920x1080.png?1576010585863" group-title="STIRR Tv",STIRR | Combat Go
-#commenthttps://dai.google.com/linear/hls/event/gaDje967RoSDD5llid2OBA/master.m3u8
-#EXTINF:-1 tvg-chno="5078" tvg-id="Whistle TV" tvg-name="Whistle TV" tvg-logo="https://ott-gateway.sinclairstoryline.com/optimized/90/2cbf9983-6f7c-49f0-8343-416f93d9e8ed-small3x1_STIRR_Logo_0320_WhistleTV_1920x1080_EPG.png?1584562166124" group-title="STIRR Tv",Whistle TV
-https://dai.google.com/linear/hls/event/Wu11mwhnTKGNhwZimEK6Jg/master.m3u8
-#EXTINF:-1 tvg-chno="5079" tvg-id="Choppertown" tvg-name="Choppertown" tvg-logo="https://ott-gateway.sinclairstoryline.com/optimized/90/7b1c655c-1037-4372-884f-97b8921ac8d2-small3x1_STIRR_Logo_0320_Choppertown_1920x1080_EPG.png?1584566957241" group-title="STIRR Tv",STIRR | Choppertown
-https://dai.google.com/linear/hls/event/N3c94WZQQq2fruixzfcCUQ/master.m3u8
-#EXTINF:-1 tvg-chno="5080" tvg-id="Outdoor America" tvg-name="Outdoor America" tvg-logo="https://ott-gateway.sinclairstoryline.com/optimized/90/da15753d-c536-4b71-956f-265192b5f74e-small3x1_STIRR_Logo_0320_OutdoorAmerica_1920x1080_EPG.png?1584561371881" group-title="STIRR Tv",STIRR | Outdoor America
-https://dai.google.com/linear/hls/event/WB-7LjdsRVm0wVoLZjR8mA/master.m3u8
-#EXTINF:-1 tvg-chno="5081" tvg-id="Outside TV" tvg-name="Outside TV" tvg-logo="https://ott-gateway.sinclairstoryline.com/optimized/90/5814c8b2-9479-4d54-90e7-797a4e89578b-small3x1_STIRR_Logo_0320_OutsideTV_1920x1080_EPG.png?1584561411516" group-title="STIRR Tv",STIRR | Outside TV
-https://dai.google.com/linear/hls/event/HJAq3zH1SUy_B6fb1j80_Q/master.m3u8
-#EXTINF:-1 tvg-chno="5082" tvg-id="EDGESport" tvg-name="EDGESport" tvg-logo="https://ott-gateway.sinclairstoryline.com/optimized/90/9661e155-c5b8-43f3-9e1c-0e87cb75ae94-small3x1_STIRR_Logo_0320_EdgeSport_1920x1080_EPG.png?1584560029899" group-title="STIRR Tv",STIRR | EDGESport
-https://dai.google.com/linear/hls/event/d4zeSI-dTuqizFrByjs3OA/master.m3u8
-#comment#EXTINF:-1 tvg-chno="5083" tvg-id="InTrouble" tvg-name="InTrouble" tvg-logo="https://ott-gateway.sinclairstoryline.com/optimized/90/e5b6171b-31bd-4ae7-98c0-10bbf9589f70-small3x1_STIRR_Logo_0320_INTrouble_1920x1080_EPG.png?1584560535302" group-title="STIRR Tv",STIRR | InTrouble
-#commenthttps://dai.google.com/linear/hls/event/_af28lUaQjuoPhfAU_BYQA/master.m3u8
-#comment#EXTINF:-1 tvg-chno="5084" tvg-id="ESRevolution" tvg-name="ESRevolution" tvg-logo="https://ott-gateway.sinclairstoryline.com/optimized/90/3e896322-56cd-4017-81aa-84d8962455fb-small3x1_STIRR_Logo_0320_ESR24x7eSportsChannel_1920x1080_EPG.png?1584560246873" group-title="STIRR Tv",STIRR | ESRevolution
-#commenthttps://dai.google.com/linear/hls/event/7-91LhuBQNONHzAbrFQr-Q/master.m3u8
-#comment#EXTINF:-1 tvg-chno="5085" tvg-id="Mobcrush" tvg-name="Mobcrush" tvg-logo="https://ott-gateway.sinclairstoryline.com/optimized/90/ee4d67e0-234a-4e68-a174-a2f40654482a-small3x1_STIRR_Logo_0320_Mobcrush_1920x1080_EPG.png?1584561255597" group-title="STIRR Tv",STIRR | Mobcrush
-#commenthttps://dai.google.com/linear/hls/event/LGDVXxxyT8SxrL4-ZodxKw/master.m3u8
-#comment#EXTINF:-1 tvg-chno="5086" tvg-id="STIRR Music" tvg-name="STIRR Music" tvg-logo="https://ott-gateway.sinclairstoryline.com/optimized/90/4401089e-ca2f-440c-918b-0628369b6b18-small3x1_stirr_1219_epg_stirrmusic_1920x1080.png?1576019574472" group-title="STIRR Tv",STIRR | Music
-#commenthttps://dai.google.com/linear/hls/event/_e1csFnJR6W6y056PyiG6A/master.m3u8
-#comment#EXTINF:-1 tvg-chno="5087" tvg-id="Baeble Music" tvg-name="Baeble Music" tvg-logo="https://ott-gateway.sinclairstoryline.com/optimized/90/21481f0f-1ca5-46f5-9488-9f28d0bb7153-small3x1_STIRR_Logo_0320_BAEBLEMusic_1920x1080_EPG.png?1584559703482" group-title="STIRR Tv",STIRR | Baeble Music
-#commenthttps://dai.google.com/linear/hls/event/HuoWULBBQFKJalbtsd7qPw/master.m3u8
-#comment#EXTINF:-1 tvg-chno="5088" tvg-id="Hallypop" tvg-name="Hallypop" tvg-logo="https://ott-gateway.sinclairstoryline.com/optimized/90/5ff731ca-b389-4f24-84ca-c5a722a28308-small3x1_STIRR_Logo_0320_Hallypop_1920x1080_EPG.png?1584560424812" group-title="STIRR Tv",STIRR | Hallypop
-#commenthttps://dai.google.com/linear/hls/event/ctGD-E18Q0-3WScFd_tK5w/master.m3u8
-#EXTINF:-1 tvg-chno="5089" tvg-id="Stingray Holiday Hits" tvg-name="Stingray Holiday Hits" tvg-logo="https://ott-gateway.sinclairstoryline.com/optimized/90/518a9541-fade-45ec-9d64-5b0a65806270-small3x1_stirr_1219_epg_stingraygreatesthits_1920x1080.png?1577988417815" group-title="STIRR Tv",Stingray Holiday Hits
-https://ott-linear-channels.stingray.com/hls/stirr/155.m3u8
-#EXTINF:-1 tvg-chno="5090" tvg-id="Stingray Hit List" tvg-name="Stingray Hit List" tvg-logo="https://ott-gateway.sinclairstoryline.com/optimized/90/d35ab388-cc91-4070-876d-b5c48d989a60-small3x1_stirr_1219_epg_singrayhitlist_1920x1080.png?1576018854758" group-title="STIRR Tv",STIRR | Stingray Hit List
-https://ott-linear-channels.stingray.com/hls/stirr/107.m3u8
-#EXTINF:-1 tvg-chno="5091" tvg-id="Stingray Classic Rock" tvg-name="Stingray Classic Rock" tvg-logo="https://ott-gateway.sinclairstoryline.com/optimized/90/dcf6dea4-94f1-49c2-8387-82569dde9f45-small3x1_stirr_1219_epg_singrayclassicrock_1920x1080.png?1576018821210" group-title="STIRR Tv",STIRR | Stingray Classic Rock
-https://ott-linear-channels.stingray.com/hls/stirr/101.m3u8
-#EXTINF:-1 tvg-chno="5092" tvg-id="Stingray Rock Alternative" tvg-name="Stingray Rock Alternative" tvg-logo="https://ott-gateway.sinclairstoryline.com/optimized/90/3e8a1140-98e8-4d84-8b2f-5d83b4795114-small3x1_stirr_1219_epg_singrayrockalternative_1920x1080.png?1576018871967" group-title="STIRR Tv",STIRR | Stingray Rock Alternative
-https://ott-linear-channels.stingray.com/hls/stirr/102.m3u8
-#EXTINF:-1 tvg-chno="5093" tvg-id="Stingray Pop Adult" tvg-name="Stingray Pop Adult" tvg-logo="https://ott-gateway.sinclairstoryline.com/optimized/90/f7fe1378-d4a8-434e-8c1a-d7e001560404-small3x1_stirr_1219_epg_stingraypopadult_1920x1080.png?1576019053417" group-title="STIRR Tv",STIRR | Stingray Pop Adult
-https://ott-linear-channels.stingray.com/hls/stirr/104.m3u8
-#EXTINF:-1 tvg-chno="5094" tvg-id="Stingray Urban Beats" tvg-name="Stingray Urban Beats" tvg-logo="https://ott-gateway.sinclairstoryline.com/optimized/90/ff4d4fdb-205a-48b0-bc7e-94e6720e912f-small3x1_stirr_1219_epg_stingrayurbanbeats_1920x1080.png?1576019208528" group-title="STIRR Tv",STIRR | Stingray Urban Beats
-https://ott-linear-channels.stingray.com/hls/stirr/133.m3u8
-#EXTINF:-1 tvg-chno="5095" tvg-id="Stingray Hot Country" tvg-name="Stingray Hot Country" tvg-logo="https://ott-gateway.sinclairstoryline.com/optimized/90/d2dac750-5e2b-4107-a037-6467fca68e93-small3x1_stirr_1219_epg_stingrayhotcountry_1920x1080.png?1576019037933" group-title="STIRR Tv",Stingray Hot Country
-https://ott-linear-channels.stingray.com/hls/stirr/108.m3u8
-#EXTINF:-1 tvg-chno="5096" tvg-id="Stingray Flashback 70s" tvg-name="Stingray Flashback 70s" tvg-logo="https://ott-gateway.sinclairstoryline.com/optimized/90/4b83571f-2374-4e84-a27b-e772b0c94c51-small3x1_stirr_1219_epg_stingrayflashback70s_1920x1080.png?1576019005861" group-title="STIRR Tv",STIRR | Stingray Flashback 70s
-https://ott-linear-channels.stingray.com/hls/stirr/115.m3u8
-#EXTINF:-1 tvg-chno="5097" tvg-id="Stingray Everything 80s" tvg-name="Stingray Everything 80s" tvg-logo="https://ott-gateway.sinclairstoryline.com/optimized/90/90d2dbf6-a533-4cc1-b1a3-6196c40efb16-small3x1_STIRR_LOGO_0220_StingrayEverything80s_1920x1080_EPG.png?1580836781979" group-title="STIRR Tv",STIRR | Stingray Everything 80s
-https://ott-linear-channels.stingray.com/hls/stirr/128.m3u8
-#EXTINF:-1 tvg-chno="5098" tvg-id="Stingray Today's Latin Pop" tvg-name="Stingray Today's Latin Pop" tvg-logo="https://ott-gateway.sinclairstoryline.com/optimized/90/1d4b80d4-de29-4929-98d5-a81f1e9a42d7-small3x1_stirr_1219_epg_stingraytodayslatinpop_1920x1080.png?1576019170065" group-title="STIRR Tv",STIRR | Stingray Today's Latin Pop
-https://ott-linear-channels.stingray.com/hls/stirr/190.m3u8
-#EXTINF:-1 tvg-chno="5099" tvg-id="Qello" tvg-name="Qello" tvg-logo="https://ott-gateway.sinclairstoryline.com/optimized/90/12ed14eb-8a1b-472c-8aad-9469ed715cc4-small3x1_STIRR_LOGO_0120_Quello_EPG_1920x1080.png?1579915555928" group-title="STIRR Tv",Qello
-https://dai.google.com/linear/hls/event/BakMHO8xRSmGKYeiyhsq3A/master.m3u8
-#EXTINF:-1 tvg-chno="5100" tvg-id="Karaoke" tvg-name="Karaoke" tvg-logo="https://ott-gateway.sinclairstoryline.com/optimized/90/1bfafc55-f71a-48d3-bb7a-ed701a47d4bb-small3x1_stirr_1219_epg_StingrayKaraoke_1920x1080.png?1576626487736" group-title="STIRR Tv",STIRR | Karaoke
-https://dai.google.com/linear/hls/event/5bqbG8j7T_6_qMONC1SDsg/master.m3u8
-#EXTINF:-1 tvg-chno="5101" tvg-id="Ambiance" tvg-name="Ambiance" tvg-logo="https://ott-gateway.sinclairstoryline.com/optimized/90/9ea2d23c-e498-41ec-9a1a-2aa45d05e43a-small3x1_STIRR_Logo_0120_StingrayNaturescape_EPG_1920x1080_v2.png?1580513201342" group-title="STIRR Tv",STIRR | Ambiance
-https://dai.google.com/linear/hls/event/6RPZlzksTCyB1euPqLcBZQ/master.m3u8
-#EXTINF:-1 tvg-chno="5102" tvg-id="SOAR" tvg-name="SOAR" tvg-logo="https://ott-gateway.sinclairstoryline.com/optimized/90/2b6ed67f-5284-4622-8594-a956633c8383-small3x1_stirr_1219_epg_soartv_1920x1080.png?1576018898622" group-title="STIRR Tv",STIRR | SOAR
-https://dai.google.com/linear/hls/event/_PDxBUttQYqkxPnmh3VOZA/master.m3u8
-
-#EXTINF:-1 tvg-id="PlutoTV21JumpStreet.us" tvg-name="Pluto TV 21 Jump Street" tvg-country="US" tvg-language="English" tvg-logo="https://images.pluto.tv/channels/5d4af00df345adb154b7a1f4/colorLogoPNG.png" group-title="",Pluto TV 21 Jump Street
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5d4af00df345adb154b7a1f4/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 #EXTINF:-1 tvg-id="70sCinema.us" tvg-name="70s Cinema" tvg-country="US" tvg-language="English" tvg-logo="http://images.pluto.tv/channels/5f4d878d3d19b30007d2e782/colorLogoPNG.png" group-title="",Pluto TV 70s Cinema
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f4d878d3d19b30007d2e782/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 #EXTINF:-1 tvg-id="80sRewind.us" tvg-name="80s Rewind" tvg-country="US" tvg-language="English" tvg-logo="http://images.pluto.tv/channels/5ca525b650be2571e3943c63/colorLogoPNG.png" group-title="",Pluto TV 80s Rewind
@@ -2676,4 +1886,11 @@ http://143.244.60.30/TBS/index.m3u8
 #EXTINF:-1 group-title="The Roku Channel",BBC America East (720p)
 https://bcovlive-a.akamaihd.net/4e7f273ae0a04ad6b7d2e543df61e362/us-west-2/6240731308001/playlist.m3u8
 
-
+#EXTINF:-1 group-title="The Roku Channel",CBS WTSPDT (720p)
+https://cbsplaylistserver.aws.syncbak.com/mpl/20160401/859169/5743360/media.m3u8?CMCD=mtp=9500,ot=m,sf=h,sid="4e546942-2006-495c-a946-06b8f3a0faca"&request_token=qvU7-FK2v-GKFp6gT19Ca6OGg-7v2h3rb7CH8dJb24xGNa9SybZzeslmzXfSuKr8yvmFHpHArbAEAylrbjN8plkYyR_E_ONwoEO5VbCnWRbPltjgakUcV3v7Ap37IjAJykCk5YrCty_Hx7AsXhusoGCdNFX5UwEk7oT3u6_r2xG4QXk
+#EXTINF:-1 group-title="The Roku Channel",FOX East (WFXT) (720p)
+http://143.244.60.30/FOX_EAST/index.m3u8
+#EXTINF:-1 group-title="The Roku Channel",Disney Channel (720p)
+https://fl5.moveonjoy.com/DISNEY_CHANNEL/index.m3u8
+#EXTINF:-1 group-title="The Roku Channel",Disney XD (720p)
+https://fl5.moveonjoy.com/DISNEY_XD/index.m3u8

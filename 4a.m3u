@@ -2777,4 +2777,12 @@ http://143.244.60.30/TBS/index.m3u8
 #EXTINF:-1 group-title="The Roku Channel",BBC America East (720p)
 https://bcovlive-a.akamaihd.net/4e7f273ae0a04ad6b7d2e543df61e362/us-west-2/6240731308001/playlist.m3u8
 
+#EXTINF:-1 group-title="The Roku Channel",CBS WTSPDT (720p)
+https://cbsplaylistserver.aws.syncbak.com/mpl/20160401/859169/5743360/media.m3u8?CMCD=mtp=9500,ot=m,sf=h,sid="4e546942-2006-495c-a946-06b8f3a0faca"&request_token=qvU7-FK2v-GKFp6gT19Ca6OGg-7v2h3rb7CH8dJb24xGNa9SybZzeslmzXfSuKr8yvmFHpHArbAEAylrbjN8plkYyR_E_ONwoEO5VbCnWRbPltjgakUcV3v7Ap37IjAJykCk5YrCty_Hx7AsXhusoGCdNFX5UwEk7oT3u6_r2xG4QXk
+#EXTINF:-1 group-title="The Roku Channel",FOX East (WFXT) (720p)
+http://143.244.60.30/FOX_EAST/index.m3u8
+#EXTINF:-1 group-title="The Roku Channel",Disney Channel (720p)
+https://fl5.moveonjoy.com/DISNEY_CHANNEL/index.m3u8
+#EXTINF:-1 group-title="The Roku Channel",Disney XD (720p)
+https://fl5.moveonjoy.com/DISNEY_XD/index.m3u8
 
