@@ -19,9 +19,9 @@ https://cloudflare.streamgato.us:3413/live/telecaribehdlive.m3u8
 #commenthttps://cdn4.hostlagarto.com:8081/static/canal18hd/playlist.m3u8
 https://rdn.essastream.com:3400/live/canal18hdlive.m3u8
 
-#EXTINF:-1 group-title="MOVIES", NEXT TV
+#comment#EXTINF:-1 group-title="MOVIES", NEXT TV
 #commenthttps://streaming.ath.cx:1936/nextv/nextv/playlist.m3u8
-https://vdo1.streamgato.us:3474/live/nextvhdlive.m3u8
+#commenthttps://vdo1.streamgato.us:3474/live/nextvhdlive.m3u8
 
 #EXTINF:-1 group-title="MOVIES",TELEVISON DEL ESTE
 #commenthttps://cm.hostlagarto.com:4445/ESTV/estv.myStream/playlist.m3u8
@@ -63,15 +63,11 @@ https://streaming.telecablecentral.com.do/Vallevision/ValleHD/playlist.m3u8
 https://tv.ghtelevision.com:3018/live/ghtelevisionlive.m3u8
 #EXTINF:-1 group-title="MOVIES",Telemax (1080p)
 https://vdo2.streamgato.us:3673/live/telemaxlive.m3u8
-#EXTINF:-1 group-title="MOVIES",Telemedio Digital TV [Not 24/7]
-https://mlb.essastream.com:8081/telemediodigital/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="MOVIES",Telemetro TV [Not 24/7]
 https://streamunoapp.com:3366/live/telemetrolive.m3u8
 
 #EXTINF:-1 group-title="MOVIES",GDMTV (720p) [Not 24/7]
 https://vdo2.streamgato.us:3216/live/gdmtvlive.m3u8
-#comment#EXTINF:-1 group-title="MOVIES",MEGA TV
-#commenthttps://vdo1.streamgato.us:3711/live/megatvlive.m3u8
 #EXTINF:-1 group-title="MOVIES",MEGA CINE TV
 https://cloudflare.streamgato.us:3125/live/megacinetvlive.m3u8
 #comment#EXTINF:-1 group-title="MOVIES",CLARO TV DOM
@@ -87,10 +83,8 @@ https://vdo1.streamgato.us:3345/live/telenord12live.m3u8
 #EXTINF:-1 group-title="MOVIES",Microvision 10 (720p) [Not 24/7]
 #commenthttp://190.103.183.24:1935/live/MicroHD/playlist.m3u8
 https://streaming.telecablecentral.com.do/live/MicroHD/playlist.m3u8
-#EXTINF:-1 group-title="MOVIES",Canal Sol (720p)
-https://5790d294af2dc.streamlock.net/sol65/sol65/playlist.m3u8
-#EXTINF:-1 group-title="MOVIES",Mega TV
-https://vdo1.streamgato.us:3711/live/megatvlive.m3u8
+#comment#EXTINF:-1 group-title="MOVIES",Canal Sol (720p)
+#commenthttps://5790d294af2dc.streamlock.net/sol65/sol65/playlist.m3u8
 #EXTINF:-1 group-title="MOVIES",Megavision Canal 43 (480p) [Not 24/7]
 https://server2grupocam.com/megavision/MV/playlist.m3u8
 #EXTINF:-1 group-title="MOVIES",Megavisión TV (480p)
@@ -103,19 +97,16 @@ http://51.81.93.29:8084/hls/d15.m3u8
 #EXTINF:-1 group-title="MOVIES",OxiTV (720p) [Not 24/7]
 https://streamunoapp.com:3520/live/oxitvcanal36live.m3u8
 
-#EXTINF:-1 group-title="MOVIES",Nitida TV (480p) [Not 24/7]
-https://ed18ov.live.opencaster.com/bznudxxdtppv/index.m3u8
-#EXTINF:-1 group-title="MOVIES",Vegavisión Canal 18 (720p)
-https://rdn.essastream.com:3400/live/canal18hdlive.m3u8
-
 #EXTINF:-1 group-title="MOVIES",Cana TV Digital (720p) [Not 24/7]
 https://stream.hostuis.com:19360/canatvdigital/canatvdigital.m3u8
 #EXTINF:-1 group-title="MOVIES",Canal America TV (720p)
 http://newyorkstream.ddns.net:5854/enlacecanalamerica/encoderRD/playlist.m3u8
 #EXTINF:-1 group-title="MOVIES",Cáscara TV
-https://ss3.domint.net:3144/ctv_str/cascaratv/playlist.m3u8
+#commenthttps://ss3.domint.net:3144/ctv_str/cascaratv/playlist.m3u8
+https://ss2.tvrdomi.com:1936/cascaratv/cascaratv/playlist.m3u8
 #EXTINF:-1 group-title="MOVIES",Cítrico TV (240p)
-https://cdn4.hostlagarto.com:8081/static/citricotv/playlist.m3u8
+#commenthttps://cdn4.hostlagarto.com:8081/static/citricotv/playlist.m3u8
+https://rdn.essastream.com:3996/live/citricotvlive.m3u8
 #EXTINF:-1 group-title="MOVIES",COCO TV (720p)
 https://cloudflare.streamgato.us:3253/live/canalcocotvlive.m3u8
 #EXTINF:-1 group-title="MOVIES",EStylo TV (720p)
@@ -135,21 +126,22 @@ https://cdn.streamingcpanel.com:3526/live/teleraiceslive.m3u8
 https://inliveserver.com:1936/digital809tv/digital809tv/playlist.m3u8
 
 #EXTINF:-1 group-title="MOVIES",Telefuturo
-https://ss9.domint.net:3054/tf_str/telefuturo/playlist.m3u8
+#commenthttps://ss9.domint.net:3054/tf_str/telefuturo/playlist.m3u8
+http://190.110.36.254/TELEFUTURO/index.m3u8
 
 #EXTINF:-1 group-title="MOVIES",TV Canela
 https://cloudflare.streamgato.us:3953/live/canelatvlive.m3u8
 
 
 #EXTINF:-1 group-title="MOVIES",LUNA TV
-#commenthttps://cdn3.streamgato.us:3797/live/lunatvlive.m3u8
-https://ss2.domint.net:3228/luna_str/lunatv/playlist.m3u8
+https://tv.wracanal10.com:3671/live/lunatvcanal53live.m3u8
+#commenthttps://ss2.domint.net:3228/luna_str/lunatv/playlist.m3u8
 #EXTINF:-1 group-title="MOVIES",CANAL 6
-https://cdn4.hostlagarto.com/static/canal6tv/playlist.m3u8
+https://streaming.telecablecentral.com.do/ReadyTV/ReadyHD/playlist.m3u8
 #EXTINF:-1 group-title="MOVIES",CANAL56
-https://cdn5.streamgato.us:3371/live/canal56live.m3u8
+https://vdopanel.jlahozconsulting.com/p/3124/hybrid/play.m3u8
 #EXTINF:-1 group-title="MOVIES",TELEORIENTAL
-https://stream-us-east-1.getpublica.com/playlist.m3u8
+https://vdo1.streamgato.us:3592/live/teleorientaldigitallive.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4kX1baN.png" group-title="MOVIES",Azteca 7
 #commenthttps://dai.google.com/linear/hls/event/YHoOj51dSKCvBQOBG2OvLQ/master.m3u8
