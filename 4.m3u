@@ -1886,11 +1886,56 @@ http://143.244.60.30/TBS/index.m3u8
 #EXTINF:-1 group-title="The Roku Channel",BBC America East (720p)
 https://bcovlive-a.akamaihd.net/4e7f273ae0a04ad6b7d2e543df61e362/us-west-2/6240731308001/playlist.m3u8
 
-#EXTINF:-1 group-title="The Roku Channel",CBS WTSPDT (720p)
-https://cbsplaylistserver.aws.syncbak.com/mpl/20160401/859169/5743360/media.m3u8?CMCD=mtp=9500,ot=m,sf=h,sid="4e546942-2006-495c-a946-06b8f3a0faca"&request_token=qvU7-FK2v-GKFp6gT19Ca6OGg-7v2h3rb7CH8dJb24xGNa9SybZzeslmzXfSuKr8yvmFHpHArbAEAylrbjN8plkYyR_E_ONwoEO5VbCnWRbPltjgakUcV3v7Ap37IjAJykCk5YrCty_Hx7AsXhusoGCdNFX5UwEk7oT3u6_r2xG4QXk
-#EXTINF:-1 group-title="The Roku Channel",FOX East (WFXT) (720p)
-http://143.244.60.30/FOX_EAST/index.m3u8
-#EXTINF:-1 group-title="The Roku Channel",Disney Channel (720p)
-https://fl5.moveonjoy.com/DISNEY_CHANNEL/index.m3u8
-#EXTINF:-1 group-title="The Roku Channel",Disney XD (720p)
-https://fl5.moveonjoy.com/DISNEY_XD/index.m3u8
+
+
+
+#EXTINF:-1 group-title="The Roku Channel",WZTV-DT1 FOX
+https://fl1.moveonjoy.com/TN_Nashville_FOX/index.m3u8
+#EXTINF:-1 group-title="The Roku Channel",WWOR-DT1 my 9(576i) [Geo-blocked]
+http://restream-live.realiptv.to:8080/live/19742329/27604387/2476.m3u8
+#EXTINF:-1 group-title="The Roku Channel",WTXF-DT1 FOX
+https://fl1.moveonjoy.com/PA_PHILADELPHIA_FOX/index.m3u8
+#EXTINF:-1 group-title="The Roku Channel",WTVJ-DT1 NBC
+https://fl1.moveonjoy.com/FL_Miami_NBC/index.m3u8
+#EXTINF:-1 tvg-id="WTVJDT1.us@SD",WTVJ-DT1 NBC
+https://streamer2.nexgen.bz/NBC/index.m3u8
+#EXTINF:-1 tvg-id="DisneyChannel.us@East",Disney Channel
+https://moveonjoy-scan.vercel.app/api/scan?url=https://fl25.moveonjoy.com/DISNEY/index.m3u8
+#EXTINF:-1 tvg-id="MGMPlusMarquee.us@SD",MGM+ Marquee
+https://fl1.moveonjoy.com/EPIX_2/index.m3u8
+#EXTINF:-1 tvg-id="MGMPlusDriveIn.us",MGM+ Drive-In
+https://fl1.moveonjoy.com/EPIX_DRIVE_IN/index.m3u8
+#EXTINF:-1 tvg-id="Nickelodeon.us@East",Nickelodeon
+http://23.237.104.106:8080/USA_NICKELODEON/index.m3u8
+#EXTINF:-1 tvg-id="NickelodeonLatinAmerica.us@Panregional",Nickelodeon Latin America (720p)
+http://179.51.136.19:8000/play/a0q4/index.m3u8
+#EXTINF:-1 tvg-id="Nicktoons.us@East",NickToons (720p)
+http://143.244.60.30/NICKTOONS/index.m3u8
+#EXTINF:-1 tvg-id="KYWDT1.us@SD",KYW-DT1 CBS
+https://fl1.moveonjoy.com/PA_PHILADELPHIA_CBS/index.m3u8
+#EXTINF:-1 tvg-id="KNBCDT1.us@SD",KNBC-DT1 (1080p)
+https://nbculocallive.akamaized.net/hls/live/2037084/losangeles/stream1/master.m3u8
+#EXTINF:-1 tvg-id="WABCDT1.us@SD",WABC-DT1 (720p)
+https://moveonjoy-scan.vercel.app/api/scan?url=https://fl25.moveonjoy.com/ABC_EAST/index.m3u8
+#EXTINF:-1 tvg-id="WCAUDT1.us@SD",WCAU-DT1
+https://fl1.moveonjoy.com/PA_PHILADELPHIA_NBC/index.m3u8
+#EXTINF:-1 tvg-id="WEDWDT1.us@SD",WEDW-DT1 (720p) PBS [Geo-blocked]
+http://restream-live.realiptv.to:8080/live/19742329/27604387/629545.m3u8
+#EXTINF:-1 tvg-id="WTMOCD1.us@SD",WTMO-CD1 TELEMUNDO
+https://dvrfl03.bozztv.com/hondu-telexitos/index.m3u8
+#EXTINF:-1 tvg-id="WTVJDT1.us@HD",WTVJ-DT1 NBC
+https://fl1.moveonjoy.com/FL_Miami_NBC/index.m3u8
+#EXTINF:-1 tvg-id="WTVJDT1.us@SD",WTVJ-DT1 NBC
+https://streamer2.nexgen.bz/NBC/index.m3u8
+#EXTINF:-1 tvg-id="WTXFDT1.us@SD",WTXF-DT1 FOX
+https://fl1.moveonjoy.com/PA_PHILADELPHIA_FOX/index.m3u8
+#EXTINF:-1 tvg-id="WZTVDT1.us@SD",WZTV-DT1 FOX
+https://fl1.moveonjoy.com/TN_Nashville_FOX/index.m3u8
+
+
+
+
+
+
+
+
