@@ -1,17 +1,10 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-id="I46.1.29020.zap2it.com" tvg-name="46.1 WKLEDT" tvg-type="live" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/PBS.png?raw=true"group-title="THE_BEST_KIDS_TV",EPG | PBS | KET
-#commenthttps://2-fss-1.streamhoster.com/pl_134/amlst:200914-1282960/playlist.m3u8?DVR
 https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8
-
-#comment#EXTINF:-1 tvg-id="I46.4.30551.zap2it.com" tvg-name="46.4 WKLEDT4" tvg-type="live" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/PBS-Kids_625x625.png?raw=true" group-title="THE_BEST_KIDS_TV",EPG | PBS Kids | KET
-#commenthttps://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8?DVR
-
 
 #EXTINF:-1 group-title="THE_BEST_KIDS_TV",PBS KET2 (720p)
 https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1315484/playlist.m3u8
-#comment#EXTINF:-1 group-title="THE_BEST_KIDS_TV",PBS KET KY (480p)
-#commenthttps://2-fss-2.streamhoster.com/pl_132/amlst:200914-1315486/playlist.m3u8
 #EXTINF:-1 group-title="THE_BEST_KIDS_TV",EPG | PBS | KET_KY
 https://2-fss-2.streamhoster.com/pl_132/amlst:200914-1315486/playlist.m3u8
 #EXTINF:-1 group-title="THE_BEST_KIDS_TV",PBS KET Louisville KY (WKMJ-TV) (720p)
@@ -19,61 +12,16 @@ https://2-fss-1.streamhoster.com/pl_134/amlst:200914-1282960/playlist.m3u8
 #EXTINF:-1 group-title="THE_BEST_KIDS_TV",WMPT-DT2 (PBS Create)
 https://2-fss-1.streamhoster.com/pl_122/amlst:201814-2122456/playlist.m3u8
 
-#comment#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/PBS.png?raw=true" group title="THE_BEST_KIDS_TV",PBS | WPSU
-#commenthttps://ssc4.wpsu.psu.edu/WPSU_LLStream/ngrp:WPSU1_720max/playlist.m3u8
-
-#comment#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/tvoKIDS_235x235.png?raw=true" group title="THE_BEST_KIDS_TV",tvo KIDS
-#commenthttps://bcsecurelivehls-i.akamaihd.net/hls/live/623607/15364602001/tvokids/master.m3u8
-
-#comment#EXTINF:-1 group-title="THE_BEST_KIDS_TV",tvo KIDS2
-#commenthttps://manifest.googlevideo.com/api/manifest/hls_variant/expire/1658957835/ei/q1vhYrP2NInpugL8y7bYDQ/ip/2806%3A103e%3Ad%3Ad3f4%3A845d%3A71f2%3Aca2e%3Ae42/id/nIhbO89W1GE.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/lT-Khkg5aPsoMfkR73dc9Boq8qYQJVk/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIgHEX7C1TETfhTENap0TpI2dq3HRrrhUAgKMrxUK7oSNMCIQD5qe3uiCzi4kt-MgtkWnqtiukLK_estFQoJhECiYn6wA%3D%3D/file/index.m3u8
-
-
 #EXTINF:-1 group-title="THE_BEST_KIDS_TV",PBS Kids Eastern/Central (1080p)
 #commenthttps://livestream.pbskids.org/out/v1/1e3d77b418ad4a819b3f4c80ac0373b5/est.m3u8
 https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8
 
-#comment#EXTINF:-1 group-title="THE_BEST_KIDS_TV",PBS Kids Hawaii (1080p)
-#commenthttps://livestream.pbskids.org/out/v1/19d1d62bf61b4aea9ec20f83b6450a4e/hast.m3u8
-
-#comment#EXTINF:-1 tvg-id="" group-title="THE_BEST_KIDS_TV",PBS Kids San Diego (KPBS-DT4) (432p)
-#commenthttps://cdn87.theus6tv.tk/locals/SanDiego/kpbs-dt4.m3u8
-
-#comment#EXTINF:-1 group-title="THE_BEST_KIDS_TV",PBS Kids Mountain (KAET-DT4) (1080p)
-#commenthttps://livestream.pbskids.org/out/v1/00a3b9014fa54c40bee6ca68a104a8a4/mst.m3u8
-
-#comment#EXTINF:-1 group-title="THE_BEST_KIDS_TV", PBS Kids Alaska (1080p)
-#commenthttps://livestream.pbskids.org/out/v1/2963202df0c142c69b5254a546473308/akst.m3u8
-
-#comment#EXTINF:-1 group-title="THE_BEST_KIDS_TV",PBS Kids Pacific (1080p)
-#commenthttps://livestream.pbskids.org/out/v1/c707b9310f2848de849b336f9914adbc/pst.m3u8
-
-
-#comment#EXTINF:-1 group-title="THE_BEST_KIDS_TV",ABC Kids (720p) [Not 24/7]
-#commenthttps://c.mjh.nz/101002210222
 #EXTINF:-1 group-title="THE_BEST_KIDS_TV",ABC ME (720p)
 #commenthttps://c.mjh.nz/101002210224
 https://c.mjh.nz/abc-me.m3u8
 
 #EXTINF:-1 group-title="THE_BEST_KIDS_TV",ABC PLUS (720p)
 https://c.mjh.nz/abc-tv-plus.m3u8
-
-#comment#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/tvoKIDS_235x235.png?raw=true" group-title="THE_BEST_KIDS_TV",CBBC
-#commenthttps://bozztv.com/36bay2/gin/giniko_bbcthree_900kb_36bay2/index.m3u8
-#commenthttps://gintna100.tulix.tv/gin_live/bbcthree/3bc331fa8e31c73400aefbe2e7aa9d41/6045095a/index.m3u8
-#commenthttps://gintna100.tulix.tv/gin_live/bbcthree/55403b7faf0984a6c5ee96efd01827f8/6054290f/index.m3u8
-#commenthttps://gintna100.tulix.tv/gin_live/bbcthree/5dbb9c419f0ed8614123529ae3360032/606b6d94/index.m3u8
-#commenthttps://gintna100.tulix.tv/gin_live/bbcthree/db535f7891029280ab094fd4bff08356/606e70f6/index.m3u8
-#commenthttps://gintna100.tulix.tv/gin_live/bbcthree/adce2b7612cb1f228a719f0317e1cf71/612702e5/index.m3u8
-
-#comment#EXTINF:-1 tvg-id="CBeebies UK" tvg-name="CBeebies UK" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/16/CBeebies.svg/640px-CBeebies.svg.png" tvg-country="UK" tvg-url="" group-title="THE_BEST_KIDS_TV",Cbeebies
-#commenthttp://51.52.156.22:8888/http/003
-
-#comment#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/tvoKIDS_235x235.png?raw=true" group-title="THE_BEST_KIDS_TV",CBBC opt2
-#commenthttps://bozztv.com/36bay2/gin/giniko_bbcthree_900kb_36bay2/tracks-v1a1/mono.m3u8
-
-#comment#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/tvoKIDS_235x235.png?raw=true" group-title="THE_BEST_KIDS_TV",Kabillion opt2
-#commenthttps://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxkabillion/CDN/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://pluto.tv.s3.amazonaws.com/channels/5ca673e0d0bd6c2689c94ce3/featuredImage.jpg" group-title="KIDS_TV",Nick
 https://stitcher.pluto.tv/stitch/hls/channel/5ca673e0d0bd6c2689c94ce3/master.m3u8?deviceId=cfe94b00-2178-4be3-9807-ea6b44f14a09&deviceVersion=80.0.3987.106&appVersion=5.6.0-05e6d11bfce7210bc262d7e9f2a96fc738b8ad86&deviceType=web&deviceMake=Chrome&sid=b21723ea-fade-4f00-b391-565f0326fe9e&deviceDNT=0&deviceModel=Chrome
@@ -1886,7 +1834,48 @@ http://143.244.60.30/TBS/index.m3u8
 #EXTINF:-1 group-title="The Roku Channel",BBC America East (720p)
 https://bcovlive-a.akamaihd.net/4e7f273ae0a04ad6b7d2e543df61e362/us-west-2/6240731308001/playlist.m3u8
 
-
+#EXTINF:-1 group-title="The Roku Channel",BBC News Europe
+https://dash2.antik.sk/live/test_bbc_world/playlist.m3u8
+#EXTINF:-1 group-title="The Roku Channel",English Club TV
+https://dash2.antik.sk/live/test_ectv_hd_1200/playlist.m3u8
+#EXTINF:-1 group-title="The Roku Channel",BBC Four/CBeebies (1080p)
+https://viamotionhsi.netplus.ch/live/eds/bbc4cbeebies/browser-HLS8/bbc4cbeebies.m3u8
+#EXTINF:-1 group-title="The Roku Channel",BBC Four/CBeebies
+https://viamotionhsi.netplus.ch/live/eds/bbc4cbeebies/browser-dash/bbc4cbeebies.mpd
+#EXTINF:-1 group-title="The Roku Channel",BBC News Europe
+https://viamotionhsi.netplus.ch/live/eds/bbcworld/browser-HLS8/bbcworld.m3u8
+#EXTINF:-1 group-title="The Roku Channel",BBC Three/CBBC (1080p)
+https://viamotionhsi.netplus.ch/live/eds/bbc3cbbc/browser-HLS8/bbc3cbbc.m3u8
+#EXTINF:-1 group-title="The Roku Channel",BBC Three/CBBC
+https://viamotionhsi.netplus.ch/live/eds/bbc3cbbc/browser-dash/bbc3cbbc.mpd
+#EXTINF:-1 group-title="The Roku Channel",BBC Two HD (1080p)
+https://viamotionhsi.netplus.ch/live/eds/bbc2/browser-HLS8/bbc2.m3u8
+#EXTINF:-1 group-title="The Roku Channel",BBC Two HD
+https://viamotionhsi.netplus.ch/live/eds/bbc2/browser-dash/bbc2.mpd
+#EXTINF:-1 group-title="The Roku Channel",Channel 4 UK HD (1080p)
+https://viamotionhsi.netplus.ch/live/eds/channel4/browser-HLS8/channel4.m3u8
+#EXTINF:-1 group-title="The Roku Channel",Channel 4 UK HD
+https://viamotionhsi.netplus.ch/live/eds/channel4/browser-dash/channel4.mpd
+#EXTINF:-1 group-title="The Roku Channel",Channel 5 HD (1080p)
+https://viamotionhsi.netplus.ch/live/eds/channel5/browser-HLS8/channel5.m3u8
+#EXTINF:-1 group-title="The Roku Channel",Channel 5 HD
+https://viamotionhsi.netplus.ch/live/eds/channel5/browser-dash/channel5.mpd
+#EXTINF:-1 group-title="The Roku Channel",Film4 HD (1080p)
+https://viamotionhsi.netplus.ch/live/eds/film4/browser-HLS8/film4.m3u8
+#EXTINF:-1 group-title="The Roku Channel",Film4 HD
+https://viamotionhsi.netplus.ch/live/eds/film4/browser-dash/film4.mpd
+#EXTINF:-1 group-title="The Roku Channel",ITV2
+https://viamotionhsi.netplus.ch/live/eds/itv2/browser-HLS8/itv2.m3u8
+#EXTINF:-1 group-title="The Roku Channel",ITV2
+https://viamotionhsi.netplus.ch/live/eds/itv2/browser-dash/itv2.mpd
+#EXTINF:-1 group-title="The Roku Channel",ITV3 (1080p)
+https://viamotionhsi.netplus.ch/live/eds/itv3/browser-HLS8/itv3.m3u8
+#EXTINF:-1 group-title="The Roku Channel",ITV3
+https://viamotionhsi.netplus.ch/live/eds/itv3/browser-dash/itv3.mpd
+#EXTINF:-1 group-title="The Roku Channel",ITV4 (1080p)
+https://viamotionhsi.netplus.ch/live/eds/itv4/browser-HLS8/itv4.m3u8
+#EXTINF:-1 group-title="The Roku Channel",ITV4
+https://viamotionhsi.netplus.ch/live/eds/itv4/browser-dash/itv4.mpd
 
 
 #EXTINF:-1 group-title="The Roku Channel",WZTV-DT1 FOX
@@ -1897,45 +1886,38 @@ http://restream-live.realiptv.to:8080/live/19742329/27604387/2476.m3u8
 https://fl1.moveonjoy.com/PA_PHILADELPHIA_FOX/index.m3u8
 #EXTINF:-1 group-title="The Roku Channel",WTVJ-DT1 NBC
 https://fl1.moveonjoy.com/FL_Miami_NBC/index.m3u8
-#EXTINF:-1 tvg-id="WTVJDT1.us@SD",WTVJ-DT1 NBC
+#EXTINF:-1 group-title="The Roku Channel",WTVJ-DT1 NBC
 https://streamer2.nexgen.bz/NBC/index.m3u8
-#EXTINF:-1 tvg-id="DisneyChannel.us@East",Disney Channel
+#EXTINF:-1 group-title="The Roku Channel",Disney Channel
 https://moveonjoy-scan.vercel.app/api/scan?url=https://fl25.moveonjoy.com/DISNEY/index.m3u8
-#EXTINF:-1 tvg-id="MGMPlusMarquee.us@SD",MGM+ Marquee
+#EXTINF:-1 group-title="The Roku Channel",MGM+ Marquee
 https://fl1.moveonjoy.com/EPIX_2/index.m3u8
-#EXTINF:-1 tvg-id="MGMPlusDriveIn.us",MGM+ Drive-In
+#EXTINF:-1 group-title="The Roku Channel",MGM+ Drive-In
 https://fl1.moveonjoy.com/EPIX_DRIVE_IN/index.m3u8
-#EXTINF:-1 tvg-id="Nickelodeon.us@East",Nickelodeon
+#EXTINF:-1 group-title="The Roku Channel",Nickelodeon
 http://23.237.104.106:8080/USA_NICKELODEON/index.m3u8
-#EXTINF:-1 tvg-id="NickelodeonLatinAmerica.us@Panregional",Nickelodeon Latin America (720p)
+#EXTINF:-1 group-title="The Roku Channel",Nickelodeon Latin America (720p)
 http://179.51.136.19:8000/play/a0q4/index.m3u8
-#EXTINF:-1 tvg-id="Nicktoons.us@East",NickToons (720p)
+#EXTINF:-1 group-title="The Roku Channel",NickToons (720p)
 http://143.244.60.30/NICKTOONS/index.m3u8
-#EXTINF:-1 tvg-id="KYWDT1.us@SD",KYW-DT1 CBS
+#EXTINF:-1 group-title="The Roku Channel",KYW-DT1 CBS
 https://fl1.moveonjoy.com/PA_PHILADELPHIA_CBS/index.m3u8
-#EXTINF:-1 tvg-id="KNBCDT1.us@SD",KNBC-DT1 (1080p)
+#EXTINF:-1 group-title="The Roku Channel",KNBC-DT1 (1080p)
 https://nbculocallive.akamaized.net/hls/live/2037084/losangeles/stream1/master.m3u8
-#EXTINF:-1 tvg-id="WABCDT1.us@SD",WABC-DT1 (720p)
+#EXTINF:-1 group-title="The Roku Channel",WABC-DT1 (720p)
 https://moveonjoy-scan.vercel.app/api/scan?url=https://fl25.moveonjoy.com/ABC_EAST/index.m3u8
-#EXTINF:-1 tvg-id="WCAUDT1.us@SD",WCAU-DT1
+#EXTINF:-1 group-title="The Roku Channel",WCAU-DT1
 https://fl1.moveonjoy.com/PA_PHILADELPHIA_NBC/index.m3u8
-#EXTINF:-1 tvg-id="WEDWDT1.us@SD",WEDW-DT1 (720p) PBS [Geo-blocked]
+#EXTINF:-1 group-title="The Roku Channel",WEDW-DT1 (720p) PBS [Geo-blocked]
 http://restream-live.realiptv.to:8080/live/19742329/27604387/629545.m3u8
-#EXTINF:-1 tvg-id="WTMOCD1.us@SD",WTMO-CD1 TELEMUNDO
+#EXTINF:-1 group-title="The Roku Channel",WTMO-CD1 TELEMUNDO
 https://dvrfl03.bozztv.com/hondu-telexitos/index.m3u8
-#EXTINF:-1 tvg-id="WTVJDT1.us@HD",WTVJ-DT1 NBC
+#EXTINF:-1 group-title="The Roku Channel",WTVJ-DT1 NBC
 https://fl1.moveonjoy.com/FL_Miami_NBC/index.m3u8
-#EXTINF:-1 tvg-id="WTVJDT1.us@SD",WTVJ-DT1 NBC
+#EXTINF:-1 group-title="The Roku Channel",WTVJ-DT1 NBC
 https://streamer2.nexgen.bz/NBC/index.m3u8
-#EXTINF:-1 tvg-id="WTXFDT1.us@SD",WTXF-DT1 FOX
+#EXTINF:-1 group-title="The Roku Channel",WTXF-DT1 FOX
 https://fl1.moveonjoy.com/PA_PHILADELPHIA_FOX/index.m3u8
-#EXTINF:-1 tvg-id="WZTVDT1.us@SD",WZTV-DT1 FOX
+#EXTINF:-1 group-title="The Roku Channel",WZTV-DT1 FOX
 https://fl1.moveonjoy.com/TN_Nashville_FOX/index.m3u8
-
-
-
-
-
-
-
 
